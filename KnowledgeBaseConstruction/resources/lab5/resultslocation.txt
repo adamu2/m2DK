@@ -1,0 +1,6748 @@
+Afghanistan	south asia 
+Angola	africa 
+Argentina	south america 
+Austria	central europe 
+Armenia	caucasus 
+Beijing	republic 
+Belgium	europe 
+Brazil	south america 
+Chinese	china 
+Continent	earth 
+Colchester	english 
+Cuba	caribbean 
+Dublin	republic 
+Denmark	europe 
+Egypt	africa 
+France	europe 
+Finland	northern europe 
+Hawaii	united states 
+Honolulu, Hawaii	u.s. 
+Hawaii Ponoi	hawaii 
+History of Spain	europe 
+Italy	europe 
+Indian	republic 
+India	asia 
+Japan	asia 
+List of countries	india 
+Las Vegas, Nevada	nevada 
+London	england 
+Madrid	spain 
+Montreal	canada 
+New York City, New York	united states 
+People's Republic of China	asia 
+Roman	rome 
+Spain	europe 
+Seville	south 
+Taiwan	republic 
+United Kingdom	europe 
+Vatican City	italy 
+Republic of China	east asia 
+Mexico	north america 
+Germany	europe 
+Catalan language	l'alguer 
+Romania	central europe 
+Greece	southeastern europe 
+Sweden	europe 
+Switzerland	europe 
+Toronto, Ontario	canada 
+Trier	moselle river 
+Turkey	europe 
+Bavaria	germany 
+Rome	italy 
+Cologne	rhine river 
+Luxembourg	europe 
+Baden-W�rttemberg	germany 
+Vienna	austria 
+Peru	south america 
+Munich	germany 
+Berlin	germany 
+Hamburg	hamburg 
+North Rhine-Westphalia	germany 
+Stuttgart	germany 
+Schwerin	mecklenburg-western pomerania 
+Russia	europe 
+Moscow	russia 
+Saarland	germany 
+Iceland	europe 
+Saarbr�cken	saarland 
+Saarlouis	saarland 
+Brandenburg	germany 
+California	united states 
+Los Angeles, California	california 
+Wales	united kingdom 
+Scotland	uk 
+Northern Ireland	united kingdom 
+Everton F.C.	liverpool 
+Essen	north rhine-westphalia 
+Nebraska	united states 
+Basque Country	south-west europe 
+City of London	london 
+City of Westminster	westminster 
+Indonesia	southeast asia 
+Alaska	alaska 
+Brussels	belgium 
+Saxony	saxony 
+Kenya	east africa 
+Norway	europe 
+Albania	southeastern europe 
+Hungary	central europe 
+Netherlands	europe 
+Ukraine	europe 
+Liechtenstein	europe 
+Portugal	europe 
+Slovakia	europe 
+Slovenia	central europe 
+Sheffield	yorkshire 
+South Africa	africa 
+Andorra	spain 
+Hiroshima	japan 
+Mecca	saudi arabia 
+Arctic	earth 
+Biel	switzerland 
+Iran	south asia 
+Ottawa, Ontario	canada 
+Saskatoon	saskatchewan 
+Stockholm	sweden 
+Chile	south america 
+Florida	united states 
+Adelaide	australia 
+Kolkata	west bengal 
+North Korea	korea 
+Estonia	northern europe 
+Cyprus	asia 
+Latvia	northern europe 
+Lithuania	europe 
+Malta	europe 
+Lisbon	portugal 
+Lyon	france 
+Kuala Lumpur	malaysia 
+Tokyo	japan 
+Middle East	asia 
+Warsaw	poland 
+Paris	france 
+Kyoto, Japan	japan 
+Bristol	united kingdom 
+Tuvalu	pacific ocean 
+Victoria, British Columbia	british columbia 
+Melbourne	australia 
+Canberra	australia 
+Sydney	australia 
+American	americas 
+Z�rich City	switzerland 
+C�te d'Ivoire	africa 
+Edinburgh	scotland 
+Trafalgar Square	london 
+Brest (France)	brittany 
+1-1-2	eu 
+Syracuse, New York	u.s. 
+Georgia (U.S. state)	united states 
+Serbia	europe 
+Atlanta, Georgia	georgia 
+Michigan	united states 
+Saxe-Weimar	thuringia 
+Oldham	north west 
+Pakistan	south asia 
+New Zealand	pacific ocean 
+South Korea	east asia 
+Republic of Ireland	europe 
+Vietnam	southeast asia 
+Fort Ouiatenon	indiana 
+Chennai	tamil nadu 
+Mumbai	maharashtra 
+Bangalore	karnataka 
+New Delhi	republic 
+Portsmouth	england 
+Cardiff	wales 
+Valladolid	spain 
+Venice	italy 
+Florence	tuscany 
+Milan	italy 
+Salt Lake City, Utah	united states 
+Nagano	japan 
+Barcelona	spain 
+Texas	united states 
+Prussia	prussia 
+Algeria	north africa 
+Glastonbury	somerset 
+Somerton	somerset 
+Yeovil, Somerset	somerset 
+Bridgwater	somerset 
+Taunton	somerset 
+Shepton Mallet	somerset 
+Bath, Somerset	somerset 
+Wells	somerset 
+Chard (Somerset)	somerset 
+Crewkerne	somerset 
+Ilminster, Somerset	somerset 
+Watchet	somerset 
+Burnham-on-Sea	somerset 
+Clevedon	somerset 
+Weston-super-Mare	north somerset 
+Ankara	turkey 
+Bratislava	slovakia 
+Wellington	new zealand 
+Laos	asia 
+Street (town)	somerset 
+Singapore	asia 
+Johannesburg	south africa 
+Sapporo	hokkaido 
+Trevi	italy 
+Chelmsford	essex 
+Eckernf�rde	schleswig-holstein 
+Edmonton, Alberta	alberta 
+Ariel Sharon	israel 
+Syria	middle east 
+Louisiana	united states 
+Kobe	hyogo 
+Oradea	bihor county 
+Venezuela	south america 
+Saudi Arabia	middle east 
+Colombia	south america 
+Azerbaijan	south caucasus 
+Birmingham	west midlands 
+Richmond, Virginia	virginia 
+Panama	central america 
+Czech Republic	europe 
+Chojn�w	poland 
+Kayseri	turkey 
+Nyngan, New South Wales	south 
+Friesland	friesland 
+Huntingdon	cambridgeshire 
+Osaka	japan 
+Gainesville, Florida	florida 
+Puebla (state)	mexico 
+Arnhem	netherlands 
+Yokohama	japan 
+Rendsburg	schleswig-holstein 
+Hamilton, Ontario	ontario 
+Machu Picchu	peru 
+Duisburg	north rhine-westphalia 
+Washington, D.C.	united states 
+Lisgar Collegiate Institute	ottawa 
+Aberdeen	scotland 
+Glasgow	scotland 
+Scottish Borders	scotland 
+Highland	scotland 
+Dundee	scotland 
+County town	britain 
+Southend-on-Sea	england 
+York	united kingdom 
+Jalisco	mexico 
+Shanghai	china 
+Golden Gate Bridge	california 
+Leicester	midlands 
+Luanda	angola 
+Tunisia	north africa 
+Malaysia	southeast asia 
+Linus Torvalds	finland 
+Alabama Song	mahagonny 
+Annapolis, Maryland	u.s. 
+S�o Paulo	s�o paulo 
+Lebanon	middle east 
+Baghdad	iraq 
+Inca	south america 
+Cannes	alpes-maritimes 
+Leipzig	saxony 
+Poznan	wielkopolska 
+Helsinki	finland 
+Brighton	england 
+Zimbabwe	africa 
+Traverse City, Michigan	lower peninsula 
+Dover, Kent	kent 
+Tonbridge	kent 
+Inverness	scotland 
+Maidstone	kent 
+Riga	latvia 
+Vancouver, British Columbia	columbia 
+Namibia	africa 
+Belize	central america 
+Jyv�skyl�	central finland 
+Belarus	europe 
+Cambodia	southeast asia 
+Sikkim	goa 
+Dresden	free state 
+Detroit, Michigan	michigan 
+Mallaig	scotland 
+Cramlington	northumberland 
+Belfast	northern ireland 
+Prague	republic 
+Bolzano	bolzano-bozen 
+Sealand	north sea 
+Toledo, Ohio	ohio 
+Jerusalem	israel 
+Cornish language	cornwall 
+Bangkok	thailand 
+Torquay	devon 
+Budapest	hungary 
+Santa Monica, California	california 
+Kuwait	middle east 
+Palmdale, California	california 
+Fresno, California	u.s. 
+Boston, Massachusetts	massachusetts 
+Alabama	united states 
+Arizona	united states 
+Bolivia	south america 
+Massachusetts	united states 
+Tallahassee, Florida	u.s. 
+Trossingen	south germany 
+Istanbul	turkey 
+Sopron	hungary 
+Bremen (state)	germany 
+Saxony-Anhalt	germany 
+Erfurt	thuringia 
+Magdeburg	saxony-anhalt 
+Ashford	kent 
+Thurso	scotland 
+Penzance	cornwall 
+Seoul	south korea 
+Boroughs of Berlin	stadtteile 
+Milton Keynes	buckinghamshire 
+Burundi	africa 
+Espoo	finland 
+Algiers	algeria 
+Arles	france 
+Canterbury	kent 
+Huddersfield	england 
+Goa	republic 
+Lansing, Michigan	u.s. 
+Beirut	lebanon 
+Canaan	god 
+The Prince	florence 
+Yarm	north east england 
+Confederate States of America	north america 
+Fiji	pacific ocean 
+Ho Chi Minh City	vietnam 
+Tonga	pacific ocean 
+Hesse	germany 
+Thailand	southeast asia 
+Hoboken, New Jersey	new jersey 
+Chicago, Illinois	illinois 
+Koblenz	rhineland-palatinate 
+Guatemala	central america 
+Potsdam	berlin 
+Bremen	germany 
+Wiesbaden	frankfurt 
+Kiel	germany 
+Motown	detroit 
+Ethiopia	horn 
+Utah	united states 
+Vanuatu	pacific ocean 
+Oslo	norway 
+Maine	united states 
+Samoa	samoa 
+Maharashtra	india 
+Buenos Aires	south american 
+Villeneuve d'Ascq	ascq 
+Andhra Pradesh	republic 
+Wroc?aw	lower silesia 
+El Salvador	central america 
+Oregon	united states 
+Arkansas	united states 
+Madonna (entertainer)	august 
+Sin City	frank miller 
+Uruguay	south america 
+Minnesota	united states 
+Colorado	united states 
+Cairo	egypt 
+Karnataka	republic 
+Calgary, Alberta	alberta 
+Alexandria	egypt 
+Kentucky	united states 
+Montana	united states 
+Sea	caspian sea 
+Tennessee	united states 
+Connecticut	united states 
+Wyoming	united states 
+Delaware	united states 
+Idaho	united states 
+Manila	philippines 
+Minehead	somerset 
+Mexico City	mexico 
+Illinois	united states 
+Seattle, Washington	u.s. 
+Stirling	scotland 
+Denver, Colorado	u.s. 
+Kazakhstan	eurasia 
+Ecuador	south america 
+Orlando, Florida	u.s. 
+Turin	italy 
+Hobart	australia 
+Corinth	greece 
+Tripoli	libya 
+Argos	greece 
+Sparta	greece 
+Olympia	greece 
+Pyrgos	greece 
+Thessaloniki	greece 
+Florina	greece 
+Kastoria	greece 
+Kozani	greece 
+Grevena	greece 
+Trikala	greece 
+Serres	greece 
+Kilkis	greece 
+Chania	chania 
+Xanthi	greece 
+Faya-Largeau	chad 
+Ab�ch�	chad 
+Mongo	chad 
+Pearl Harbor	hawaii 
+Amsterdam	netherlands 
+Paraguay	south america 
+Kiribati	pacific ocean 
+Barbados	caribbean sea 
+Truro	cornwall 
+San Francisco, California	california 
+Croatia	europe 
+El Alamein	egypt 
+Etoumbi	republic 
+Chad	africa 
+Montgomery, Alabama	alabama 
+Omaha, Nebraska	nebraska 
+Toledo, Spain	spain 
+Palo Alto, California	california 
+Everly Brothers	kentucky 
+Laramie, Wyoming	u.s. 
+Liverpool, Merseyside	merseyside 
+Vilnius	lithuania 
+Sacramento, California	u.s. 
+Guyana	south america 
+Tallinn	estonia 
+Regions of Italy	europe 
+Abingdon-on-Thames	england 
+Yeadon	leeds 
+Accrington	lancashire 
+Yateley	england 
+Stratford-upon-Avon	england 
+Pune	india 
+Caracas	venezuela 
+Indiana	united states 
+Swaziland	africa 
+Liberia	west africa 
+Central African Republic	africa 
+Western Sahara	africa 
+Tunis	tunisia 
+Mozambique	africa 
+Maryland	united states 
+Crawley	west sussex 
+Monrovia	liberia 
+Somalia	east africa 
+Costa Rica	central america 
+Wisconsin	united states 
+Tel Aviv	tel aviv-yafo 
+Auckland	new zealand 
+Ghana	west africa 
+Arad, Romania	arad county 
+Coventry	west midlands 
+Nuuk	greenland 
+Sacav�m	portugal 
+Chilcotin Plateau Basalts	british columbia 
+Macei�	alagoas 
+Alagoas	northeast region 
+Tanzania	africa 
+Kingdom of Great Britain	western europe 
+Jakarta	indonesia 
+Stargard Szczeci?ski	pomerania 
+Disney	oklahoma 
+La Jolla, California	san diego 
+San Diego, California	u.s. 
+Iowa	united states 
+Berkeley, California	u.s. 
+Moundou	logone occidental 
+Toad the Wet Sprocket	california 
+New Mexico	united states 
+South Dakota	united states 
+Mersey Beat	liverpool 
+Bhutan	himalaya 
+Bilbao	basque country 
+Tajikistan	asia 
+Frankfort, Kentucky	u.s. 
+New Orleans, Louisiana	louisiana 
+Cleveland, Ohio	ohio 
+Hurricane Katrina	new orleans 
+Nepal	south asia 
+Zagreb	croatia 
+Winnipeg, Manitoba	manitoba 
+Dijon	france 
+Stephen King	maine 
+Lesotho	africa 
+Libya	africa 
+Jordan	middle east 
+Botswana	africa 
+The Gambia	africa 
+Londonderry	northern ireland 
+Oklahoma	central united states 
+Wetzlar	lahn 
+West Virginia	united states 
+Virginia	united states 
+Vermont	united states 
+South Carolina	united states 
+Rhode Island	united states 
+New Hampshire	united states 
+Constantinople	roman empire 
+Georgia (country)	caucasus 
+Miami, Florida	u.s. 
+Eritrea	africa 
+Brisbane	queensland 
+Sudan	africa 
+Perth, Western Australia	australia 
+Reykjav�k	iceland 
+Nairobi	kenya 
+Caribbean	americas 
+Qatar	middle east 
+Coesfeld	north rhine-westphalia 
+Morocco	africa 
+Marlow, Buckinghamshire	river thames 
+Ealing	london borough 
+Uganda	africa 
+Blackpool	lancashire 
+Johnny Rivers	louisiana 
+Copenhagen	denmark 
+Kathmandu	nepal 
+Zambia	africa 
+Benin	africa 
+Dominican Republic	caribbean 
+U.S. state	united states 
+Malmo	sweden 
+Honduras	central america 
+Bangladesh	south asia 
+Yugoslavia	europe 
+Haiti	caribbean 
+Hodgenville, Kentucky	kentucky 
+Bulgaria	south-eastern europe 
+Rwanda	africa 
+Buffalo, New York	u.s. 
+Hertford	hertfordshire 
+Gliwice	poland 
+Wausau, Wisconsin	marathon county 
+Chester	england 
+Victoria, Australia	australia 
+Baltimore, Maryland	u.s. 
+Corpus Christi, Texas	united states 
+Panama Canal	panama 
+Suriname	south america 
+Saint Petersburg	russia 
+Halifax Regional Municipality	nova scotia 
+Quebec City, Quebec	quebec 
+Chino Hills, California	southern california 
+Yukon	alaska 
+Taipei City	republic 
+Kansas City, Missouri	u.s. 
+Cape Town	south africa 
+Tehran	iran 
+Philadelphia, Pennsylvania	u.s. 
+Windsor, Ontario	ontario 
+Minsk	belarus 
+Mysore	karnataka 
+Arnold Schwarzenegger	california 
+St. John's, Newfoundland and Labrador	newfoundland 
+Bochum	ruhr 
+San Juan, Puerto Rico	puerto rico 
+Shrewsbury	shropshire 
+Telford	shropshire 
+Ludlow	shropshire 
+South Shropshire	shropshire 
+Mount St. Helens	washington 
+Exeter	england 
+Lima	peru 
+Mongolia	china 
+Jacksonville, Florida	florida 
+Kunstakademie D�sseldorf	d�sseldorf 
+Aachen	north rhine-westphalia 
+Marburg	hesse 
+Akron, Ohio	u.s. 
+Youngstown, Ohio	mahoning county 
+Dortmund	north rhine-westphalia 
+Niger	africa 
+Brunei	south-east asia 
+Bogot�	colombia 
+Battle Creek, Michigan	michigan 
+Grand Rapids, Michigan	michigan 
+Lagos	nigeria 
+Rapid City, South Dakota	u.s. 
+Jersey City, New Jersey	u.s. 
+San Jose, California	santa clara county 
+Venus, Texas	united states 
+Queens	new york state 
+Newport	wales 
+Gda?sk	poland 
+Malawi	africa 
+Moldova	eastern europe 
+Dhaka	bangladesh 
+Darwin, Northern Territory	northern territory 
+Saginaw, Michigan	usa 
+Juneau, Alaska	u.s. 
+Phoenix, Arizona	u.s. 
+Little Rock, Arkansas	u.s. 
+Hartford, Connecticut	u.s. 
+Dover, Delaware	u.s. 
+Boise, Idaho	u.s. 
+Springfield, Illinois	u.s. 
+Indianapolis, Indiana	u.s. 
+Des Moines, Iowa	u.s. 
+Topeka, Kansas	u.s. 
+Baton Rouge, Louisiana	u.s. 
+Augusta, Maine	u.s. 
+Saint Paul, Minnesota	u.s. 
+Jackson, Mississippi	u.s. 
+Jefferson City, Missouri	missouri 
+Helena, Montana	u.s. 
+Carson City, Nevada	nevada 
+Austin, Texas	u.s. 
+Montpelier, Vermont	u.s. 
+Concord, New Hampshire	u.s. 
+Trenton, New Jersey	u.s. 
+Santa Fe, New Mexico	u.s. 
+Albany, New York	u.s. 
+Raleigh, North Carolina	u.s. 
+Bismarck, North Dakota	u.s. 
+Columbus, Ohio	u.s. 
+Oklahoma City, Oklahoma	u.s. 
+Wichita, Kansas	united states state 
+Casablanca (movie)	casablanca 
+Fleet, Hampshire	hampshire 
+Kansas City	united states 
+Marcha Real	spain 
+Nashville, Tennessee	u.s. 
+Salem, Oregon	oregon 
+Harrisburg, Pennsylvania	pennsylvania 
+Olympia, Washington	washington 
+Providence, Rhode Island	rhode island 
+Columbia, South Carolina	u.s. 
+Pierre, South Dakota	south dakota 
+Charleston, West Virginia	west virginia 
+Madison, Wisconsin	wisconsin 
+Cheyenne, Wyoming	wyoming 
+Peoria, Illinois	illinois river 
+Tijuana	mexico 
+Tampa, Florida	florida 
+Gelsenkirchen	germany 
+Miskolc	hungary 
+Decatur, Illinois	illinois 
+Melilla	north africa 
+Ceuta	north africa 
+Burkina Faso	west africa 
+Pisa	italy 
+Cape Verde	africa 
+Cameroon	africa 
+Guinea-Bissau	africa 
+Djibouti	africa 
+Mauritania	africa 
+Mali	africa 
+Seychelles	ocean 
+Togo	africa 
+Iquitos	loreto region 
+Yale University	connecticut 
+Salzburg, Austria	salzburg 
+Rochester, New York	u.s. 
+Cusco	peru 
+Tacna	peru 
+Nagasaki	kyushu 
+Bay City, Michigan	bay city 
+Republic of the Congo	africa 
+Gabon	africa 
+Sierra Leone	west africa 
+California wine	california 
+Somaliland	africa 
+Mahabad	iran 
+Chahar-cheragh Square	mahabad 
+Verona	veneto 
+Kiev	ukraine 
+Harare	zimbabwe 
+Douala	cameroon 
+Gleiwitz incident	gliwice 
+Havana	cuba 
+Crusinallo	omegna 
+Ishpeming, Michigan	marquette county 
+Valencia	spain 
+Murcia	murcia 
+Zaragoza	aragon 
+Malaga	andalusia 
+Las Palmas de Gran Canaria	canary islands 
+Palma de Mallorca	balearic islands 
+Cordoba	spain 
+Alicante	spain 
+Orihuela	spain 
+Turkmenistan	central asia 
+Talavera de la Reina	spain 
+Ciudad Real	spain 
+Ciudad Real (province)	english 
+Puertollano	spain 
+Granada	granada 
+Cadiz	cadiz 
+Merida	extremadura 
+Cuenca	cuenca 
+Cartagena	murcia 
+Palermo	sicily 
+Bosnia and Herzegovina	europe 
+Republic of Mahabad	republic 
+Getafe	madrid 
+Coral Springs, Florida	united states 
+Myanmar	south asia 
+Amazonas (Brazil)	brazil 
+Manaus	north region 
+Tocantins (state)	brazil 
+Gosport	hampshire 
+Bahasa Indonesia	indonesia 
+Saint Lucia	caribbean sea 
+Tampico	tamaulipas 
+Hawaii Volcanoes National Park	hawaii 
+Qazi Muhammad	middle east 
+Lahti	finland 
+Mexico (state)	m�xico 
+Central Point, Oregon	oregon 
+Namur (city)	belgium 
+Santa Cruz de Tenerife	canary islands 
+Baku	azerbaijan 
+S?upsk	poland 
+Turku	finland 
+Charlie Parker	yardbird 
+Salamanca	spain 
+Serbia and Montenegro	serbia 
+Qaqortoq	greenland 
+Sisimiut	greenland 
+Kabul	afghanistan 
+Dallas, Texas	u.s. 
+Ilulissat	greenland 
+East Timor	southeast asia 
+Country music	united states 
+Iqaluit, Nunavut	nunavut territory 
+Bern (city)	switzerland 
+Uzbekistan	central asia 
+United Arab Emirates	middle east 
+Kerala	republic 
+Coimbatore	tamil nadu 
+Madurai	tamil nadu 
+Assam	hindustan 
+Arunachal Pradesh	republic 
+Bihar	republic 
+Chhattisgarh	republic 
+Gujarat	republic 
+Haryana	republic 
+Himachal Pradesh	republic 
+Jammu and Kashmir	india 
+Jharkhand	republic 
+Madhya Pradesh	republic 
+Manipur	republic 
+Meghalaya	republic 
+Mizoram	republic 
+Nagaland	republic 
+Orissa	republic 
+Punjab (India)	republic 
+Rajasthan	india 
+Tripura	india 
+Uttarakhand	india 
+Uttar Pradesh	india 
+West Bengal	republic 
+Szczecin	poland 
+Bhopal	madhya pradesh 
+Thanjavur	tamil nadu 
+Trichy	tamil nadu 
+Oman	asia 
+Cherokee	ozark 
+Hyderabad, India	andhra pradesh 
+Konstanz	lake constance 
+Manama	bahrain 
+Erode	tamil nadu 
+Thiruvananthapuram	kerala 
+Ulm	germany 
+Kyrgyzstan	central asia 
+Surat	gujarat 
+Kanpur	uttar pradesh 
+Al Ain	united arab emirates 
+Kazan State University	kazan 
+Casablanca	morocco 
+Batman (city)	turkey 
+Czestochowa	poland 
+Berlin Wall	berlin 
+?�d?	poland 
+Krakow	krakow 
+Portland, Oregon	u.s. 
+Republic of Macedonia	balkan 
+Tirana	republic 
+Nayarit	west 
+Bottrop	germany 
+Hanoi	vietnam 
+Chandigarh	india 
+Vicente Piccio, Jr.	philippines 
+Montevideo	uruguay 
+Kazan	tatarstan 
+Bucharest	romania 
+Acre	united states 
+South Vietnam	vietnam 
+Acre (state)	north region 
+Bahia	northeast region 
+Yangon	myanmar 
+Pyinmana	mandalay division 
+Czechoslovakia	europe 
+University of Alabama	alabama 
+Valencia (autonomous community)	valencia 
+Elx	valencia 
+Prypiat, Ukraine	ukraine 
+Chernobyl	ukraine 
+Ulan Bator	mongolia 
+Pyongyang	north korea 
+Kinshasa	republic 
+Missouri Compromise	kentucky 
+Karachi	pakistan 
+Chimbote	ancash region 
+Liver bird	liverpool 
+S�o Paulo (state)	southeast region 
+Kyra Sedgwick	english 
+Rzesz�w	poland 
+Houston, Texas	united states 
+Bangor, Maine	maine 
+St. Petersburg, Florida	u.s. 
+Canada	north america 
+Salem, Tamil Nadu	tamil nadu 
+Wasilla, Alaska	u.s. 
+Rantoul, Illinois	illinois 
+Winter Springs, Florida	florida 
+Fredericton, New Brunswick	new brunswick 
+Clearwater, Florida	florida 
+Sitka, Alaska	southeast alaska 
+Newbridge, County Kildare	county kildare 
+Anaheim, California	united states 
+Khartoum	sudan 
+Mississauga, Ontario	canada 
+Cambridge, Massachusetts	u.s. 
+Columbus, Georgia	u.s. 
+Brockton, Massachusetts	plymouth county 
+Rabat	morocco 
+Overland Park, Kansas	u.s. 
+Bedford	bedfordshire 
+North Holland	netherlands 
+Babylonia	mesopotamia 
+Milwaukee, Wisconsin	wisconsin 
+Bethlehem	west bank 
+Lubbock, Texas	united states 
+South Asia	asia 
+Greenwich Village	manhattan 
+Saint-Di�-des-Vosges	north east 
+Menominee, Michigan	u.s. 
+Brno	republic 
+Spokane, Washington	u.s. 
+G?ucho?azy	poland 
+Whittier, California	los angeles 
+Allies	axis powers 
+Sunderland	sunderland 
+Hafnarfj�rdhur	iceland 
+Bloomington, Illinois	mclean county 
+Fort Collins, Colorado	u.s. 
+Silver Spring, Maryland	maryland 
+Iraq	asia 
+Charlotte, North Carolina	north carolina 
+FSB (Russia)	russia 
+Roseau	caribbean 
+Stuart, Florida	u.s. 
+Astoria, Oregon	oregon 
+Newbury, Berkshire	berkshire 
+Katowice	poland 
+Sioux Falls, South Dakota	u.s. 
+Papua New Guinea	indonesia 
+Roman Forum	rome 
+Leverkusen	cologne 
+Neustadt an der Weinstrasse	rhineland-palatinate 
+Brok	mazowsze voivodship 
+Ostr�w Mazowiecka	ostr�w county 
+Niue	pacific 
+California Institute of Technology	pasadena 
+Sartell, Minnesota	u.s. 
+Bydgoszcz	poland 
+Vientiane	laos 
+Tsukuba	ibaraki prefecture 
+Blackburn	lancashire 
+Lopp Lagoon	alaska 
+Welsh people	united kingdom 
+Montenegro	europe 
+Alton, Illinois	madison county 
+Minneapolis, Minnesota	minnesota 
+St. Louis, Missouri	missouri 
+Sarasota, Florida	west 
+Peekskill, New York	u.s. 
+Ma?kinia G�rna	ostr�w mazowiecka 
+Belgrade	serbia 
+Port Arthur, Tasmania	tasman peninsula 
+Oz�miz	philippines 
+Yarmouth, Nova Scotia	nova scotia 
+Acton, Massachusetts	u.s. 
+Urbana, Illinois	u.s. 
+The Hague	netherlands 
+Bonn	cologne 
+Cambridge	england 
+Shining Rock Wilderness	u.s. 
+Rockville, Virginia	u.s. 
+Lutherstadt Wittenberg	germany 
+Leeds	west yorkshire 
+Neuwied	rhineland-palatinate 
+French Polynesia	pacific ocean 
+Osnabr�ck	germany 
+Ilkley	leeds 
+Franconia	bavaria 
+Amarillo, Texas	u.s. 
+Pontiac Silverdome	pontiac 
+Kansas City Wizards	major league soccer 
+President of Germany	federal republic 
+Turkish Republic of Northern Cyprus	cyprus 
+Tripoli, Greece	greece 
+Windsor, Berkshire	berkshire 
+Colima, Colima	colima 
+St. Gallen	switzerland 
+Memphis, Tennessee	tennessee 
+Yerevan	armenia 
+Rotterdam	netherlands 
+Moss, Norway	�stfold 
+Poole	dorset 
+Bournemouth	dorset 
+Christchurch	dorset 
+Gothenburg	stockholm 
+Bad Aibling	bavaria 
+Gaya	bihar 
+Patna	bihar 
+Ranchi	jharkhand 
+Ujjain	madhya pradesh 
+Ayodhya	uttar pradesh 
+Mathura	uttar pradesh 
+Shanghai Fugu Agreement	hesse 
+Sarajevo	bosnia 
+Tirunelveli	tamil nadu 
+Beaminster	dorset 
+Dwarka	ancient india 
+Narita	japan 
+Avignon	france 
+Marseille	france 
+El Paso, Texas	u.s. 
+Gangtok	sikkim 
+Brunt�l	republic 
+Hattingen	north rhine-westphalia 
+Bishop's Stortford	hertfordshire 
+Transnistria	eastern europe 
+Dili	east timor 
+Fargo, North Dakota	north dakota 
+Newcastle upon Tyne	england 
+Midland, Texas	texas 
+Samobor	zagreb 
+Frankfurt an der Oder	germany 
+Emersons Green	bristol 
+Aracaju	sergipe 
+Whitchurch, Shropshire	shropshire 
+Yonkers, New York	new york 
+Salford	england 
+President of Ireland	republic 
+Micronesia	oceania 
+Sergipe	brazil 
+Cupertino, California	silicon valley 
+Ted Kennedy	massachusetts 
+Khalistan	punjab 
+Mi?dzyrzec Podlaski	poland 
+Jamestown, New York	new york state 
+Doha	qatar 
+Bandar Seri Begawan	brunei 
+Thimphu	bhutan 
+Colombo	sri lanka 
+Mal�	maldives 
+Islamabad	pakistan 
+Duncanville, Texas	texas 
+Koror	palau 
+Palikir	federated states 
+Port Moresby	papua new guinea 
+Astana	kazakhstan 
+San Antonio, Texas	texas 
+Odessa	ukraine 
+Chemnitz	germany 
+Declaration of the Establishment of the State of Israel	israel 
+Campinas	s�o paulo 
+Khmer Rouge	kampuchea 
+Kigali	rwanda 
+Simcoe, Ontario	norfolk county 
+Kaohsiung City	taiwan 
+Delhi, Ontario	norfolk county 
+Bishkek	kyrgyzstan 
+Dushanbe	tajikistan 
+Tashkent	english 
+A?gabat	turkmenistan 
+Belo Horizonte	minas gerais 
+Tbilisi	georgia 
+Porto Alegre	rio grande 
+Salvador	bahia 
+Goi�nia	goi�s 
+Vit�ria (Brazil)	esp�rito santo 
+Fortaleza (Brazil)	brazil 
+S�o Lu�s (Brazil)	maranh�o 
+Jo�o Pessoa	para�ba 
+Teresina	piau� 
+Natal, Rio Grande do Norte	rio grande 
+Rio Branco (Brazil)	acre 
+Palmas (city)	tocantins 
+Macap�	amap� 
+Bel�m (Brazil)	par� 
+Florian�polis	santa catarina 
+Porto Velho	rond�nia 
+Boa Vista	roraima 
+Recife	pernambuco 
+Port Dover, Ontario	ontario 
+Lindsborg, Kansas	kansas 
+Busan	south korea 
+Ribeir�o Preto	s�o paulo 
+Guarulhos	s�o paulo 
+Santos (S�o Paulo)	s�o paulo 
+S�o Jos� dos Campos	s�o paulo 
+S�o Bernardo do Campo	abc 
+Santo Andr�	abc region 
+Osasco	s�o paulo 
+Sorocaba	s�o paulo 
+Zagan	poland 
+Jurong	singapore 
+Olsztyn	poland 
+L�beck	north 
+Weimar	germany 
+Augsburg	south 
+M�nster	westphalia 
+Nuremberg	bavaria 
+Heidelberg	neckar 
+G�ttingen	germany 
+Karlsruhe	germany 
+Wuppertal	germany 
+Bielefeld	germany 
+Maastricht	netherlands 
+Utrecht (city)	netherlands 
+Groningen (city)	north 
+Eindhoven	netherlands 
+Nijmegen	netherlands 
+Leiden	netherlands 
+Apeldoorn	netherlands 
+Tilburg	netherlands 
+Zwolle	netherlands 
+Haiphong	vietnam 
+Oldenburg	germany 
+Braunschweig	germany 
+Hu?	central vietnam 
+Nha Trang	vietnam 
+Da Nang	vietnam 
+Rostock	germany 
+Ingolstadt	bavaria 
+Jena	germany 
+Paderborn	germany 
+Darmstadt	germany 
+Kassel	germany 
+Cottbus	germany 
+M�nchengladbach	germany 
+Regensburg	germany 
+Mannheim	germany 
+Kaiserslautern	germany 
+Dordrecht	netherlands 
+'s-Hertogenbosch	north brabant 
+Bremerhaven	germany 
+Neuss	germany 
+Oberhausen	germany 
+Gie�en	hesse 
+Ludwigshafen am Rhein	metropolregion rhein-neckar 
+Krefeld	north rhine-westphalia 
+Zwickau	saxony 
+Hagen	arnsberg government region 
+Hamm	north rhine-westphalia 
+Herne, Germany	north rhine-westphalia 
+M�lheim	north rhine-westphalia 
+Solingen	germany 
+Eastbourne	england 
+Antwerp	belgium 
+Trieste	italy 
+Offenbach	hesse 
+Hildesheim	lower saxony 
+Recklinghausen	north rhine-westphalia 
+Wolfsburg	lower saxony 
+Bergisch Gladbach	north rhine-westphalia 
+Erlangen	bavaria 
+Gera	germany 
+Remscheid	north rhine-westphalia 
+Leeuwarden	netherlands 
+Middelburg	netherlands 
+Haarlem	netherlands 
+Lelystad	netherlands 
+Assen	netherlands 
+Breda	netherlands 
+Enschede	netherlands 
+Amersfoort	netherlands 
+Zoetermeer	south holland 
+Almere	netherlands 
+Hilversum	north holland 
+Roermond	limburg 
+Venlo	netherlands 
+Delft	south holland 
+Deventer	netherlands 
+Ede	netherlands 
+Zaandam	netherlands 
+Beresford, South Dakota	south dakota 
+Zeulenroda-Triebes	greiz 
+Slovak language	eastern europe 
+Ljubljana	slovenia 
+Nuku'alofa	tonga 
+Tampere	finland 
+Vantaa	finland 
+Kauniainen	finland 
+Joensuu	finland 
+Kampala	uganda 
+Genoa	liguria 
+Kalahasti	andhra pradesh 
+Tiruvannamalai	tamilnadu 
+Woodside, California	california 
+Quito	ecuador 
+Siena	tuscany 
+Padua	venice 
+Maputo	mozambique 
+Babylon	mesopotamia 
+Amman	jordan 
+Riyadh	saudi arabia 
+Military camp	army 
+Maidenhead	england 
+Detmold	north rhine-westphalia 
+Arnsberg	north rhine-westphalia 
+Siegen	north rhine-westphalia 
+Graz	austria 
+Linz	austria 
+Innsbruck	austria 
+Basel	north 
+Lausanne	switzerland 
+Porto	portugal 
+F�rth	bavaria 
+Salzgitter	lower saxony 
+Witten	north rhine-westphalia 
+Moers	north rhine-westphalia 
+Castrop-Rauxel	ruhr 
+Ratingen	north rhine-westphalia 
+Gland (city)	switzerland 
+Can Tho	vietnam 
+Vinh	vietnam 
+Dalat	vietnam 
+Pleiku	central vi?t nam 
+Qu?ng Ng�i	central vi?t nam 
+Bordeaux	france 
+Nantes	france 
+Toulouse	france 
+Nice	france 
+Strasbourg	france 
+Montpellier	france 
+Lille	france 
+Rennes	brittany 
+Reims	france 
+Orl�ans	france 
+Le Havre	france 
+Rouen	france 
+Angers	france 
+Toulon	france 
+Grenoble	france 
+Nimes	france 
+Aix-en-Provence	france 
+Amiens	france 
+Tours	france 
+Nancy	france 
+Limoges	france 
+Clermont-Ferrand	france 
+Villeurbanne	france 
+Reading, Berkshire	berkshire 
+Muscat	sultanate 
+Cincinnati, Ohio	ohio 
+Transylvania	romania 
+Cluj-Napoca	romania 
+Sibiu	transylvania 
+La Rochelle	france 
+Bielsko-Bia?a	poland 
+Idi Amin	uganda 
+Phnom Penh	cambodia 
+South Park	south park 
+Nigeria	africa 
+Democratic Republic of the Congo	za�re 
+Waterbury, Connecticut	connecticut 
+Cape Horn	hoorn 
+Rheinstetten	germany 
+Sanlucar la Mayor	sevilla 
+Sana'a	yemen 
+Pescara	abruzzo 
+Matera	basilicata 
+Potenza	basilicata 
+Bognor Regis Town F.C.	england 
+Treviso	veneto 
+Bergamo	italy 
+Brescia	italy 
+Como	italy 
+Cremona	italy 
+Lecco	italy 
+Lodi	italy 
+Mantua	italy 
+Pavia	italy 
+Sondrio	italy 
+Varese	italy 
+Perugia	umbria 
+Terni	umbria 
+Alessandria	piemonte 
+Asti	piemonte 
+Biella	piemonte 
+Cuneo	piemonte 
+Novara	piemonte 
+Verbano-Cusio-Ossola	piemonte 
+Vercelli	piemonte 
+Ancona	ancona 
+Fermo	marche 
+Macerata	marche 
+Karlstad	v�rmland 
+Keelung City	taiwan province 
+Taichung City	taiwan 
+Majuro	marshall islands 
+Ascoli Piceno	marche 
+Suva	fiji 
+Honiara	solomon islands 
+Port Vila	vanuatu 
+Tainan	taiwan 
+Chiayi City	taiwan province 
+Hsinchu City	taiwan province 
+Indre (Loire-Atlantique)	france 
+Den Helder	netherlands 
+Catanzaro	calabria 
+Vibo Valentia	calabria 
+Reggio Calabria	calabria 
+Crotone	calabria 
+Cosenza	calabria 
+Sindian City	taipei city 
+Apia	samoa 
+Funafuti	tuvalu 
+Chongqing	central china 
+Bologna	northern italy 
+Oviedo	north 
+Pieve Ligure	liguria 
+Paran� (state)	southern brazil 
+Queensland	australia 
+Radolfzell	bodensee 
+Nenzingen	konstanz 
+Bietigheim-Bissingen	germany 
+Tempe, Arizona	arizona 
+Hoyerswerda	saxonian oberlausitz 
+Plauen	vogtland 
+Braunau am Inn	innviertel 
+SV Werder Bremen	bremen 
+Newton Mearns	glasgow 
+Ludwigsburg	stuttgart 
+Billericay	united kingdom 
+Bissau	guinea-bissau 
+Bamberg	upper franconia 
+Celle	lower saxony 
+Aurich	lower saxony 
+Cloppenburg	lower saxony 
+Dessau	saxony-anhalt 
+Weissenfels	wei�enfels rural district 
+Esztergom	hungary 
+Crofton, British Columbia	vancouver island 
+Zabno	poland 
+Pittsburgh, Pennsylvania	pennsylvania 
+Kingdom of England	western europe 
+Thomas Stamford Raffles	singapore 
+Upland, California	san bernardino county 
+Neuch�tel	switzerland 
+Gifhorn (district)	lower saxony 
+Doncaster	north 
+Middlesbrough	yorkshire 
+Santiago, Chile	chile 
+Nuevo Leon	northeast 
+Halle	bundesland 
+Coney Island	brooklyn 
+Roskilde	denmark 
+Aarhus	denmark 
+Odense	denmark 
+Aalborg	denmark 
+Esbjerg	denmark 
+Elblag	poland 
+Australian Capital Territory	australia 
+Stevenage	hertfordshire 
+Trowbridge	wiltshire 
+Frankston North	frankston 
+Guant�namo	cuba 
+Bayreuth	bavaria 
+Hof	franconia 
+Lichtenfels	franconia 
+Neustadt bei Coburg	north 
+Kronach	franconia 
+R�dental	franconia 
+Sonneberg	thuringia 
+Hildburghausen	thuringia 
+Ha�furt	bavaria 
+Eisfeld	thuringia 
+Bad Colberg-Heldburg	thuringia 
+Schleusingen	hildburghausen 
+Ummerstadt	thuringia 
+Se�lach	franconia 
+Ebern	franconia 
+Bad Staffelstein	franconia 
+Teuschnitz	kronach 
+Wallenfels	kronach 
+Steinach	thuringia 
+Lauscha	thuringia 
+Neuhaus am Rennweg	thuringia 
+Themar	hildburghausen 
+Schalkau	thuringia 
+R�mhild	thuringia 
+Bad Rodach	franconia 
+Quintana Roo	south 
+Hudson River	new york 
+Munich U-Bahn	munich 
+Santo Domingo	dominican republic 
+Fresh Meadows, Queens	francis lewis boulevard 
+San Francisco Municipal Railway	san francisco 
+Dokkyo University	saitama 
+Glinde	schleswig-holstein 
+Forchheim	upper franconia 
+Jamestown, Virginia	united states 
+Suhl	thuringia 
+Eisenach	thuringia 
+W�rzburg	bavaria 
+Death Valley	california 
+Kosovo	balkans 
+Crawford, Texas	texas 
+Klang	selangor 
+Moscow Metro	russia 
+Kissing, Germany	bavaria 
+Austria-Hungary	central europe 
+Friedrichshafen	germany 
+Rio Grande do Sul	southern brazil 
+Gran Colombia	simon bolivar 
+Managua	nicaragua 
+Te Puke	bay 
+Oakland, California	california 
+Schmallenberg	north rhine-westphalia 
+Border dispute	israel 
+Ipia�	bahia 
+Cebu	philippines 
+Bernkastel-Kues	germany 
+Thionville	france 
+Metz	france 
+Cochem	germany 
+Konz	germany 
+Coral Sea Islands	australia 
+Pernambuco	brazil 
+Woodstock Festival	bethel 
+Bensheim	hesse 
+Alexander Lukashenko	belarus 
+Amherst, Massachusetts	massachusetts 
+Kuiper belt	neptune 
+Wide Area Network	internet 
+Paramaribo	suriname 
+Oostende	west flanders 
+Abuja	nigeria 
+2002 Winter Olympics	february 
+Kitchener, Ontario	ontario 
+Torgau	elbe 
+Lanark	south lanarkshire 
+Geelong, Victoria	victoria 
+Bendigo, Victoria	victoria 
+Ballarat, Victoria	victoria 
+Cairns, Queensland	queensland 
+Ann Arbor, Michigan	michigan 
+Toowoomba, Queensland	south east queensland 
+Albury, New South Wales	new south wales 
+Newcastle, New South Wales	new south wales 
+Wollongong, New South Wales	new south wales 
+Warrnambool, Victoria	victoria 
+Maitland, New South Wales	new south wales 
+Benalla, Victoria	victoria 
+Grafton, New South Wales	new south wales 
+Port Hedland, Western Australia	australia 
+Worms, Germany	germany 
+Frankfurt U-Bahn	frankfurt 
+Geraldton, Western Australia	western australia 
+Marki	warsaw 
+Coffs Harbour, New South Wales	new south wales 
+Orange, New South Wales	new south wales 
+Bathurst, New South Wales	new south wales 
+Bergstra�e Route	odenwald 
+Alfred Pampalon	l�vis 
+Ojiya, Niigata	niigata 
+Brazzaville	republic 
+Governor of California	california 
+Eliot, Maine	maine 
+Speyer	rhineland-palatinate 
+Flensburg	germany 
+Goslar	germany 
+Bundesautobahn 45	hanau 
+Newark, New Jersey	new jersey 
+Vogelsberg Mountains	hessen 
+Southbridge, Massachusetts	massachusetts 
+Tibetan language	india 
+Aschaffenburg	franconia 
+Malvern, Worcestershire	worcestershire 
+Dazaifu	fukuoka 
+Fukuoka, Fukuoka	kyushu 
+Unkel	neuwied 
+Ferrara	northern italy 
+Modena	northern italy 
+Joe Montana	national football league 
+Flainval	france 
+Dombasle-sur-Meurthe	france 
+Saint-Nicolas-de-Port	france 
+List of U.S. state mottos	united states 
+Weimar (Lahn)	hesse 
+Gifhorn	lower saxony 
+Suwa?ki	poland 
+Mi?sk Mazowiecki	poland 
+Quincy, Illinois	illinois 
+Kirkkonummi	finland 
+Christian Social Union of Bavaria	bavaria 
+Shaw and Crompton	north west 
+Visoko	bosnia 
+Olomouc	republic 
+Lublin	poland 
+Natural capital	earth 
+Oswaldtwistle	blackburn 
+Aberdeen, Washington	washington 
+Bia?ystok	poland 
+Gdynia	poland 
+Sosnowiec	poland 
+Radom	poland 
+Kielce	poland 
+Toru?	poland 
+Zabrze	poland 
+Bytom	poland 
+Gorz�w Wielkopolski	poland 
+Zielona G�ra	poland 
+Opole	poland 
+Lorette	france 
+La Cappe	france 
+La Grand-Croix	france 
+Saint-Paul-en-Jarez	france 
+Saint-Chamond	france 
+Saint-Priest-en-Jarez	france 
+Frisian people	frisia 
+Alba Iulia	alba county 
+Ruda ?l?ska	poland 
+Rybnik	poland 
+Tychy	poland 
+D?browa G�rnicza	poland 
+P?ock	eastern poland 
+Chorz�w	poland 
+Wa?brzych	poland 
+Pandya	south india 
+Laubach	giessen 
+Kalabhra	south indian 
+Greenwich	london 
+Gaul	western europe 
+Danelaw	england 
+Jorvik	york 
+Reading, Pennsylvania	pennsylvania 
+Swanage	england 
+Hungen	gie�en 
+Axis of Evil	union 
+State of the Union Address	union address 
+Cirencester	gloucestershire 
+Totnes	south devon 
+Lorca	murcia 
+Cambuslang railway station	cambuslang 
+Ternopil	ukraine 
+Kosovska Mitrovica	kosovo 
+Elizabeth Smart	june 
+Bury	greater manchester 
+W?oc?awek	poland 
+Villarosa	enna 
+Dayton, Ohio	ohio 
+Torrance, California	los angeles 
+Versailles	paris 
+El Puerto de Santa Mar�a	guadalete river 
+Basingstoke	hampshire 
+Hollywood, Florida	broward county 
+Lviv	lviv oblast 
+Ephra�m Inoni	africa 
+Scottsdale, Arizona	american state 
+Carlisle	england 
+Monte Carlo	monaco 
+Neapolitan	naples 
+Mar del Plata	argentina 
+C�rdoba, Argentina	argentina 
+Acapulco	pacific 
+Damascus	syria 
+Vail, Colorado	colorado 
+Louisville, Kentucky	kentucky 
+Scone, Perth and Kinross	perth 
+Sierpc	poland 
+J�nk�ping	sweden 
+Uppsala	sweden 
+Zl�n	republic 
+St Andrews	saint andrew 
+Dunkirk	france 
+Sudetenland	czechoslovakia 
+Jeddah	red sea 
+Lucerne	switzerland 
+Armenian Kingdom of Cilicia	themiddle ages 
+Kingdom of Armenia	roman empire 
+Poitiers	clain river 
+Valence-sur-Rh�ne	france 
+Valence-sur-Ba�se	gers 
+Tigranes the Great	roman east 
+Chester city walls	chester 
+Aylesbury	buckinghamshire 
+Augusta, Georgia	georgia 
+Landsberg Prison	landsberg 
+Melun	france 
+Ajaccio	france 
+Lake District	england 
+Seleucid Empire	alexander 
+Westmorland	england 
+Georgian language	caucasus 
+Vitr�	east 
+Silicon Valley	northern california 
+Rond�nia	brazil 
+Cantons of Switzerland	switzerland 
+Lexington, Kentucky	kentucky 
+Jaworzno	poland 
+Goi�s	brazil 
+Santa Catarina (state)	southern brazil 
+Brossard	montreal 
+Fremantle, Western Australia	western australia 
+Volkach	lower franconia 
+Ochsenfurt	w�rzburg 
+Chico, California	california 
+Cork (city)	county cork 
+Zve?an	kosovo 
+Rosario	argentina 
+Shire	great britain 
+�ilina	slovakia 
+Pre�ov	slovakia 
+Trnava	slovakia 
+Nitra	slovakia 
+Tren?�n	slovakia 
+Bansk� Bystrica	slovakia 
+Greater Nottingham	nottingham 
+Hanau	hesse 
+Nottingham	nottinghamshire 
+Dettelbach	bavaria 
+Kitzingen	franconia 
+Geiselwind	lower franconia 
+Leamington Spa	warwickshire 
+North East England	northumberland 
+Kingdom of Sussex	sussex 
+Swinoujscie	pomerania 
+Verbandsgemeinde	rhineland-palatinate 
+The Levant	middle east 
+Yorkshire Dales	yorkshire 
+Suwanee, Georgia	georgia 
+Cumming, Georgia	georgia 
+Athens, Georgia	georgia 
+Clarke County, Georgia	georgia 
+Forsyth County, Georgia	georgia 
+Johns Creek, Georgia	georgia 
+Gwinnett County, Georgia	georgia 
+Pri�tina	kosovo 
+Whittier, Alaska	alaska 
+Mongol Empire	mongol 
+Parthia	asia 
+San Francisco Bay Area	bay area 
+Ulan-Ude	buryat republic 
+Montauban	france 
+Layyah	punjab 
+Arendal	aust-agder 
+Nakhodka	primorsky krai 
+Lorsch	germany 
+Tarascon	france 
+Kurdistan	middle east 
+Aigues-Mortes	france 
+Carcassonne	languedoc 
+Agen	aquitaine 
+Mirepoix (Ari�ge)	france 
+Norfolk County Fair and Horse Show	simcoe 
+Colosseum	rome 
+Jastrz?bie-Zdr�j	poland 
+Darfur conflict	africa 
+Franklins	new south wales 
+Hannover 96	germany 
+AWD-Arena	germany 
+Larissa	thessaly 
+Scottsdale, Tasmania	tasmania 
+Greystones	county wicklow 
+Lund	sweden 
+Port Royal	jamaica 
+Velikiy Novgorod	russia 
+Nizhny Novgorod	russia 
+Novosibirsk	moscow 
+Alice Springs, Northern Territory	northern territory 
+Hallandale Beach, Florida	broward county 
+G�ppingen	germany 
+D�ren	north rhine-westphalia 
+G�tersloh	north rhine-westphalia 
+Iserlohn	north rhine-westphalia 
+Velbert	north rhine-westphalia 
+L�nen	north rhine-westphalia 
+Marl	north rhine-westphalia 
+Bocholt	north rhine-westphalia 
+Cou�ron	france 
+Schweinfurt	franconia 
+Marquette, Michigan	u.s. 
+Vaduz	liechtenstein 
+Redruth	south west cornwall 
+Sierra Nevada (US)	california 
+University of Nottingham	nottingham 
+Virginia Tech massacre	blacksburg 
+Israeli West Bank barrier	israel 
+Irmo, South Carolina	columbia 
+San Marcos, Texas	texas 
+Quedlinburg	saxony-anhalt 
+Universal Studios	nbc universal 
+Norwich	norfolk 
+Baunach	bavaria 
+Buxtehude	northern germany 
+Botanic	ireland 
+Renaissance architecture	palladio 
+Qiemo	xinjiang 
+Wielu?	poland 
+Supreme Leader of Iran	islamic republic 
+Antioch	orontes river 
+Bruges	belgium 
+Wittingen	gifhorn 
+Columbia University	new york 
+Dubrovnik	croatia 
+Omsk	russia 
+Cuxhaven	lower saxony 
+Wadowice	poland 
+Ishy Bilady	united arab emirates 
+Kuzcham Dherai	north-west frontier province 
+Medina	hejaz 
+Teplice	bohemia 
+President of the French Republic	france 
+Bellinzona	canton 
+Lusaka	zambia 
+Miamisburg, Ohio	montgomery county 
+Reynoldsburg, Ohio	fairfield 
+Crookes	city 
+Broomhill	sheffield 
+Abidjan	c�te d'ivoire 
+Accra	ghana 
+Addis Ababa	ethiopia 
+Dakar	senegal 
+Yaound�	republic 
+Asmara	eritrea 
+Bamako	mali 
+Lom�	togo 
+Maseru	lesotho 
+Alcal� de Henares	community 
+Windhoek	namibia 
+Ouagadougou	burkina faso 
+Yamoussoukro	c�te d'ivoire 
+Bloemfontein	south africa 
+Whyalla	eyre peninsula 
+Ron Paul	texas 
+Djibouti (city)	djibouti 
+Jamestown, Saint Helena	saint helena 
+Sneek	friesland 
+Huelva	andalusia 
+Antananarivo	madagascar 
+Lobamba	swaziland 
+Newry	northern ireland 
+Mamoudzou	mayotte 
+Moroni, Comoros	comoros 
+Porto-Novo	benin 
+Praia	cape verde 
+Conakry	guinea 
+Cotonou	benin 
+Dodoma	tanzania 
+N'Djamena	chad 
+Bujumbura	burundi 
+Cowley, Wyoming	wyoming 
+Fort Bragg, California	california 
+Provo, Utah	utah 
+Saint-Denis, R�union	r�union 
+S�o Tom�	s�o tom� 
+Everglades	miami 
+Bangui	republic 
+Bari	italy 
+Banjul	gambia 
+Samarra	iraq 
+East Sutton	south east 
+Lucky Town	bruce springsteen 
+Dar es Salaam	tanzania 
+Gaborone	botswana 
+Libreville	gabon 
+Lilongwe	malawi 
+Malabo	equatorial guinea 
+Addiscombe	london borough 
+South Norwood	london borough 
+Mbabane	swaziland 
+Niamey	niger 
+Buto	alexandria 
+Cartagena de Indias	colombia 
+Greenbrier County, West Virginia	united states 
+Medell�n	metropolitan area 
+Nouakchott	mauritania 
+Port Louis	mauritius 
+Freetown	sierra leone 
+Pretoria	south africa 
+Sidon	lebanon 
+Long Beach, California	los angeles county 
+S�o Carlos	s�o paulo 
+51st state	usa 
+Mogadishu	somalia 
+Victoria, Seychelles	republic 
+Nicosia	cyprus 
+Virginia Beach, Virginia	commonwealth 
+Woodside, London	london borough 
+Sofia	republic 
+Grosse Ile Township, Michigan	wayne county 
+Broad Green	west croydon 
+West Croydon	central croydon 
+Cachoeira do Sul	rio grande 
+Luxembourg City	luxembourg 
+Mount Takao	tokyo 
+Thornton Heath	london borough 
+Colorado Springs, Colorado	colorado 
+Tulsa, Oklahoma	oklahoma 
+Anchorage, Alaska	alaska 
+Boundary Peak	nevada 
+Skopje	republic 
+Mount Hood	oregon 
+Crater Lake	oregon 
+London, Ontario	detroit 
+Cienfuegos	cienfuegos 
+Barnstaple	devon 
+Bideford	devon 
+Tiverton	devon 
+Valletta	malta 
+Andorra la Vella	andorra 
+Limbourg	li�ge 
+Limburg an der Lahn	kreis 
+Adana	adana province 
+Quakenbr�ck	lower saxony 
+Podgorica	montenegro 
+Hemer	north rhine-westphalia 
+Kars	turkey 
+San Marino City	san marino 
+Fort Worth, Texas	texas 
+Kichij?ji	musashino 
+Hachioji	tokyo 
+Suginami	suginami 
+Sagamihara	japan 
+Aomori	japan 
+Ahmedabad	west india 
+Dachau	germany 
+Monaco-Ville	monaco 
+Albuquerque, New Mexico	new mexico 
+Mesa, Arizona	maricopa county 
+Arlington, Texas	tarrant county 
+Tarrant County, Texas	texas 
+Forest, Ontario	lambton county 
+Assyria	assur 
+Van, Turkey	turkey 
+Canton Township, Michigan	michigan 
+Alexander Tamanian	yerevan 
+Ani	turkey 
+Gyumri	shirak 
+Armenian Quarter	jerusalem 
+Donald Trump	americas 
+Comanche	oklahoma 
+Norfolk, Virginia	virginia 
+Pontic Greeks	pontus 
+Laredo, Texas	texas 
+Nuevo Laredo, Tamaulipas	tamaulipas 
+Carla Garapedian	bbc world news 
+White Pines Forest State Park	white pines state park 
+Chosroid Dynasty	iberia 
+BBC Television Centre	bbc 
+Yakima, Washington	washington 
+University of Washington	washington 
+Hurri	mitanni 
+Giza	egypt 
+President of the Republic of China	republic 
+Nassau County, New York	new york city 
+Christchurch, New Zealand	south island 
+Echternach	luxembourg 
+Shiri Maymon	eurovision 
+V�xj�	sm�land 
+7th Heaven	glenoak 
+Lal Masjid siege	pakistan 
+Hermeskeil	rhineland-palatinate 
+Kentwood, Louisiana	tangipahoa parish 
+Military of ancient Rome	rome 
+Israel	israel 
+Toul	northeastern 
+Watford	hertfordshire 
+Clarksville, Tennessee	montgomery county 
+Kom�rno	slovakia 
+Komarno	ukraine 
+Jerez de la Frontera	c�diz 
+Concordia, Kansas	kansas 
+Troy, Michigan	michigan 
+Piranshahr	piran 
+Constan?a	dobruja 
+Regina, Saskatchewan	saskatchewan 
+Saint-Paul, R�union	r�union 
+Giza pyramid complex	cairo 
+Santa Fe, Argentina	santa fe 
+Tezpur	assam 
+Guwahati	india 
+Adaminaby	new south wales 
+Puerto Cabezas	nicaragua 
+Tegucigalpa	honduras 
+Oaxaca de Ju�rez	oaxaca 
+Eschweiler	north rhine-westphalia 
+Royal Albert Hall	westminster 
+Colorado State University	fort collins 
+Bad Godesburg	bonn 
+Fengyuan City	taichung county 
+Burnage	manchester 
+Longsight	city 
+Levenshulme	manchester 
+Stockport	greater manchester 
+Withington	manchester 
+Fallowfield	manchester 
+North Brabant	belgium 
+Greater London Authority	london 
+Lightning Hopkins	houston 
+Lord Mayor of London	london 
+Czech Airlines	october 
+Tomsk	tomsk oblast 
+Allentown, Pennsylvania	lehigh county 
+2007 Universal Forum of Cultures	monterrey 
+Eddie Murphy	academy award 
+President of Belarus	belarus 
+Pasargadae	persia 
+Persepolis	achaemenid empire 
+Otis R. Bowen	indiana 
+Sumgait pogrom	sumgait 
+Yoshino, Nara	yoshino district 
+Daigo, Ibaraki	kuji district 
+Macon, Georgia	georgia 
+Fustat	egypt 
+Odawara Castle	odawara 
+Thebes, Greece	greece 
+London Borough of Tower Hamlets	london 
+Mount Hiei	kyoto 
+Preston	england 
+Dong Hoi	qu?ng b�nh 
+Warrington	cheshire 
+Ulyanovsk	volga river 
+Pap	uzbekistan 
+Brigham Young	utah 
+City of Sunderland	sunderland 
+Weymouth, Dorset	dorset 
+Commonwealth realm	united kingdom 
+Saipan	united states commonwealth 
+Arara, Para�ba	para�ba 
+Kirovabad pogrom	kirovabad 
+Colwyn bay	wales 
+Fethiye	mugla province 
+N-Dubz	greater london 
+Durban	south africa 
+Hyattsville, Maryland	maryland 
+Saxe-Coburg and Gotha	saxe-coburg 
+Ross Dependency	antarctica 
+Chichen Itza	maya 
+Brownsville, Texas	texas 
+Fr�dlant v ?ech�ch	republic 
+Chatham, Massachusetts	barnstable county 
+Whitbourne, Newfoundland and Labrador	avalon peninsula 
+Waltham, Massachusetts	middlesex county 
+Country Music Hall of Fame and Museum	fame 
+Supabarn	australia 
+Biescas	huesca 
+Gloucester	english 
+Ruhleben P.O.W. Camp	berlin 
+Worcester	west midlands 
+Stoke-on-Trent	staffordshire 
+Soconusco	chiapas 
+Chiapas	mexico 
+Teotihuac�n	america 
+Nairi	kingdom 
+Hayasa-Azzi	north 
+San Diego Wild Animal Park	san diego 
+Wolverhampton	england 
+Stepanakert	nagorno-karabakhrepublic 
+Southampton	united kingdom 
+Eustis, Florida	lake county 
+Fort Walton Beach, Florida	okaloosa county 
+Jarrow	england 
+1936 Winter Olympics	garmisch-partenkirchen 
+B?l?i	moldova 
+Polish-Lithuanian Union	lithuania 
+Etruscan language	etruria 
+Stornoway	isles 
+Muscatine, Iowa	muscatine county 
+President of Armenia	armenia 
+K?dainiai	lithuania 
+United Arab Republic	egypt 
+Pittsburg, Texas	texas 
+List of California hurricanes	california 
+Yuma, Arizona	yuma county 
+Yuryuzan	chelyabinsk oblast 
+Sim (town)	chelyabinsk oblast 
+Sursk	penza oblast 
+Lipki	tula oblast 
+Lage	lippe 
+Kingston upon Hull	east riding 
+Nas	september 
+Mosbach	germany 
+Walenstadt	switzerland 
+Capelle aan den IJssel	rotterdam 
+European Union member state	european union 
+Nainital	uttarakhand 
+Irish Free State	republic 
+Southern Ireland	ireland act 
+Vice-President of the Executive Council of the Irish Free State	president 
+Tipton	sandwell 
+An Najaf	iraq 
+Karbala	iraq 
+Washington State University	washington 
+Pullman, Washington	whitman county 
+Albany, Western Australia	western australia 
+Kalgoorlie, Western Australia	western australia 
+Joondalup, Western Australia	perth 
+Mandurah, Western Australia	perth 
+Bunbury, Western Australia	western australia 
+Rockingham, Western Australia	perth 
+Esperance, Western Australia	western australia 
+Bergkamen	unna 
+Newport Pagnell	england 
+Induno Olona	italy 
+Gotha	thuringia 
+Igrejinha	rio grande 
+Helensburgh, New South Wales	new south wales 
+Bamberg Symphony Orchestra	bamberg 
+Ahmednagar	ahmednagar district 
+Columbia, Missouri	u.s. 
+Santa B�rbara de Saman�	santa b�rbara 
+Delfzijl	netherlands 
+Peterborough	england 
+Schwieberdingen	germany 
+Horsham	west sussex 
+Lemgo	lippe 
+Lahore	pakistan 
+Peshawar	pakistan 
+Wokingham	berkshire 
+Soviet occupation zone	germany 
+Free City of Danzig	danzig 
+List of heads of state of the Free City of Danzig	danzig 
+Main-Franconian	franconia 
+Port Arthur, Texas	hurricane alicia 
+List of Arizona hurricanes	arizona 
+Yankee Stadium	united states 
+Greater Hesse	hesse-darmstadt 
+Saxe-Coburg-Saalfeld	saxe-coburg-saalfeld 
+Sonora	mexico 
+Baja California	baja california 
+Akkad	mesopotamia 
+Faisal Mosque	pakistan 
+Quetta	balochistan 
+Gilgit	northern 
+Bon Jovi	new jersey 
+Valdivia	chile 
+Hoboken	antwerp 
+Franz Josef Strau�	bavaria 
+Tigranakert	silvan 
+El�as Pi�a Province	haiti 
+Westdeutscher Rundfunk	north rhine-westphalia 
+L�neburg	lower saxony 
+Bergen	norway 
+Winchester	hampshire 
+Aswan	egypt 
+Ripon	north yorkshire 
+Ripon (disambiguation)	north yorkshire 
+Adrar des Ifoghas	kidal region 
+City status in the United Kingdom	united kingdom 
+Downtown	english 
+Fukuoka Prefecture	north 
+East End of London	london 
+Saxe-Meiningen	saxe-meiningen 
+Eilenburg	mulde 
+Port-au-Prince	haiti 
+Hameln	germany 
+Timbuktu	tombouctou region 
+Ernestine duchies	thuringia 
+Bad Kissingen	bavaria 
+Saxe-Jena	saxe-jena 
+Saxe-Weimar-Eisenach	saxe-weimar-eisenach 
+Grand duchy	grand duke 
+Piraeus	attica 
+Augustine of Hippo	hippo regius 
+Breinigerberg	north rhine-westphalia 
+Saxe-Gotha	thuringia 
+Comendador, El�as Pi�a	comendador 
+Jebel Barkal	sudan 
+Mali Federation	africa 
+Saxe-Coburg	bavaria 
+B�nica, El�as Pi�a	san francisco 
+Hereford	west midlands 
+Trondheim	s�r 
+Trondheim Region	s�r 
+City of Bradford	west yorkshire 
+Arbil	kurdistan 
+Ruhr Area	north rhine-westphalia 
+Mosul	iraq 
+Balkh	balkh province 
+Hessischer Rundfunk	hesse 
+Vaishali	vaishali district 
+Licchavi	india 
+Tabriz	iran 
+Shusha	nagorno-karabakh 
+Meppel	netherlands 
+Salisbury	england 
+Lincoln, Lincolnshire	lincolnshire 
+Wismar	germany 
+City of Wakefield	wakefield 
+Massachusetts Bay Colony	massachusetts 
+Valencian	andorra 
+Aventura, Florida	miami-dade county 
+Lichfield	staffordshire 
+Manor house	manorialism 
+English country house	west end 
+Lockerbie	scotland 
+Sion, Switzerland	valais 
+Monthey, Switzerland	monthey 
+Sierre	sierre 
+Brig, Switzerland	brig 
+Martigny, Switzerland	martigny 
+Visp	visp 
+Saint-Maurice, Switzerland	saint-maurice 
+Conthey	conthey 
+Sembrancher	entremont 
+M�nster-Geschinen	goms 
+Vex, Switzerland	h�rens 
+Schaffhausen	switzerland 
+Leuk	leuk 
+Raron	raron 
+Florida Panhandle	florida 
+Passo de Camaragibe	alagoas 
+Radlin	wodzis?aw county 
+Chichester	west sussex 
+Meridian, Mississippi	lauderdale county 
+C�te-Nord	quebec 
+Plaquemines Parish, Louisiana	u.s. 
+Tamsui, Taipei	taipei county 
+St. Bernard Parish, Louisiana	louisiana 
+Slidell, Louisiana	st. tammany parish 
+St. Tammany Parish, Louisiana	louisiana 
+Herat	afghanistan 
+Mobile, Alabama	u.s. 
+Bayou La Batre, Alabama	mobile county 
+Bay St. Louis, Mississippi	hancock county 
+Waveland, Mississippi	hancock county 
+Pass Christian, Mississippi	harrison county 
+Long Beach, Mississippi	harrison county 
+Gulfport, Mississippi	mississippi 
+Gulfport-Biloxi-Pascagoula, Mississippi Combined Statistical Area	mississippi gulf coast 
+Gulfport-Biloxi metropolitan area	mississippi gulf coast 
+Biloxi, Mississippi	harrison county 
+Ocean Springs, Mississippi	jackson county 
+Gautier, Mississippi	gulf 
+Pascagoula, Mississippi	jackson county 
+Miami-Dade County, Florida	florida 
+Broward County, Florida	florida 
+Max Mayfield	national hurricane center 
+Dresden University of Technology	saxony 
+Jenner, California	sonoma county 
+Antigua	antigua 
+Barbuda	antigua 
+Myra	lycia 
+Goblin Valley State Park, Utah	utah 
+Leogane	ouest department 
+Atlantic Beach, Florida	duval county 
+Badger	north america 
+Steckborn	steckborn 
+Frauenfeld	thurgau 
+Manchukuo	manchuria 
+Bill Richardson	new mexico 
+Mike Huckabee	arkansas 
+Brunswick, Georgia	u.s. 
+Cocoa Beach, Florida	brevard county 
+Vung Tau	ba ria-vung tau province 
+Sari	mazandaran 
+Rasht	gilan 
+High Island, Texas	galveston county 
+McComb, Mississippi	pike county 
+Stans	nidwalden 
+Bischofszell	switzerland 
+M�nchwilen, Thurgau	m�nchwilen 
+Arbon	arbon 
+Sonoma Coast State Beach	sonoma county 
+Glarus (city)	canton 
+Morbio Inferiore	switzerland 
+Muri (district)	muri 
+Zurzach (district)	zurzach 
+Aarau	aargau 
+Rust Belt	united states 
+Baden	germany 
+Aberdeen Grammar School	aberdeen 
+Grand Duchy of Hesse	hesse 
+Kingston, Jamaica	kingston 
+Almaz�n	castilla y le�n 
+St Albans	city 
+Lancaster, Lancashire	lancaster 
+Empire State Building	new york city 
+St. Peter's Basilica	rome 
+Alc�dia	majorca 
+Fajardo, Puerto Rico	puerto rico 
+Jupiter, Florida	palm beach county 
+Puerto Morelos	quintana roo 
+Cabo Catoche	quintana roo 
+Key West, Florida	florida keys 
+Gulf Shores, Alabama	baldwin county 
+Orange Beach, Alabama	baldwin county 
+George Town, Cayman Islands	cayman islands 
+Mobile Bay	alabama 
+Holly Beach, Louisiana	louisiana 
+Ponce, Puerto Rico	puerto rico 
+Canc�n, Quintana Roo	mexico 
+Norman, Oklahoma	cleveland county 
+Freeport, Texas	brazoria county 
+San Luis Pass	texas 
+List of national rulers	un 
+Hard-Fi	london 
+Birmingham, Alabama	alabama 
+Huntsville, Alabama	american state 
+Burlington, Vermont	vermont 
+Loretta Spencer	huntsville 
+Tuscaloosa, Alabama	tuscaloosa county 
+Hoover, Alabama	jefferson county 
+Dothan, Alabama	houston county 
+Decatur, Alabama	morgan county 
+Auburn, Alabama	lee county 
+Casper, Wyoming	wyoming 
+Wilmington, Delaware	delaware 
+Benetice (Sv?tl� nad S�zavou)	republic 
+Mount Cheaha	alabama 
+Charlotte Amalie, U.S. Virgin Islands	united states virgin islands 
+Hag�t�a, Guam	guam 
+Dededo, Guam	guam 
+Albertville, Alabama	marshall county 
+Arab, Alabama	marshall county 
+Abbeville, Alabama	henry county 
+Geography of the Dominican Republic	caribbean 
+Zofingen	aargau 
+Sabaneta, Santiago Rodr�guez	dominican republic 
+Sarnen	obwalden 
+Kearny, New Jersey	hudson county 
+Ernst Reuter	apenrade 
+Staufen, Switzerland	switzerland 
+Frick, Switzerland	switzerland 
+Travagliato	italy 
+Nags Head, North Carolina	dare county 
+Woods Hole, Massachusetts	falmouth 
+Port Jefferson, New York	brookhaven 
+Fire Island, New York	new york 
+Plymouth, Massachusetts	plymouth county 
+Great Offices of State	united kingdom 
+Limmat	br�gg 
+Saint-Ursanne	porrentruy 
+Mellingen	thuringia 
+Monci�n	santiago rodr�guez 
+Haskovo	bulgaria 
+Athens, Alabama	limestone county 
+Athens (disambiguation)	greece 
+M�hlau	germany 
+Allouez, Wisconsin	wisconsin 
+Almena, Wisconsin	wisconsin 
+Villa Los Alm�cigos	santiago rodr�guez 
+Limerick	county limerick 
+Wexford	county wexford 
+Drogheda	county louth 
+Hallstadt	upper 
+Dawlish	devon 
+Newquay	atlantic 
+Stranraer	scotland 
+Coleraine	county londonderry 
+Catal�o	goi�s 
+Prato	tuscany 
+Livorno	tyrrhenian sea 
+Arezzo	italy 
+Police, Poland	poland 
+Nowe Warpno	poland 
+Wilmington, North Carolina	new hanover county 
+Oak Island, North Carolina	oak island 
+Biasca	riviera 
+Pistoia	tuscany 
+Cluny	france 
+Niederurnen	switzerland 
+Del�mont	jura 
+Altentreptow	demmin rural district 
+Cevio	vallemaggia 
+Lucca	tuscany 
+Massa	tuscany 
+Carrara	massa-carrara 
+Council of Chalcedon	bithynia 
+Chalcedon	bithynia 
+Viareggio	tuscany 
+Dobryanka	perm krai 
+Grosseto	tuscany 
+Volterra	tuscany 
+Faido	leventina 
+San Gimignano	siena 
+Locarno	locarno 
+Pedernales Province	haiti 
+Maltese people	mediterranean sea 
+Perm	perm krai 
+Gela	sicily 
+Temple in Jerusalem	jerusalem 
+Flemish (linguistics)	belgium 
+Republic of Venice	venice 
+Memphis, Egypt	lower egypt 
+Ashland, Alabama	alabama 
+Bob Riley	alabama 
+Baldwin County, Alabama	alabama 
+Mobile County, Alabama	alabama 
+Houston County, Alabama	alabama 
+Carnival of Blacks and Whites	pasto 
+Schwelm	ennepe-ruhr rural district 
+Thebes, Egypt	ancient egypt 
+Baucau	east timor 
+Daegu	south korea 
+Johannes Ockeghem	dufay 
+Ravenna	emilia-romagna 
+Charlottenburg	berlin 
+Carluke	carluke 
+Chihuahua	mexico 
+Republic of Texas	north america 
+Sichuan	chengdu 
+Der er et yndigt land	denmark 
+New York Mets	shea stadium 
+Kilakarai	ramanathapuram 
+New Castle, Indiana	henry county 
+Derby, Derbyshire	derbyshire 
+Ely, Cambridgeshire	east cambridgeshire 
+Chicago (disambiguation)	united states 
+Telluride Bluegrass Festival	colorado 
+Trochenbrod	ukraine 
+Mons	belgium 
+Kannur	india 
+Upper Egypt	cairo 
+Brandenburg an der Havel	brandenburg 
+Lower Egypt	el-aiyat 
+Zug	lake zug 
+Zella-Mehlis	schmalkalden meinigen 
+Port Said	suez canal 
+Freiburg im Breisgau	germany 
+Baden-Baden	germany 
+Coburg	itz river 
+G�rlitz	germany 
+Pewter City Gym	pok�mon 
+Aach, Rhineland-Palatinate	rhineland-palatinate 
+Joachimsthal, Brandenburg	barnim 
+Bad T�lz	bavaria 
+Bernau bei Berlin	barnim 
+Bad Reichenhall	berchtesgadener land 
+Demmin	mecklenburg-western pomerania 
+Nienburg, Lower Saxony	nienburg 
+Querfurt	saalekreis 
+Bad W�rishofen	unterallg�u 
+Area codes in Germany	germany 
+ISO 3166-1 alpha-3	iso 
+Quickborn (Kreis Pinneberg)	pinneberg 
+Xanten	wesel 
+Achern	germany 
+Adelsheim	heilbronn 
+Aichtal	esslingen 
+Albstadt	zollernalbkreis 
+Alpirsbach	freudenstadt 
+Altensteig	calw 
+Asperg	ludwigsburg 
+Aulendorf	ravensburg 
+Backnang	germany 
+Bad Buchau	biberach 
+Bad D�rrheim	schwarzwald-baar 
+Bad Herrenalb	calw 
+Bad Krozingen	breisgau-hochschwarzwald 
+Amberg	bavaria 
+Greifswald	greifswald 
+Neubrandenburg	mecklenburg-vorpommern 
+Stralsund	mecklenburg-vorpommern 
+Cary, North Carolina	wake county 
+L�bau-Zittau Rural District	saxony 
+Apex, North Carolina	u.s. 
+Niederschlesischer Oberlausitzkreis Rural District	saxony 
+Kamenz Rural District	saxony 
+Emerald Isle, North Carolina	north carolina 
+Bautzen Rural District	saxony 
+Dresden Government Region	saxony 
+Holly Springs, North Carolina	north carolina 
+Freiberg Rural District	saxony 
+Riesa-Gro�enhain Rural District	saxony 
+Uetersen	pinneberg 
+New York City Subway	new york city 
+Vogtlandkreis Rural District	saxony 
+Zwickauer Land Rural District	saxony 
+Chemnitzer Land Rural District	saxony 
+Mei�en Rural District	saxony 
+S�chsische Schweiz Rural District	saxony 
+Wei�eritzkreis Rural District	saxony 
+Bautzen	saxony 
+Annaberg Rural District	saxony 
+Aue-Schwarzenberg Rural District	saxony 
+Delitzsch Rural District	saxony 
+Chemnitz Government Region	saxony 
+D�beln Rural District	saxony 
+Leipzig Government Region	saxony 
+Leipziger Land Rural District	saxony 
+Muldentalkreis Rural District	saxony 
+Torgau-Oschatz Rural District	saxony 
+Geneva (disambiguation)	switzerland 
+Mittlerer Erzgebirgskreis Rural District	saxony 
+Stollberg Rural District	saxony 
+Stollberg	free state 
+Mittweida Rural District	saxony 
+Mittweida	free state 
+Freiberg, Saxony	free state 
+Gniezno	poland 
+Dippoldiswalde	free state 
+Gro�enhain	riesa-gro 
+Mei�en	dresden 
+Brampton, Ontario	ontario 
+F�tima, Portugal	portugal 
+Lourdes	hautes-pyr 
+Knock, County Mayo	county mayo 
+Cologne Government Region	north rhine-westphalia 
+Olten (district)	olten 
+Ushuaia	tierra del fuego 
+Puerto Iguaz�	misiones 
+La Plata	buenos aires 
+Mendoza	mendoza province 
+R�o Cuarto	argentina 
+Salta City	argentina 
+Tandil	buenos aires province 
+Bah�a Blanca	buenos aires province 
+Bariloche	argentina 
+Gevelsberg	ennepe-ruhr rural district 
+Independencia Province	haiti 
+Paran�, Argentina	entre r�os province 
+Comodoro Rivadavia	chubut province 
+San Miguel de Tucum�n	tucum�n province 
+Coesfeld Rural District	m�nster 
+South India	india 
+Oberbergischer Rural District	north rhine-westphalia 
+Xi'an	china 
+Richmond, Kentucky	kentucky 
+Aguascalientes	mexico 
+Vicksburg, Mississippi	us 
+Kentucky River	kentucky 
+Bastia	corsica 
+Alchevsk	luhansk oblast 
+Kommunarsk	alchevsk 
+Itanagar	arunachal pradesh 
+Corte	haute-corse 
+Sart�ne	southern corsica 
+Calvi, Haute-Corse	haute-corse 
+Zionism	israel 
+Shinsh?shin, Nagano	nagano 
+Porto-Vecchio	corse-du-sud 
+Bonifacio	corsica 
+Nhat Le Beach	quang binh province 
+Varanasi	ganga 
+Philadelphia City Hall	philadelphia 
+Forcalquier	france 
+Margate	thanet 
+Mecklenburg-Strelitz Duchy	germany 
+Nanjing	china 
+San Jos� de Ocoa (city)	san jos� 
+Stanley, Falkland Islands	falkland islands 
+Cowlitz River	washington 
+Baoruco Province	hoya de enriquillo 
+Archbishopric of Salzburg	holy roman empire archbishop 
+Rheinfelden, Baden-W�rttemberg	germany 
+Felisburgo	minas gerais 
+Brazos Country, Texas	austin county 
+Yagan	perth 
+Petropavlovsk-Kamchatsky	russia 
+Stanley, Iowa	buchanan 
+Abrams, Wisconsin	oconto county 
+Ackley, Wisconsin	langlade county 
+Adams, Adams County, Wisconsin	adams county 
+Adams, Green County, Wisconsin	green county 
+Adams, Jackson County, Wisconsin	jackson county 
+Addison, Wisconsin	washington county 
+Miranda de Ebro	spain 
+Interstate H-3	hawaii 
+Adrian, Wisconsin	monroe county 
+Agenda, Wisconsin	ashland county 
+Ahnapee, Wisconsin	kewaunee county 
+Drammen	buskerud 
+Fulda	hesse 
+Unna	north rhine-westphalia 
+Oconto County, Wisconsin	wisconsin 
+Breckerfeld	ennepe-ruhr-kreis 
+S�o Jos�, Santa Catarina	santa catarina 
+Balne�rio Cambori�	santa catarina 
+Blumenau	santa catarina 
+Brusque, Brazil	santa catarina 
+Chapec�	santa catarina 
+Crici�ma	santa catarina 
+Itaja�	santa catarina 
+Jaragu� do Sul	santa catarina 
+Joa�aba	santa catarina 
+Joinville	santa catarina 
+Lages	santa catarina 
+Berwick-upon-Tweed	northumberland 
+Yelle	saint-brieuc 
+List of counties in North Carolina	north carolina 
+Basra	iraq 
+Wake County, North Carolina	north carolina 
+Durham County, North Carolina	north carolina 
+Nash County, North Carolina	north carolina 
+Granville County, North Carolina	north carolina 
+Franklin County, North Carolina	north carolina 
+Johnston County, North Carolina	north carolina 
+Yekaterinburg	russia 
+Harnett County, North Carolina	north carolina 
+Chatham County, North Carolina	north carolina 
+Carteret County, North Carolina	north carolina 
+Ancient Athens	athens 
+Hallstatt culture	austria 
+Alleghany County, North Carolina	north carolina 
+Sparta, North Carolina	alleghany county 
+Anson County, North Carolina	north carolina 
+Wadesboro, North Carolina	anson county 
+Alexander County, North Carolina	north carolina 
+Ashe County, North Carolina	north carolina 
+Avery County, North Carolina	north carolina 
+Geneva City	switzerland 
+Marktbreit	germany 
+Beaufort County, North Carolina	north carolina 
+Bertie County, North Carolina	north carolina 
+Bladen County, North Carolina	north carolina 
+Brunswick County, North Carolina	north carolina 
+Buncombe County, North Carolina	north carolina 
+Burke County, North Carolina	north carolina 
+Wailua River	hawaii 
+Waimea River (Hawaii)	hawaii 
+Cabarrus County, North Carolina	north carolina 
+Caldwell County, North Carolina	north carolina 
+Port-de-Paix	nord-ouest 
+Rostov on Don	russia 
+Camden County, North Carolina	north carolina 
+Caswell County, North Carolina	north carolina 
+Catawba County, North Carolina	north carolina 
+Cherokee County, North Carolina	north carolina 
+Chowan County, North Carolina	north carolina 
+Clay County, North Carolina	north carolina 
+Santa Cruz de Barahona	santa cruz 
+Choudhary Rahmat Ali	pakistan 
+Abbottabad	pakistan 
+Bannu	pakistan 
+Batagram	pakistan 
+Charsadda	pakistan 
+Chitral	pakistan 
+Dera Ismail Khan	pakistan 
+Hangu (Pakistan)	pakistan 
+Haripur, Pakistan	pakistan 
+Karak, Pakistan	pakistan 
+Kohat	pakistan 
+Lakki Marwat	pakistan 
+Mansehra	pakistan 
+Mardan	pakistan 
+Nowshera	pakistan 
+Alpuri	pakistan 
+Saidu Sharif	pakistan 
+Tank (Pakistan)	pakistan 
+Attock	pakistan 
+Bahawalnagar	pakistan 
+Bahawalpur	pakistan 
+Bhakkar	pakistan 
+Chakwal	pakistan 
+Dera Ghazi Khan	pakistan 
+Faisalabad	pakistan 
+Seer Gharbi	pakistan 
+Corumb�	mato grosso 
+Dourados	mato grosso 
+Ipswich	england 
+Provinces of Pakistan	asia 
+Christiania	denmark 
+Cherbourg-Octeville	france 
+Nazareth	israel 
+Olten	olten 
+Charleston, South Carolina	berkeley 
+Taunton, Massachusetts	bristol county 
+Toontown	los angeles 
+Langlade County, Wisconsin	wisconsin 
+Adams County, Wisconsin	wisconsin 
+Gresham Street	london 
+Joseba Sarrionandia	basque 
+Great Yarmouth	norfolk 
+Kaunas	lithuania 
+Soest, Germany	north rhine-westphalia 
+Boston, Lincolnshire	lincolnshire 
+Stade	lower saxony 
+Hasselt (Overijssel)	zwolle 
+Assisi	italy 
+Tartu	estonia 
+Battle of Stalingrad	stalingrad 
+Osroene	syria 
+Pskov	russia 
+Zutphen	gelderland 
+Satu Mare	satu mare county 
+Schwaz	tyrol 
+Trento	adige river 
+Znojmo	south moravian region 
+�ilal?	taurag? county 
+Rosignano Solvay	rosignano marittimo 
+Traralgon, Victoria	victoria 
+Norwich City F.C.	norwich 
+Birmingham City F.C	birmingham 
+Cardiff City F.C.	cardiff 
+Hull City A.F.C.	kingston 
+Luton Town F.C.	luton 
+Les Cayes	haiti 
+Stoke City F.C.	stoke-on-trent 
+Werl	soest 
+Hattem	netherlands 
+�scar Arias	heredia 
+Viljandi	estonia 
+Cookstown	northern ireland 
+Dungannon	northern ireland 
+Ballymena	northern ireland 
+Magherafelt	northern ireland 
+BT postcode area	northern ireland 
+Wrze?nia	wielkopolska 
+Visby	gotland 
+Kollam	kollam 
+Aiglun, Alpes-Maritimes	alpes-maritimes 
+Cantons of France	republic 
+Ballycastle	northern ireland 
+Bangor, County Down	county down 
+Banne	ard�che 
+Accons	ard�che 
+Ailhon	ard�che 
+Aizac	ard�che 
+Ajoux	ard�che 
+Albon-d'Ard�che	ard�che 
+Alboussi�re	ard�che 
+Alissas	ard�che 
+Earth, Texas	lamb county 
+Skokie, Illinois	illinois 
+Polotsk	belarus 
+Andance	ard�che 
+Annonay	ard�che 
+Antraigues-sur-Volane	ard�che 
+Arcens	ard�che 
+Ardoix	ard�che 
+Arlebosc	ard�che 
+Arras-sur-Rh�ne	ard�che 
+Asperjoc	ard�che 
+Les Assions	ard�che 
+Aubenas	ard�che 
+Aubignas	ard�che 
+Baix	ard�che 
+Balazuc	ard�che 
+Barnas	ard�che 
+Albi	france 
+San Jos�, Costa Rica	costa rica 
+Poas Volcano Costa Rica	po�s 
+Le B�age	ard�che 
+Beauchastel	ard�che 
+Beaulieu, Ard�che	ard�che 
+Beaumont, Ard�che	ard�che 
+Beauv�ne	ard�che 
+Berrias-et-Casteljau	ard�che 
+Berz�me	ard�che 
+Bessas	ard�che 
+Bidon	ard�che 
+Boffres	ard�che 
+Bor�e	ard�che 
+Borne, Ard�che	ard�che 
+Boucieu-le-Roi	ard�che 
+Boulieu-l�s-Annonay	ard�che 
+Bozas	ard�che 
+Brossainc	ard�che 
+Burzet	ard�che 
+Cellier-du-Luc	ard�che 
+Chalencon	ard�che 
+Le Chambon, Ard�che	ard�che 
+Chambonas	ard�che 
+Jac�, Costa Rica	costa rica 
+San Pedro de Macor�s (city)	san pedro 
+Oldenzaal	netherlands 
+Champagne, Ard�che	ard�che 
+Chandolas	ard�che 
+Chan�ac	ard�che 
+Charmes-sur-Rh�ne	ard�che 
+Charnas	ard�che 
+Jacmel	haiti 
+Privas	ard�che 
+Guilherand-Granges	ard�che 
+Jaujac	ard�che 
+Lab�gude	ard�che 
+Saint-P�ray	ard�che 
+Kansas City Royals	kansas city 
+Ucel	ard�che 
+Evil on Your Mind	grand ole opry 
+Howell County, Missouri	missouri 
+Oregon County, Missouri	missouri 
+Oregon Territory	united states 
+Jimboomba	queensland 
+Chassiers	ard�che 
+Ch�teaubourg, Ard�che	ard�che 
+Ch�teauneuf-de-Vernoux	ard�che 
+Rheine	steinfurt 
+Ibbenb�ren	steinfurt 
+Rio Negro	amazonas 
+Mallow, County Cork	county cork 
+Randalstown	county antrim 
+Paranagu�	paran� 
+Ostrava	republic 
+Capitol Hill Baptist Church	washington d.c. mark dever 
+Kurud	chhattisgarh 
+Florida State University	tallahassee 
+Times Square	manhattan 
+Club Atl�tico de Madrid	spain 
+Denpasar	bali 
+Kuta	bali 
+Kerobokan Prison	kerobokan 
+Edo	tokugawa 
+Mataram	lombok 
+Kingdom of Kerma	nubia 
+David Miliband	foreign 
+Jack Straw	justice 
+Jacqui Smith	home department 
+Des Browne	defense 
+Alan Johnson	health 
+Hilary Benn	environment 
+Douglas Alexander	international development 
+John Hutton	business 
+James Purnell	work 
+Paul Murphy	wales 
+Ruth Kelly	transport 
+Hazel Blears	communities 
+Ed Balls	children 
+Ed Miliband	lancaster 
+Andy Burnham	culture 
+Shaun Woodward	northern ireland 
+John Denham	innovation 
+Red Square	moscow 
+Tricity	gda?sk 
+David Mundell	scotland 
+Cheryl Gillan	wales 
+Owen Paterson	northern ireland 
+Alan Duncan	business 
+Jeremy Hunt	culture 
+Eric Pickles	communities 
+Peter Ainsworth	environment 
+Chris Grayling	work 
+Theresa Villiers	transport 
+Andrew Lansley	health 
+David Willetts	innovation 
+Michael Gove	children 
+Sakoku	japan 
+Padangbai	bali 
+Houten	utrecht 
+Northampton	east midlands 
+Agrabah	disney 
+Chengdu	republic 
+Coweta, Oklahoma	wagoner county 
+Wagoner County, Oklahoma	oklahoma 
+Tulsa County, Oklahoma	oklahoma 
+Wagoner, Oklahoma	wagoner county 
+Muskogee County, Oklahoma	oklahoma 
+Cherokee County, Oklahoma	oklahoma 
+Mao	santa cruz 
+Mayes County, Oklahoma	oklahoma 
+Rogers County, Oklahoma	oklahoma 
+Garching bei M�nchen	munich rural district 
+Chiang Mai	thailand 
+Shirahama	nishimuro district 
+Kansas City Chiefs	kansas city 
+Kelvedon	essex 
+Reno, Nevada	nevada 
+Unterschlei�heim	munich rural district 
+Pasadena, California	california 
+Rosenheim	upper bavaria 
+Ansbach	middle franconia 
+Passau	lower bavaria 
+Kempten im Allg�u	swabia 
+Straubing	lower bavaria 
+Memmingen	swabia 
+Kaufbeuren	swabia 
+Auburn University	alabama 
+Bursa	bursa 
+Dubbo, New South Wales	sydney 
+North Atlantic Treaty	nato 
+Kroppenstedt	b�rde 
+La Grange, Illinois	illinois 
+Hazelwood North, Victoria	victoria 
+Hasselt	belgium 
+Big Bear Lake, California	san bernardino county 
+Mallacoota, Victoria	east gippsland 
+Coba	pre-columbian maya 
+North Berwick	east lothian 
+Lake Annecy	france 
+Boto?ani	boto?ani county 
+Haan	mettmann 
+Chattanooga, Tennessee	tennessee 
+Greenville, South Carolina	south carolina 
+Amazonas State, Brazil	brazil 
+J�r�mie	haiti 
+Tizim�n	mexico 
+Flag of Oklahoma	oklahoma 
+Brad Henry	oklahoma 
+Governor of Oklahoma	oklahoma 
+Clarence Clifton Young	nevada 
+San Salvador	el salvador 
+Dong Hoi Airport	quang binh province 
+Chinon	indre-et-loire 
+Palenque	chiapas 
+Club de Gimnasia y Esgrima La Plata	la plata 
+St. Augustine, Florida	united states 
+Jefferson Parish, Louisiana	louisiana 
+King's Lynn	norfolk 
+Peterhof	petrodvortsovy district 
+Haltern	recklinghausen 
+Rapides Parish, Louisiana	louisiana 
+Michigan State University	east lansing 
+Flores	java 
+George Winston	michigan 
+Tangipahoa Parish, Louisiana	louisiana 
+The Crystal City	orson scott card 
+Biggar, South Lanarkshire	south lanarkshire 
+Motherwell	north lanarkshire 
+Wishaw	north lanarkshire 
+North Medwin River	scotland 
+South Medwin River	scotland 
+Hamilton, South Lanarkshire	south lanarkshire 
+Victoria, Bra?ov	bra?ov county 
+C�mpulung	arge? county 
+Craiova	dolj county 
+T�rgu Jiu	gorj county 
+Huitzilopochtli	tenochtitlan 
+Twillingate, Newfoundland and Labrador	twillingate islands 
+Gander, Newfoundland and Labrador	newfoundland 
+Liberty, Missouri	clay county 
+Billings, Montana	u.s. 
+West Jordan, Utah	salt lake city 
+University of Michigan	michigan 
+Mountain Brook, Alabama	jefferson county 
+Martiniano Ferreira Botelho	lord 
+Green Bay, Wisconsin	u.s. 
+Antioch, California	u.s. 
+Daly City, California	u.s. 
+Portsmouth, Virginia	u.s. 
+Shadow Moses Island	metal gear solid 
+Erie, Pennsylvania	u.s. 
+Richmond, California	u.s. 
+Jefferson County, Alabama	alabama 
+Kara� River	serbia 
+Thunder Bay, Ontario	northwestern ontario 
+Macroom	county cork 
+Wallachia	romania 
+Sighi?oara	mure? county 
+Athens	greece 
+Vilcabamba, Peru	inca empire 
+Nome, Alaska	seward peninsula 
+Uhland, Texas	caldwell 
+Catania	sicily 
+Messina	sicily 
+Buz?u County	muntenia 
+City of Illusions	illusions 
+Taranto	apulia 
+Parma	emilia-romagna 
+Olbia	sardinia 
+Civitavecchia	lazio 
+Agrigento	sicily 
+Reggio Emilia	emilia-romagna 
+Cagliari	sardinia 
+Foggia	apulia 
+Rimini	emilia-romagna 
+Syracuse, Italy	sicily 
+Governor of Florida	florida 
+Sassari	sardinia 
+Bull Hill	new york 
+Forl�	emilia-romagna 
+Latina	lazio 
+Monza	lombardy 
+Giugliano in Campania	campania 
+Le�n, Guanajuato	guanajuato 
+Ciudad Ju�rez	chihuahua 
+San Crist�bal Ecatepec	m�xico 
+Terry Sawchuk	national hockey league 
+Haines City, Florida	polk county 
+St. John's, Antigua and Barbuda	antigua 
+University of Illinois at Urbana-Champaign	illinois 
+Polk County, Florida	florida 
+?zmir	turkey 
+Antalya	turkey 
+Hatay	turkey 
+Morwell, Victoria	gippsland 
+Salta River	romania 
+Aigle	aigle 
+Kusadasi	ayd?n 
+Ayvalik	turkey 
+Bregenz	austria 
+Yalova	august 
+Mudanya	sea 
+Manisa	turkey 
+Eski?ehir	turkey 
+Gaziantep	turkey 
+Uludag University	bursa 
+Taksim Square	beyo?lu 
+Gebze	kocaeli 
+Dalaman	turkey 
+City of Birmingham Symphony Orchestra	birmingham symphony orchestra 
+Azad Kashmir	jammu 
+Baja California Sur	mexico 
+London Luton Airport	luton 
+London City Airport	stol 
+Budgam District	indian-held kashmir 
+Srinagar District	jammu 
+Latvian language	latvia 
+Northern Areas	jammu 
+Mazamitla	mexican state 
+Stupina River (Olt)	romania 
+�anakkale	turkey 
+Islamgarh	mangla dam 
+Great Seal of Vermont	vermont 
+Quer�taro	mexico 
+Campeche	mexico 
+Oaxaco	mexico 
+Koli-Parkari	nagar parkar 
+Sunspot	sun 
+Kuru, Finland	finland 
+History of Kashmir	jammu 
+Jammu region	azad kashmir 
+Denis Herron	national hockey league 
+San Luis Potos�	mexico 
+Morelos	mexico 
+Michoac�n	mexico 
+Colima (state)	mexico 
+Guerrero	mexico 
+Coahuila	mexico 
+Hidalgo	mexico 
+Utah State University	logan 
+Trutnov	hradec kr�lov� region 
+Jammu	jammu 
+Leh	himalayan 
+Srinagar (Iqbalabad)	jammu 
+Anantnag	islamabad district 
+Creston, Iowa	union county 
+Tabasco	mexico 
+Tamaulipas	mexico 
+Zacatecas	mexico 
+Portland, Maine	u.s. 
+Coweta County, Georgia	georgia 
+Olympia Snowe	congress 
+Bowdon, Georgia	carroll county 
+Sokoto	nigeria 
+Moca, Dominican Republic	moca 
+Niger Delta	nigeria 
+Durango	mexico 
+Bay Area Rapid Transit	california 
+Anshan	iran 
+The Kassite dynasty of Babylon	babylon 
+Kochi, India	kerala 
+Assamese language	assam 
+Dawson Island	punta arenas 
+Ko�ice	slovakia 
+Clare, Suffolk	river stour 
+Muzaffarabad	azad kashmir 
+Tomatina	bu�ol 
+Palembang	sumatra 
+Beccles	suffolk 
+Guanajuato	mexico 
+Yucat�n	mexico 
+Palatine, Illinois	illinois 
+Kitaky?sh?	fukuoka prefecture 
+Naas	county kildare 
+Detroit Wolverines	detroit 
+Shimon Peres	israel 
+Ehud Olmert	israel 
+Lichtenstein (Saxony)	saxony 
+Salem, Massachusetts	essex country 
+Barbour County, Alabama	alabama 
+Monpazier	france 
+Coventry City Football Club	fa cup 
+Sarlat-la-Can�da	france 
+Bergerac	france 
+Virginia Polytechnic Institute and State University	blacksburg 
+North Carolina State University	raleigh 
+Louisiana State University and A&M College	baton rouge 
+Urla	?zmir provience 
+Ormuri	kaniguram 
+Ferozpur District	punjab 
+Pathankot Tehsil	gurdaspur 
+Kori Creek	gujarat 
+Home city ice	united states 
+Lollywood	lahore 
+Sikhsm in Pakistan	punjab 
+Banbury	river cherwell 
+Burlington, Iowa	des moines county 
+Cedar Rapids, Iowa	u.s. 
+Orvieto Cathedral	orvieto 
+Uppsala Cathedral	uppsala 
+York Cathedral	york 
+Carlisle Cathedral	carlisle 
+York Minster	york 
+Selby Abbey	selby 
+Pollywood	peshawar 
+Poprad	slovakia 
+Indian Wells	riverside county 
+Indian Wells Masters	wells 
+Wagga Wagga, New South Wales	murrumbidgee river 
+Palestine Liberation Organization	palestinians 
+Bury St Edmunds	suffolk 
+Greater Toronto Area	mississauga 
+Paisley	glasgow 
+Falkirk	scotland 
+Kalamazoo, Michigan	u.s. 
+Akakor	brazil 
+Ohio State University	columbus 
+Dalgety Bay	fife 
+Caen	france 
+Exeter Cathedral	exeter 
+Coutances Cathedral	normandy 
+Kathua District	occupied kashmir 
+South Tibet	india 
+Karachi District	pakistan 
+Shikarpur District	shikarpur 
+Kashmore District	kashmore 
+Tando Allahyar District	tando allahyar 
+Filderstadt	esslingen 
+Logan International Airport	winthrop 
+Lower Manhattan	new york 
+No Country for Old Men (movie)	old men 
+Maremma	italy 
+Chakswari Tehsil	mirpur district 
+Mirpur	azad jammu 
+Jalalabad, Punjab	ferozpur district 
+Kupferhof Bauschenberg	stolberg 
+Rawalpindi	pothohar plateau 
+Bagh Tehsil	bagh district 
+Bijbehara Tehsil	islamabad district 
+Kulgam Tehsil	islamabad district 
+Pahalgam Tehsil	islamabad district 
+Baramulla Tehsil	baramulla 
+Sopore Tehsil	baramulla 
+Akhnoor Tehsil	jammu district 
+Pomona, California	los angeles county 
+Sin City (movie)	frank miller 
+Del Rio, Texas	val verde county 
+Eton, Berkshire	berkshire 
+Entourage (TV series)	hollywood 
+Dajab�n Province	haiti 
+Barbican Arts Centre	london 
+Kurume	northern kyushu 
+Airdrie United F.C.	airdrie 
+Kurram Agency	pakistan 
+Miran Shah	north waziristan agency 
+Kajaani	kainuu 
+Worthing	west sussex 
+Li�ge	belgium 
+Jamrud	khyber agency 
+Ghulam Khan Tehsil	north waziristan agency 
+Mir Ali Tehsil	pakistan 
+Awaran Tehsil	awaran district 
+Jhal Jhao Tehsil	balochistan 
+Korak Tehsil	awaran district 
+Badin	sindh 
+Bahawalnagar Tehsil	bahawalnagar district 
+Chishtian Tehsil	bahawalnagar district 
+Hasilpur Tehsil	bahawalpur district 
+Bhakkar Tehsil	bhakkar district 
+Darya Khan Tehsil	bhakkar district 
+Bhimber Tehsil	bhimber district 
+Bhag Tehsil	bolan district 
+Chagai Tehsil	chagai district 
+Nushki Tehsil	balochistan 
+Chakwal Tehsil	chakwal district 
+Charsadda Tehsil	charsadda district 
+Tangi Tehsil	hashtnagar 
+Kulachi Tehsil	kulachi tehsil 
+Bhaderwah Tehsil	doda district 
+Ghotki	northern sindh 
+Mirpur Mathelo	ghotki district 
+Nowshera Virkan Tehsil	gujranwala 
+Wazirabad Tehsil	gujranwala district 
+Ormara Tehsil	makran 
+Hafizabad Tehsil	hafizabad district 
+Chiniot Tehsil	punjab 
+Pind Dadan Khan Tehsil	jhelum district 
+Dina	jhelum district 
+Banda Daud Shah Tehsil	north-west frontier province 
+Kashmore	kashmor district 
+Chunian Tehsil	punjab 
+Kasur Tehsil	bulleh shah 
+Kharan Tehsil	kharan district 
+Kohlu Tehsil	kohlu district 
+Sonmiani Tehsil	balochistan 
+Uthal Tehsil	lasbela district 
+Lodhran Tehsil	lodhran district 
+Mansehra Tehsil	n 
+Dasht Tehsil	kech district 
+Mastung Tehsil	mastung district 
+Hala, Sindh	pakistani 
+Matiari	matyari district 
+Mianwali Tehsil	mianwali district 
+Sher Shah Tehsil	multan district 
+Kot Addu Tehsil	muzaffargarh district 
+Muzaffargarh	punjab 
+Jhal Magsi Tehsil	kachhi district 
+Dera Murad Jamali Tehsil	balochistan 
+Bhiria	naushahro feroze district 
+Moro	naushahro feroze district 
+Mehrabpur	naushahro feroze district 
+Pakpattan Tehsil	pakpattan district 
+Panjgur	panjgur district 
+Bostan Tehsil	balochistan 
+Pishin	pishin district 
+Pulwama Tehsil	pulwama district 
+Khanpur Tehsil	punjab 
+Jampur Tehsil	rajanpur district 
+Rawalpindi Tehsil	rawalpindi 
+Jhando Mari	tando allah yaar district 
+Mithi	tharparkar district 
+Jam Nawaz Ali Tehsil	sanghar district 
+Shahdadpur Tehsil	sindh 
+Tando Adam Khan Tehsil	sindh 
+Besham Tehsil	shangla district 
+Chakesar Tehsil	shangla district 
+Daska Tehsil	punjab 
+Pasrur Tehsil	sialkot district 
+Sambrial Tehsil	sialkot district 
+Lehri Tehsil	sibi district 
+Sukkur Taluka	sukkur district 
+Rohri Taluka	rohri 
+Steve Young (American football)	nfl 
+Sehwan Sharif Tehsil	dadu district 
+Dokri	larkana district 
+Okara Tehsil	okara district 
+Newington, London	london borough 
+Jeff Suppan	milwaukee brewers 
+Caorle	veneto 
+Mexicali	mexico 
+Scranton, Pennsylvania	pennsylvania 
+Lahor	swabi district 
+Mandi Bahauddin	mandi bahauddin district 
+Talagang	pakistan 
+Terry Goodkind	nebraska 
+Kallar Kahar	chakwal district 
+Texas State University�San Marcos	san marcos 
+Northeastern State University	tahlequah 
+The Evergreen State College	olympia 
+Sara Evans	boonville 
+Dhaka Division	asia 
+Kala Dhaka	mansehra district 
+Hazara, Pakistan	north-west frontier province 
+Geography of Romania	romania 
+Harappa	punjab 
+Gilgit Agency	kashmir 
+Samaro	sindh 
+Schloss Lenzburg	lenzburg 
+Knoxville, Tennessee	tennessee 
+University of York	york 
+Maratha Rashtra Parishad	maharashtra 
+Tawi River	jammu 
+Gilgit River	gilgit 
+Palos Verdes	california 
+Troy	trojan war 
+Tucumcari, New Mexico	u.s. 
+Malden, Massachusetts	middlesex county 
+Oxnard, California	ventura county 
+Saint-�tienne	france 
+Vallejo, California	solano county 
+Islamabad Capital Territory	pakistan 
+Royal Ontario Museum	toronto 
+Kakul	kakul valley 
+Murree	rawalpindi district 
+Nathia Gali	pakistan 
+Trans-Karakoram Tract	india 
+Shaksgam Valley	baltistan district 
+Sherwan	abbottabad 
+Interstate 4	florida 
+Ra�l Castro	cuba 
+Neil Entwistle	massachusetts 
+Walloon Brabant	belgium 
+Logro�o	spain 
+Chop (Ukraine)	zakarpattia oblast 
+Jenks, Oklahoma	tulsa county 
+Owasso, Oklahoma	rogers 
+Broken Arrow, Oklahoma	u.s. 
+Inuvik, Northwest Territories	northwest territories 
+Edmond, Oklahoma	oklahoma county 
+Oklahoma City Thunder	oklahoma city 
+Sakori	upasni maharaj 
+Sandbach	cheshire 
+Alsager	cheshire 
+Kasara Ghat Pass	kasara 
+Palakkad Gap Pass	south indian state 
+Ring of Fire (song)	johnny cash 
+Dal Lake	jammu 
+Hanna Lake	pakistan 
+Satpara Lake	skardu 
+Tornado Alley	united states 
+Idabel, Oklahoma	mccurtain county 
+Lawton, Oklahoma	comanche county 
+Moore, Oklahoma	cleveland county 
+Indian Territory	united states 
+Madgeburg	germany 
+Tiel	netherlands 
+Zanskar Range	kashmir 
+Karakoram Range	jammu 
+North Tyrol	tyrol 
+Vest-Telemark	norway 
+Bad Liebenwerda	elbe-elster 
+Comarnic	prahova county 
+Azuga	prahova county 
+Breaza	prahova county 
+Suceava	suceava county 
+Sinaia	prahova county 
+Bu?teni	prahova county 
+Miani, Punjab	bhalwal tehsil 
+Sargodha	sargodha district 
+Gulmarg	baramulla 
+Beveridge, Victoria	victoria 
+Calafat	dolj county 
+Albert Rosellini	washington 
+Sibiu County	transylvania 
+Dreamgirls	december 
+City designated by government ordinance	japan 
+History of Vilnius	lithuania 
+Galyat	islamabad 
+Nubra Valley	ladakh 
+Kharkiv	ukraine 
+SUNY Downstate Medical Center	new york health science center 
+Haines City High School	haines city 
+Jaisalmer	rajasthan 
+Amritsar	amritsar district 
+Amritsar District	punjab 
+Kashmir and Jammu	india 
+Jallianwala Bagh massacre	amritsar 
+Jallianwala Bagh	punjab 
+Almaty	kazakhstan 
+Lochee	angus 
+Caravaca de la Cruz	autonomous community 
+Scarborough, North Yorkshire	north sea 
+Indian-occupied Kashmir	india 
+Anadarko, Oklahoma	caddo county 
+Oklahoma City bombing	april 
+Cimarron County, Oklahoma	oklahoma 
+Bixby, Oklahoma	tulsa 
+Midwest City, Oklahoma	oklahoma county 
+Okemah, Oklahoma	okfuskee county 
+Powys	wales 
+East Tyrol	tyrol 
+Sam Houston State University	huntsville 
+Indiangrass	oklahoma 
+Port Silt Loam	oklahoma 
+Oklahoma! (song)	oklahoma 
+Oklahoma (disambiguation)	united states 
+Alo, NWFP	mardan district 
+Babini	mardan district 
+Babozai	mardan district 
+Bala Garhi	mardan district 
+Chamtar	mardan district 
+Charguli	mardan district 
+Dagai	mardan district 
+Dheri	mardan district 
+Garhi Daulatzai	mardan district 
+Garhi Ismail Zai	mardan district 
+Garyala	mardan district 
+Saro Shah	mardan district 
+Manacor	majorca 
+Kumamoto prefecture	kyushu 
+Mombasa	kenya 
+Saga Prefecture	kyushu 
+Glenrowan, Victoria	victoria 
+Dromore, County Down	northern ireland 
+Markbygden Wind Farm	sweden 
+Central Oklahoma	oklahoma 
+Cherokee Outlet	oklahoma 
+Four State Area	arkansas 
+Green Country (Oklahoma)	oklahoma 
+Kiamichi Country	oklahoma 
+Northwestern Oklahoma	oklahoma 
+Oklahoma Panhandle	oklahoma 
+South Central Oklahoma	oklahoma department 
+Southwestern Oklahoma	oklahoma 
+Stillwater, Oklahoma	payne county 
+Enid, Oklahoma	garfield county 
+Fort Gibson, Oklahoma	cherokee 
+Government of Oklahoma	oklahoma 
+List of counties in Oklahoma	oklahoma 
+Politics of Oklahoma	america 
+Adair County, Oklahoma	oklahoma 
+Alfalfa County, Oklahoma	oklahoma 
+Atoka County, Oklahoma	oklahoma 
+Beaver County, Oklahoma	oklahoma 
+Beckham County, Oklahoma	oklahoma 
+Blaine County, Oklahoma	oklahoma 
+Bryan County, Oklahoma	oklahoma 
+Caddo County, Oklahoma	oklahoma 
+Canadian County, Oklahoma	oklahoma 
+Carter County, Oklahoma	oklahoma 
+Choctaw County, Oklahoma	oklahoma 
+Cleveland County, Oklahoma	oklahoma 
+Coal County, Oklahoma	oklahoma 
+Comanche County, Oklahoma	oklahoma 
+Forbes, New South Wales	central west 
+Cotton County, Oklahoma	oklahoma 
+Craig County, Oklahoma	oklahoma 
+Creek County, Oklahoma	oklahoma 
+Custer County, Oklahoma	oklahoma 
+Delaware County, Oklahoma	oklahoma 
+Dewey County, Oklahoma	oklahoma 
+Ellis County, Oklahoma	oklahoma 
+Garfield County, Oklahoma	oklahoma 
+Garvin County, Oklahoma	oklahoma 
+Grady County, Oklahoma	oklahoma 
+Grant County, Oklahoma	oklahoma 
+Greer County, Oklahoma	oklahoma 
+Harmon County, Oklahoma	oklahoma 
+Harper County, Oklahoma	oklahoma 
+Haskell County, Oklahoma	oklahoma 
+Hughes County, Oklahoma	oklahoma 
+Jackson County, Oklahoma	oklahoma 
+Jefferson County, Oklahoma	oklahoma 
+Johnston County, Oklahoma	oklahoma 
+Kay County, Oklahoma	oklahoma 
+Kingfisher County, Oklahoma	oklahoma 
+Kiowa County, Oklahoma	oklahoma 
+Latimer County, Oklahoma	oklahoma 
+Le Flore County, Oklahoma	oklahoma 
+Lincoln County, Oklahoma	oklahoma 
+Logan County, Oklahoma	oklahoma 
+Love County, Oklahoma	oklahoma 
+Major County, Oklahoma	oklahoma 
+Marshall County, Oklahoma	oklahoma 
+McClain County, Oklahoma	oklahoma 
+McCurtain County, Oklahoma	oklahoma 
+McIntosh County, Oklahoma	oklahoma 
+Murray County, Oklahoma	oklahoma 
+Noble County, Oklahoma	oklahoma 
+Nowata County, Oklahoma	oklahoma 
+Okfuskee County, Oklahoma	oklahoma 
+Oklahoma County, Oklahoma	oklahoma 
+Okmulgee County, Oklahoma	oklahoma 
+Osage County, Oklahoma	oklahoma 
+Ottawa County, Oklahoma	oklahoma 
+Pawnee County, Oklahoma	oklahoma 
+Payne County, Oklahoma	oklahoma 
+Pittsburg County, Oklahoma	oklahoma 
+Pontotoc County, Oklahoma	oklahoma 
+Pottawatomie County, Oklahoma	oklahoma 
+Pushmataha County, Oklahoma	oklahoma 
+Roger Mills County, Oklahoma	oklahoma 
+Seminole County, Oklahoma	oklahoma 
+Sequoyah County, Oklahoma	oklahoma 
+Stephens County, Oklahoma	oklahoma 
+Texas County, Oklahoma	oklahoma 
+Tillman County, Oklahoma	oklahoma 
+Washington County, Oklahoma	oklahoma 
+Washita County, Oklahoma	oklahoma 
+Woods County, Oklahoma	oklahoma 
+Woodward County, Oklahoma	oklahoma 
+Kampen (Overijssel)	netherlands 
+Oklahoma State University	stillwater 
+Brooklyn Bridge	manhattan 
+Main Page/Article 6	central united states 
+Brest, France	france 
+Chicago Police Department	chicago 
+N�mes	france 
+The Detroit News	detroit 
+Besan�on	france 
+Boulogne-Billancourt	paris 
+Perpignan	france 
+Murrurundi, New South Wales	upper hunter valley 
+Roubaix	france 
+Pau, France	aquitaine 
+Asni�res-sur-Seine	france 
+Fort-de-France	france 
+Argenteuil	paris 
+Colombes	paris 
+Montreuil, Seine-Saint-Denis	paris 
+Tourcoing	nord 
+Saint-Denis	paris 
+Wes Welker	new england patriots 
+Washington State Department of Transportation	transportation 
+Tahlequah, Oklahoma	cherokee county 
+Eugowra, New South Wales	new south wales 
+Nanterre	paris 
+Cr�teil	paris 
+Aulnay-sous-Bois	paris 
+Vitry-sur-Seine	paris 
+Avenel, Victoria	victoria 
+Greta, Victoria	victoria 
+City of Manchester Stadium	manchester stadium 
+Craven Cottage	london 
+Beechworth, Victoria	victoria 
+Airdrie	north lanarkshire 
+Cumbernauld	north lanarkshire 
+Livingston	west lothian 
+Dunfermline	fife 
+Greenock	inverclyde 
+Dumfries	dumfries 
+Dingwall	scotland 
+Dens Park	dundee 
+Vilanova i la Geltr�	barcelona 
+Victoria Park	dingwall 
+Interstate 182	washington 
+Ellensburg, Washington	washington 
+Umatilla, Oregon	oregon 
+Hermiston, Oregon	oregon 
+Richland, Washington	washington 
+Pasco, Washington	washington 
+Selah, Washington	washington 
+Union Gap, Washington	washington 
+Zillah, Washington	washington 
+Granger, Washington	washington 
+Sunnyside, Washington	washington 
+Grandview, Washington	washington 
+Prosser, Washington	washington 
+Benton City, Washington	washington 
+Kennewick, Washington	washington 
+Kittitas County, Washington	washington 
+Yakima County, Washington	washington 
+Benton County, Washington	washington 
+Umatilla County, Oregon	oregon 
+Tlaxcala (disambiguation)	mexico 
+Tlaxcala	mexico 
+Golda Meir	israel 
+Administrative county	england 
+Tlaxcala de Xicot�ncatl	tlaxcala 
+Dunedin	new zealand 
+Reebok Stadium	bolton 
+Gujar Khan	rawalpindi district 
+Ted Strickland	ohio 
+Villupuram	viluppuram district 
+Korba	chattisgarh 
+Negev	israel 
+Coat of Arms of Pakistan	pakistan 
+Forbidden City	palace museum 
+Lens, Pas-de-Calais	pas-de-calais 
+Methil	fife 
+Hockenheimring	hockenheim 
+Singapore Grand Prix	singapore 
+Circuit de Monaco	monte carlo 
+Anantnag district	jammu 
+Coppins	iver 
+Denison, Texas	grayson county 
+Dundalk	county louth 
+Victor Hammer (businessman)	hammer galleries 
+Hastings	east sussex 
+Pakistan Army	pakistan 
+Web of the City	harlan ellison 
+Government of Pakistan	head 
+Angelo State University	san angelo 
+Nicaragua	central america 
+Clyde F.C.	cumbernauld 
+Dundee F.C.	dundee 
+Anaximander	ionia 
+Islamic State of Afghanistan	afghanistan 
+Miletus	anatolia 
+Hot Country Sounds	billboard 
+Country Music Association Awards	cma awards 
+Bobo Dioulasso	burkina faso 
+Koudougou	burkina faso 
+Banfora	burkina faso 
+Ouahigouya	burkina faso 
+Londrina	paran� 
+Kaya	burkina faso 
+Maring�	paran� 
+Tenkodogo	burkina faso 
+Fada N'gourma	burkina faso 
+Ponta Grossa	paran� 
+D�dougou	burkina faso 
+Hound�	burkina faso 
+Foz do Igua�u	paran� 
+Cascavel	paran� 
+Guildford	surrey 
+Fatimah Jinnah Park	islamabad 
+Dachigam National Park	occupied kashmir 
+Hemis National Park	jammu 
+Salim Ali National Park	jammu 
+Gilgamesh	sumer 
+Z�rich S-Bahn	z�rich 
+Itapema	santa catarina 
+Nocera Inferiore	campania 
+Danubian Hills	slovakia 
+Arakawa River	japan 
+Herne Bay	kent 
+Murten	fribourg 
+Reculver	kent 
+Whitstable	kent 
+Renton, Washington	king county 
+Krompachy	slovakia 
+S�o Jos� dos Pinhais	greater curitiba 
+State bank of Pakistan	pakistan 
+Flag of Alabama	february 
+Chang'an	china 
+Kalahari Desert	kgalagadi africa 
+Pakistan State Oil (PSO)	pakistan 
+Durrani Empire	afghanistan 
+Joseph McCarthy	wisconsin 
+United States Secretary of State	secstate 
+Philippsburg	germany 
+Ainsworth, Wisconsin	langlade county 
+Erwitte	soest 
+United States Department of State	state department 
+United States Cabinet	treasury 
+Sligo	county sligo 
+Harlem	manhattan 
+Wetherby	west yorkshire 
+Pakistan Day	pakistan 
+Clinton, Mississippi	hinds county 
+Surrey, British Columbia	british columbia 
+Mathew Turner	bristol rugby 
+Muradabad	muradabad district 
+Canowindra, New South Wales	cowra 
+St. Anthony-Chapel	aachen 
+Junagadh & Manavadar	republic 
+Junagarh	junagadh 
+Timothy Pickering	george washington 
+Hyderabad State	empire 
+Battle of Granada	granada 
+Wadi Halfa	sudan 
+Letterkenny	county donegal 
+Ludu?	mure? county 
+Veracruz, Veracruz	veracruz 
+Fazilka Tehsil	ferozpur district 
+Ennis	republic 
+Waterford City	republic 
+Galway City	republic 
+Springfield, Massachusetts	hampden county 
+Cloth mill Offermann	stolberg 
+Ravenscraig	north lanarkshire 
+Asuncion	paraguay 
+Kilkenny	county kilkenny 
+Gaeltacht Quarter	falls road 
+Helsinki Olympic Stadium	finland 
+City of Halifax	halifax 
+Context switch	cpu 
+Nundle, New South Wales	new south wales 
+Gunnedah, New South Wales	new south wales 
+Michigan Territory	union 
+Piacenza	emilia-romagna 
+Levi Lincoln, Sr.	massachusetts 
+Horsforth	leeds 
+Quimper	france 
+Santa Cruz, Bolivia	bolivia 
+Goulburn, New South Wales	southern tablelands 
+Grenfell, New South Wales	central west 
+Chesterfield	derbyshire 
+Uttoxeter	staffordshire 
+Phetchabun	northeastern 
+Chittagong Hill Tracts	bangladesh 
+Royan	france 
+Cowra, New South Wales	new south wales 
+Manchester	greater manchester 
+Kollywood	tamil nadu 
+Mollywood	kerala 
+Capit�n Sarmiento, Buenos Aires	buenos aires province 
+Oriya	orissa 
+Sandalwood (cinema)	karnataka 
+Monrovia, California	california 
+Ithaca, New York	us state 
+Israeli-Palestinian conflict	israel 
+List of Polish presidents	president 
+Nishi-Hachioji	tokyo 
+Genovese crime family	mafia 
+Yasothon	thailand 
+Rajputstan (India)	india 
+Awadh (Uttar Pradesh)	india 
+Karnataka (Mysore)	republic 
+Assam (Asom)	hindustan 
+Bengal (India)	republic 
+Gambino crime family	mafia 
+Sakastan	india 
+Santiago de Compostela	galicia 
+Abu Ghraib prison	baghdad 
+Chief Minister	india 
+Government of the North-West Frontier Province	peshawar 
+Strathblane	scotland 
+Thornhill, Stirling	stirling 
+Bothwell	south lanarkshire 
+Burnside, South Lanarkshire	south lanarkshire 
+East Kilbride	south lanarkshire 
+Fairhill (Hamilton, South Lanarkshire)	hamilton 
+Cambuslang	glasgow 
+Rigside	lanark 
+Lesmahagow	lanark 
+Larkhall	south lanarkshire 
+Strathaven	south lanarkshire 
+Rutherglen	south lanarkshire 
+Westhill	aberdeenshire 
+Ruth Landes	city 
+Niobe	anatolia 
+Balfron	scotland 
+Gargunnock	stirling 
+Cambuskenneth	stirling 
+Garhi Yasin	sindh 
+Kippen	stirling 
+Killearn	scotland 
+Balmaha	stirling 
+Balquhidder	scotland 
+Bannockburn	stirling 
+Huntly, Scotland	aberdeenshire 
+Clerkhill	peterhead 
+Ellon, Aberdeenshire	aberdeenshire 
+Fraserburgh	aberdeenshire 
+Rosehearty	aberdeenshire 
+Stonehaven	scotland 
+Turriff	aberdeenshire 
+Abercrombie, Fife	st andrews 
+Bargeddie	north lanarkshire 
+Blackburn, Aberdeenshire	aberdeen 
+Banchory	aberdeenshire 
+Laurencekirk	kincardineshire 
+Inverbervie	scotland 
+Insch	garioch 
+Peterhead	aberdeenshire 
+Kintore, Aberdeenshire	inverurie 
+Portlethen	aberdeen 
+Upper Largo	east neuk 
+Abingdon, Virginia	washington county 
+Newport, Isle of Wight	isle 
+Brading	isle 
+Cowes	isle 
+Adamsville, Alabama	jefferson county 
+Alabaster, Alabama	birmingham 
+Alexander City, Alabama	tallapoosa county 
+Aliceville, Alabama	pickens county 
+Ashville, Alabama	st. clair county 
+Anniston, Alabama	calhoun county 
+Andalusia, Alabama	covington county 
+Atmore, Alabama	escambia county 
+Attalla, Alabama	etowah county 
+York, Alabama	sumter county 
+New Hope, Alabama	madison county 
+Uniontown, Alabama	perry county 
+Union Springs, Alabama	bullock county 
+Vestavia Hills, Alabama	jefferson 
+Vernon, Alabama	lamar county 
+Valley, Alabama	chambers county 
+Valley Grande, Alabama	dallas county 
+Northport, Alabama	tuscaloosa county 
+Jacksonville, Alabama	calhoun county 
+Jackson, Alabama	clarke county 
+Irondale, Alabama	jefferson county 
+Winfield, Alabama	fayette 
+Wetumpka, Alabama	elmore county 
+Weaver, Alabama	calhoun county 
+Warrior, Alabama	jefferson 
+Moapa Valley	nevada 
+Yass, New South Wales	southern tablelands 
+Pakistani	islamic republic 
+Georgetown, Kentucky	scott county 
+Peshawer	pakistan 
+Bay Minette, Alabama	baldwin county 
+Bakerhill, Alabama	barbour county 
+M postcode area	manchester 
+Bessemer, Alabama	jefferson county 
+Brent, Alabama	bibb county 
+Boaz, Alabama	etowah 
+Bridgeport, Alabama	jackson county 
+Brewton, Alabama	escambia county 
+Brighton, Alabama	jefferson county 
+Brighton (disambiguation)	east sussex 
+East Brewton, Alabama	escambia county 
+Brundidge, Alabama	pike county 
+Enterprise, Alabama	coffee 
+Elba, Alabama	coffee county 
+Coffee County, Alabama	alabama 
+ISLAMABAD	pakistan 
+Evergreen, Alabama	conecuh county 
+Eutaw, Alabama	greene county 
+Eufaula, Alabama	barbour county 
+Oxford, Alabama	calhoun 
+Opp, Alabama	covington county 
+Ozark, Alabama	dale county 
+Oneonta, Alabama	blount county 
+Opelika, Alabama	lee county 
+High Wycombe	buckinghamshire 
+Jammu division	azad kashmir 
+Hawke's Bay (Karachi)	keamari town 
+Samos City	samos 
+Tann, Hesse	fulda 
+Heraclion	crete 
+Tuskegee, Alabama	macon county 
+Tuscumbia, Alabama	colbert county 
+Tuscaloosa County, Alabama	alabama 
+Trussville, Alabama	birmingham 
+Thomasville, Alabama	clarke county 
+Tarrant, Alabama	jefferson county 
+Tallassee, Alabama	elmore 
+Talladega, Alabama	talladega county 
+Troy, Alabama	pike county 
+Dadeville, Alabama	tallapoosa county 
+Daleville, Alabama	dale county 
+Daphne, Alabama	baldwin county 
+Dora, Alabama	walker county 
+Demopolis, Alabama	marengo county 
+Lanett, Alabama	chambers county 
+La Fayette, Alabama	chambers county 
+Leeds, Alabama	jefferson 
+Lynchburg, Virginia	commonwealth 
+Irvine, North Ayrshire	north ayrshire 
+Aberdour	fife 
+Kirkcaldy	fife 
+Rosyth	fife 
+Faro	algarve 
+Washington, Georgia	wilkes county 
+Araluen, New South Wales	braidwood 
+Kempen (Germany)	germany 
+Gundagai, New South Wales	new south wales 
+Parkes, New South Wales	new south wales 
+Ioannina	greece 
+Lamia	greece 
+Patiala and East Punjab States Union	india 
+Multan	punjab 
+Baldia Town	karachi 
+Long Eaton School	long eaton 
+Long Eaton	derbyshire 
+Government of Punjab	punjab province 
+Pegnitz (city)	bayreuth 
+Eraclea	venice 
+Norwell, Massachusetts	plymouth county 
+Sanghar	sindh 
+Dadu	sindh 
+Hyderabad City Taluka	hyderabad district 
+Tando Qaiser	hyderabad district 
+Tando Hyder	hyderabad district 
+Husri	hyderabad district 
+Moolan	hyderabad district 
+Tando Fazal	hyderabad district 
+Tando Jam	hyderabad district 
+Jacobabad	jacobabad district 
+Jamshoro	jamshoro district 
+Khairpur, Pakistan	sindh 
+Khayrpur (princely state)	indus river 
+Bahawalpur (princely state)	punjab 
+Dokri Taluka	larkana 
+Larkana	sindh province 
+Larkana Taluka	larkana 
+Mirpur Khas	sindh 
+Allahabad, Sindh	nawabshah district 
+Naushahro Feroze	naushahro feroze district 
+Tando Allahyar	sindh 
+Began Jarwar	tando allahyar district 
+Bukera Sharif	tando allahyar district 
+Dad Khan Jarwar	tando allahyar district 
+Dasori	tando allahyar district 
+Dhaghano Bozdar	tando allahyar district 
+Mirabad	tando allahyar district 
+Pak Singhar	tando allahyar district 
+Piyaro Lund	tando allahyar district 
+Sanjar Chang	tando allahyar district 
+Shaikh Moosa	tando allahyar district 
+Jalalabad	afghanistan 
+President of Pakistan	pakistan 
+Bakrani	larkana district 
+Ratodero	ratodero taluka 
+Shakargarh	pakistan 
+Chambar	tando allahyar district 
+Chamber Taluka	chambar 
+Lincoln, Alabama	talladega county 
+Linden, Alabama	marengo county 
+Lineville, Alabama	clay county 
+Lipscomb, Alabama	jefferson county 
+Livingston, Alabama	sumter county 
+Luverne, Alabama	crenshaw county 
+Tampa Bay Area	west central florida 
+Lincoln City F.C.	football league 
+W�rttemberg	germany 
+Tiraspol	transnistria 
+Sukhumi	abkhazia 
+Tskhinvali	south ossetia 
+Mariehamm	aaland islands 
+Funchal	madeira 
+Simferopol	crimea 
+Gooloogong, New South Wales	new south wales 
+Boorowa, New South Wales	new south wales 
+Murringo, New South Wales	new south wales 
+Wellington, New South Wales	new south wales 
+Binalong, New South Wales	new south wales 
+Muscle Shoals, Alabama	colbert county 
+Moulton, Alabama	lawrence county 
+Montevallo, Alabama	shelby county 
+Monroeville, Alabama	monroe county 
+Millbrook, Alabama	autauga 
+Madison, Alabama	limestone 
+Midfield, Alabama	jefferson county 
+Fairhope, Alabama	baldwin county 
+Fairfield, Alabama	jefferson county 
+Fultondale, Alabama	jefferson county 
+Fruithurst, Alabama	cleburne county 
+Fort Payne, Alabama	dekalb county 
+Fort Mitchell, Alabama	russell county 
+Foley, Alabama	baldwin county 
+Florence, Alabama	lauderdale county 
+Florala, Alabama	covington county 
+Fayette, Alabama	fayette county 
+Russellville, Alabama	franklin county 
+Robertsdale, Alabama	baldwin county 
+Roanoke, Alabama	randolph county 
+Reform, Alabama	pickens county 
+Red Bay, Alabama	franklin county 
+Rainsville, Alabama	dekalb county 
+Rainbow City, Alabama	etowah county 
+Rheda-Wiedenbr�ck	g�tersloh 
+Debrecen	hajdu-bihar 
+Leeds Triennial Festival	leeds 
+Yoxall	staffordshire 
+Battle, East Sussex	east sussex 
+List of people from Dunedin	dunedin 
+Donegal	county donegal 
+Dingle	county kerry 
+Young, New South Wales	new south wales 
+Launceston	australia 
+Confederation of the Rhine	first french empire 
+Kensington, Calgary	calgary 
+Pontifical Catholic University of Rio de Janeiro	rio 
+Bayreuth Festspielhaus	bayreuth 
+Kilmacolm	inverclyde 
+Port Glasgow	inverclyde 
+Largs	north ayrshire 
+Dunoon	argyll 
+Falkland, Fife	fife 
+Dagenham	london 
+Grays	essex 
+Carcoar, New South Wales	new south wales 
+Gravesend	kent 
+Oban	argyll 
+Argyll and Bute	scotland 
+Halesowen	west midlands 
+Camberley	surrey 
+Petersfield, Hampshire	hampshire 
+Waterlooville	hampshire 
+Havant	hampshire 
+Steyning	west sussex 
+Lancing, West Sussex	west sussex 
+Bognor Regis	west sussex 
+Burgess Hill	west sussex 
+Haywards Heath	west sussex 
+Lewes	east sussex 
+Uckfield	east sussex 
+Bexhill-on-Sea	east sussex 
+Royal Tunbridge Wells	kent 
+Folkestone	kent 
+Westward Ho!	devon 
+Bude	cornwall 
+Padstow	cornwall 
+Pima county	arizona 
+Aviemore	highland 
+Swansea	wales 
+Bathgate	west lothian 
+Bo'ness	falkirk 
+Kilwinning	north ayrshire 
+Lasswade	midlothian 
+West Lothian	scotland 
+Midlothian	scotland 
+East Lothian	scotland 
+Falkirk (council area)	scotland 
+Auchtertool	fife 
+Cowdenbeath	fife 
+Moray	scotland 
+South Ayrshire	scotland 
+Angus	scotland 
+Clackmannanshire	scotland 
+Selby	north yorkshire 
+Goole	east riding 
+Burnley	lancashire 
+Broadstairs	kent 
+Street, Somerset	somerset 
+Warminster	wiltshire 
+Wisbech	cambridgeshire 
+Pant, Shropshire	shropshire 
+Southport	merseyside 
+Kenosha, Wisconsin	kenosha county 
+Kenosha County, Wisconsin	wisconsin 
+Quincy, Massachusetts	norfolk county 
+Cootamundra, New South Wales	new south wales 
+Kermanshah	kermanshah province 
+Nottingham Express Transit	england 
+Queanbeyan, New South Wales	new south wales 
+Sandon, British Columbia	british columbia 
+T�rgovi?te	d�mbovi?a county 
+Pomaia	santa luce 
+Brunello di Montalcino	montalcino 
+Pienza	siena 
+Empoli	tuscany 
+Gateshead	tyne 
+Rotheram	south yorkshire 
+Halle, Saxony-Anhalt	saxony-anhalt 
+Clay Cross	north east derbyshire 
+State of the World	world 
+James Hansen	goddard space flight center 
+Brighton, Indiana	greenfield township 
+Sunbury-on-Thames	surrey 
+Prichard, Alabama	mobile county 
+Prattville, Alabama	autauga 
+Pleasant Grove, Alabama	jefferson county 
+Pinson, Alabama	birmingham 
+Pike Road, Alabama	montgomery county 
+Piedmont, Alabama	calhoun 
+Pell City, Alabama	st. clair county 
+Pelham, Alabama	birmingham 
+Phenix City, Alabama	lee county 
+Mound, Minnesota	hennepin county 
+Piombino	livorno 
+Re?i?a	romania 
+Orbetello	grosseto 
+Pontedera	tuscany 
+Colle di Val d'Elsa	tuscany 
+Santa Croce sull'Arno	pisa 
+Gbangbatoke	sierra leone 
+Marlborough	wiltshire 
+Strehaia	mehedin?i county 
+Gyula, Hungary	b�k�s 
+Gadsden, Alabama	etowah county 
+Geneva, Alabama	geneva county 
+Gardendale, Alabama	jefferson county 
+Akan, Wisconsin	richland county 
+Alban, Wisconsin	portage county 
+Guntersville, Alabama	marshall county 
+Guin, Alabama	marion county 
+Greenville, Alabama	butler county 
+Greensboro, Alabama	hale county 
+Graysville, Alabama	jefferson county 
+Goodwater, Alabama	coosa county 
+Glencoe, Alabama	calhoun 
+Albany, Green County, Wisconsin	green county 
+Albany, Pepin County, Wisconsin	pepin county 
+Albion, Dane County, Wisconsin	dane county 
+Samson, Alabama	geneva county 
+Saraland, Alabama	mobile county 
+Satsuma, Alabama	mobile county 
+Scottsboro, Alabama	jackson county 
+Selma, Alabama	dallas county 
+Sheffield, Alabama	colbert county 
+Slocomb, Alabama	geneva county 
+Smiths Station, Alabama	lee county 
+Stevenson, Alabama	jackson county 
+Spanish Fort, Alabama	baldwin county 
+Southside, Alabama	etowah 
+Sulligent, Alabama	lamar county 
+Sumiton, Alabama	jefferson 
+Sylacauga, Alabama	talladega county 
+Nehoiu	buz?u county 
+Hamilton, Alabama	marion county 
+Hueytown, Alabama	jefferson county 
+Haleyville, Alabama	marion 
+Hanceville, Alabama	cullman county 
+Hartford, Alabama	geneva county 
+Heflin, Alabama	cleburne county 
+Headland, Alabama	henry county 
+Hartselle, Alabama	morgan county 
+Homewood, Alabama	jefferson county 
+Hokes Bluff, Alabama	etowah county 
+Helena, Alabama	jefferson 
+Adak, Alaska	alaska 
+Akhiok, Alaska	alaska 
+Akiak, Alaska	alaska 
+Akutan, Alaska	alaska 
+Alakanuk, Alaska	alaska 
+Aleknagik, Alaska	alaska 
+Allakaket, Alaska	alaska 
+Ambler, Alaska	alaska 
+Anaktuvuk Pass, Alaska	alaska 
+Anderson, Alaska	alaska 
+Angoon, Alaska	alaska 
+Aniak, Alaska	alaska 
+Anvik, Alaska	alaska 
+Atka, Alaska	alaska 
+Atqasuk, Alaska	alaska 
+Barrow, Alaska	alaska 
+Bethel, Alaska	alaska 
+Bettles, Alaska	alaska 
+Brevig Mission, Alaska	alaska 
+Buckland, Alaska	alaska 
+Central, Alaska	alaska 
+Chefornak, Alaska	alaska 
+Chevak, Alaska	alaska 
+Chignik, Alaska	alaska 
+Chuathbaluk, Alaska	alaska 
+Circle, Alaska	alaska 
+Circle Hot Springs, Alaska	alaska 
+Clark's Point, Alaska	alaska 
+Coffman Cove, Alaska	alaska 
+Cold Bay, Alaska	alaska 
+Cordova, Alaska	alaska 
+Craig, Alaska	alaska 
+Deering, Alaska	alaska 
+Delta Junction, Alaska	alaska 
+Dillingham, Alaska	alaska 
+Diomede, Alaska	alaska 
+Eagle, Alaska	alaska 
+Eek, Alaska	alaska 
+Egegik, Alaska	alaska 
+Ekwok, Alaska	alaska 
+Elim, Alaska	alaska 
+Emmonak, Alaska	alaska 
+Fairbanks, Alaska	alaska 
+False Pass, Alaska	alaska 
+Fort Yukon, Alaska	alaska 
+Galena, Alaska	alaska 
+Gambell, Alaska	alaska 
+Golovin, Alaska	alaska 
+Goodnews Bay, Alaska	alaska 
+Grayling, Alaska	alaska 
+Gustavus, Alaska	alaska 
+Juneau City and Borough, Alaska	alaska 
+Kachemak, Alaska	alaska 
+Kake, Alaska	alaska 
+Kaktovik, Alaska	alaska 
+Kaltag, Alaska	alaska 
+Kasaan, Alaska	alaska 
+Kenai, Alaska	alaska 
+Ketchikan, Alaska	alaska 
+Kiana, Alaska	alaska 
+King Cove, Alaska	alaska 
+Kivalina, Alaska	alaska 
+Klawock, Alaska	alaska 
+Kobuk, Alaska	alaska 
+Kodiak, Alaska	alaska 
+Kotlik, Alaska	alaska 
+Kotzebue, Alaska	alaska 
+Koyuk, Alaska	alaska 
+Koyukuk, Alaska	alaska 
+Kupreanof, Alaska	alaska 
+Kwethluk, Alaska	alaska 
+Larsen Bay, Alaska	alaska 
+Levelock, Alaska	alaska 
+Lower Kalskag, Alaska	alaska 
+Napakiak, Alaska	alaska 
+Napaskiak, Alaska	alaska 
+Nenana, Alaska	alaska 
+New Stuyahok, Alaska	alaska 
+Newhalen, Alaska	alaska 
+Nightmute, Alaska	alaska 
+Nikolai, Alaska	alaska 
+Nondalton, Alaska	alaska 
+Noorvik, Alaska	alaska 
+North Pole, Alaska	alaska 
+Nuiqsut, Alaska	alaska 
+Nulato, Alaska	alaska 
+Nunam Iqua, Alaska	alaska 
+Nunapitchuk, Alaska	alaska 
+Old Harbor, Alaska	alaska 
+Ouzinkie, Alaska	alaska 
+Palmer, Alaska	alaska 
+Pelican, Alaska	alaska 
+Petersburg, Alaska	alaska 
+Pilot Point, Alaska	alaska 
+Pilot Station, Alaska	alaska 
+Platinum, Alaska	alaska 
+Point Hope, Alaska	alaska 
+Port Alexander, Alaska	alaska 
+Port Heiden, Alaska	alaska 
+Port Lions, Alaska	alaska 
+Quinhagak, Alaska	alaska 
+Ruby, Alaska	alaska 
+Russian Mission, Alaska	alaska 
+Sand Point, Alaska	alaska 
+Savoonga, Alaska	alaska 
+Saxman, Alaska	alaska 
+Scammon Bay, Alaska	alaska 
+Selawik, Alaska	alaska 
+Seldovia, Alaska	alaska 
+Seward, Alaska	alaska 
+Shageluk, Alaska	alaska 
+Shaktoolik, Alaska	alaska 
+Shishmaref, Alaska	alaska 
+Shungnak, Alaska	alaska 
+Sitka City and Borough, Alaska	alaska 
+Skagway, Alaska	alaska 
+Soldotna, Alaska	alaska 
+St. George, Alaska	alaska 
+St. Mary's, Alaska	alaska 
+St. Michael, Alaska	alaska 
+St. Paul, Alaska	alaska 
+Stebbins, Alaska	alaska 
+Tanana, Alaska	alaska 
+Teller, Alaska	alaska 
+Tenakee Springs, Alaska	alaska 
+Thorne Bay, Alaska	alaska 
+Togiak, Alaska	alaska 
+Toksook Bay, Alaska	alaska 
+Unalakleet, Alaska	alaska 
+Unalaska, Alaska	alaska 
+Upper Kalskag, Alaska	alaska 
+Valdez, Alaska	alaska 
+Wainwright, Alaska	alaska 
+Wales, Alaska	alaska 
+White Mountain, Alaska	alaska 
+Wrangell, Alaska	alaska 
+Yakutat City and Borough, Alaska	alaska 
+Arkadelphia, Arkansas	arkansas 
+Arkansas City, Arkansas	arkansas 
+Ash Flat, Arkansas	arkansas 
+Ashdown, Arkansas	arkansas 
+Atkins, Arkansas	arkansas 
+Augusta, Arkansas	arkansas 
+Bald Knob, Arkansas	arkansas 
+Barling, Arkansas	arkansas 
+Batesville, Arkansas	arkansas 
+Bearden, Arkansas	arkansas 
+Beaver, Arkansas	arkansas 
+Beebe, Arkansas	arkansas 
+Bella Vista, Arkansas	arkansas 
+Benton, Arkansas	arkansas 
+Bentonville, Arkansas	arkansas 
+Berryville, Arkansas	arkansas 
+Bigelow, Arkansas	arkansas 
+Biggers, Arkansas	arkansas 
+Bismarck, Arkansas	arkansas 
+Black Oak, Arkansas	arkansas 
+Black Rock, Arkansas	arkansas 
+Bluff City, Arkansas	arkansas 
+Blytheville, Arkansas	arkansas 
+Bono, Arkansas	arkansas 
+Booneville, Arkansas	arkansas 
+Bradley, Arkansas	arkansas 
+Branch, Arkansas	arkansas 
+Brinkley, Arkansas	arkansas 
+Brookland, Arkansas	arkansas 
+Bryant, Arkansas	arkansas 
+Bull Shoals, Arkansas	arkansas 
+Cabot, Arkansas	arkansas 
+Calico Rock, Arkansas	arkansas 
+Camden, Arkansas	arkansas 
+Carlisle, Arkansas	arkansas 
+Cave City, Arkansas	arkansas 
+Centerton, Arkansas	arkansas 
+Charleston, Arkansas	arkansas 
+Cherokee Village, Arkansas	arkansas 
+Clarendon, Arkansas	arkansas 
+Clarksville, Arkansas	arkansas 
+Clinton, Arkansas	arkansas 
+Conway, Arkansas	arkansas 
+Corning, Arkansas	arkansas 
+Cotter, Arkansas	arkansas 
+Cotton Plant, Arkansas	arkansas 
+Crossett, Arkansas	arkansas 
+Cushman, Arkansas	arkansas 
+Danville, Arkansas	arkansas 
+Dardanelle, Arkansas	arkansas 
+De Queen, Arkansas	arkansas 
+Decatur, Arkansas	arkansas 
+Delaplaine, Arkansas	arkansas 
+Dermott, Arkansas	arkansas 
+Des Arc, Arkansas	arkansas 
+Diamond City, Arkansas	arkansas 
+Diaz, Arkansas	arkansas 
+Donaldson, Arkansas	arkansas 
+Dover, Arkansas	arkansas 
+Dumas, Arkansas	arkansas 
+Egypt, Arkansas	arkansas 
+El Dorado, Arkansas	arkansas 
+Elaine, Arkansas	arkansas 
+Eudora, Arkansas	arkansas 
+Eureka Springs, Arkansas	arkansas 
+Evening Shade, Arkansas	arkansas 
+Fairfield Bay, Arkansas	arkansas 
+Farmington, Arkansas	arkansas 
+Fayetteville, Arkansas	arkansas 
+Fifty-Six, Arkansas	arkansas 
+Fisher, Arkansas	arkansas 
+Flippin, Arkansas	arkansas 
+Fordyce, Arkansas	arkansas 
+Forrest City, Arkansas	arkansas 
+Fort Smith, Arkansas	arkansas 
+Fountain Lake, Arkansas	arkansas 
+Friendship, Arkansas	arkansas 
+Fulton County, Arkansas	arkansas 
+Gassville, Arkansas	arkansas 
+Gentry, Arkansas	arkansas 
+Gosnell, Arkansas	arkansas 
+Gravette, Arkansas	arkansas 
+Greenwood, Arkansas	arkansas 
+Guion, Arkansas	arkansas 
+Gurdon, Arkansas	arkansas 
+Guy, Arkansas	arkansas 
+Hamburg, Arkansas	arkansas 
+Hampton, Arkansas	arkansas 
+Harrison, Arkansas	arkansas 
+Heber Springs, Arkansas	arkansas 
+Highland, Arkansas	arkansas 
+Hot Springs, Arkansas	arkansas 
+Hoxie, Arkansas	arkansas 
+Jacksonville, Arkansas	arkansas 
+Jersey, Arkansas	arkansas 
+Jonesboro, Arkansas	arkansas 
+Keo, Arkansas	arkansas 
+Lake Village, Arkansas	arkansas 
+Lakeview, Arkansas	arkansas 
+Lavaca, Arkansas	arkansas 
+Leachville, Arkansas	arkansas 
+Lead Hill, Arkansas	arkansas 
+Leola, Arkansas	arkansas 
+Leslie, Arkansas	arkansas 
+Lincoln, Arkansas	arkansas 
+London, Arkansas	arkansas 
+Lonoke, Arkansas	arkansas 
+Lowell, Arkansas	arkansas 
+Madison, Arkansas	arkansas 
+Magazine, Arkansas	arkansas 
+Magnolia, Arkansas	arkansas 
+Malvern, Arkansas	arkansas 
+Mammoth Spring, Arkansas	arkansas 
+Mansfield, Arkansas	arkansas 
+Marianna, Arkansas	arkansas 
+Marion, Arkansas	arkansas 
+Marked Tree, Arkansas	arkansas 
+Marshall, Arkansas	arkansas 
+Marvell, Arkansas	arkansas 
+Maumelle, Arkansas	arkansas 
+McGehee, Arkansas	arkansas 
+Melbourne, Arkansas	arkansas 
+Mena, Arkansas	arkansas 
+Monticello, Arkansas	arkansas 
+Morrilton, Arkansas	arkansas 
+Mountain Home, Arkansas	arkansas 
+Mountain View, Arkansas	arkansas 
+Mountainburg, Arkansas	arkansas 
+Nashville, Arkansas	arkansas 
+Natural Steps, Arkansas	arkansas 
+Newport, Arkansas	arkansas 
+Norfork, Arkansas	arkansas 
+North Little Rock, Arkansas	arkansas 
+Ola, Arkansas	arkansas 
+Omaha, Arkansas	arkansas 
+Osceola, Arkansas	arkansas 
+Ozark, Arkansas	arkansas 
+Palestine, Arkansas	arkansas 
+Paragould, Arkansas	arkansas 
+Paris, Arkansas	arkansas 
+Pea Ridge, Arkansas	arkansas 
+Peach Orchard, Arkansas	arkansas 
+Perryville, Arkansas	arkansas 
+Piggott, Arkansas	arkansas 
+Pindall, Arkansas	arkansas 
+Pine Bluff, Arkansas	arkansas 
+Pocahontas, Arkansas	arkansas 
+Pottsville, Arkansas	arkansas 
+Poyen, Arkansas	arkansas 
+Prairie Grove, Arkansas	arkansas 
+Prescott, Arkansas	arkansas 
+Pyatt, Arkansas	arkansas 
+Ravenden, Arkansas	arkansas 
+Rector, Arkansas	arkansas 
+Rogers, Arkansas	arkansas 
+Romance, Arkansas	arkansas 
+Russellville, Arkansas	arkansas 
+Salem, Fulton County, Arkansas	arkansas 
+Salem, Saline County, Arkansas	arkansas 
+Saline County, Arkansas	arkansas 
+Scranton, Arkansas	arkansas 
+Searcy, Arkansas	arkansas 
+Sedgwick, Arkansas	arkansas 
+Sheridan, Arkansas	arkansas 
+Sherwood, Arkansas	arkansas 
+Shirley, Arkansas	arkansas 
+Sidney, Arkansas	arkansas 
+Siloam Springs, Arkansas	arkansas 
+Smackover, Arkansas	arkansas 
+Springdale, Arkansas	arkansas 
+St. Joe, Arkansas	arkansas 
+Star City, Arkansas	arkansas 
+Stuttgart, Arkansas	arkansas 
+Subiaco, Arkansas	arkansas 
+Sulphur Springs, Arkansas	arkansas 
+Texarkana, Arkansas	arkansas 
+Trumann, Arkansas	arkansas 
+Tuckerman, Arkansas	arkansas 
+Van Buren, Arkansas	arkansas 
+Vilonia, Arkansas	arkansas 
+Viola, Arkansas	arkansas 
+Waldenburg, Arkansas	arkansas 
+Waldron, Arkansas	arkansas 
+Walnut Ridge, Arkansas	arkansas 
+Warren, Arkansas	arkansas 
+Weiner, Arkansas	arkansas 
+West Fork, Arkansas	arkansas 
+West Helena, Arkansas	arkansas 
+West Memphis, Arkansas	arkansas 
+White Hall, Arkansas	arkansas 
+Wilton, Arkansas	arkansas 
+Winslow, Arkansas	arkansas 
+Wynne, Arkansas	arkansas 
+Yellville, Arkansas	arkansas 
+Hardy, Arkansas	arkansas 
+F.A.N.A.	jammu 
+Newark-on-Trent	nottingham 
+Sala S�o Paulo	s�o paulo 
+Pianoro	bologna 
+European Capital of Culture	culture 
+Cumans	black sea 
+Pula	istria county 
+Berne, New York	albany county 
+Rutgers University	new jersey 
+Pennsylvania State System of Higher Education	passhe 
+Montgomery County, Maryland	maryland 
+Fiesole	tuscany 
+Orvieto	umbria 
+Ifriqiya	libya 
+La Paz, Baja California Sur	baja california sur 
+Ansonia, Connecticut	connecticut 
+Bridgeport, Connecticut	connecticut 
+Bristol, Connecticut	connecticut 
+Danbury, Connecticut	connecticut 
+Derby, Connecticut	connecticut 
+Groton (city), Connecticut	connecticut 
+Meriden, Connecticut	connecticut 
+Middletown, Connecticut	connecticut 
+Milford, Connecticut	connecticut 
+New Britain, Connecticut	connecticut 
+New London, Connecticut	connecticut 
+Norwalk, Connecticut	connecticut 
+Norwich, Connecticut	connecticut 
+Shelton, Connecticut	connecticut 
+Stamford, Connecticut	connecticut 
+Torrington, Connecticut	connecticut 
+West Haven, Connecticut	connecticut 
+Winsted, Connecticut	connecticut 
+Delaware City, Delaware	delaware 
+Harrington, Delaware	delaware 
+Lewes, Delaware	delaware 
+Milford, Delaware	delaware 
+New Castle, Delaware	delaware 
+Newark, Delaware	delaware 
+Rehoboth Beach, Delaware	delaware 
+Seaford, Delaware	delaware 
+Alachua, Florida	florida 
+Altamonte Springs, Florida	florida 
+Anna Maria, Florida	florida 
+Apalachicola, Florida	florida 
+Apopka, Florida	florida 
+Arcadia, Florida	florida 
+Archer, Florida	florida 
+Atlantis, Florida	florida 
+Auburndale, Florida	florida 
+Avon Park, Florida	florida 
+Bartow, Florida	florida 
+Bay Lake, Florida	florida 
+Belle Glade, Florida	florida 
+Belle Isle, Florida	florida 
+Belleair Beach, Florida	florida 
+Belleair Bluffs, Florida	florida 
+Belleview, Florida	florida 
+Blountstown, Florida	florida 
+Boca Raton, Florida	florida 
+Bonifay, Florida	florida 
+Bonita Springs, Florida	florida 
+Bowling Green, Florida	florida 
+Boynton Beach, Florida	florida 
+Bradenton, Florida	florida 
+Bradenton Beach, Florida	florida 
+Bristol, Florida	florida 
+Brooksville, Florida	florida 
+Bunnell, Florida	florida 
+Bushnell, Florida	florida 
+Callaway, Florida	florida 
+Cape Canaveral, Florida	florida 
+Cape Coral, Florida	florida 
+Carrabelle, Florida	florida 
+Casselberry, Florida	florida 
+Cedar Key, Florida	florida 
+Center Hill, Florida	florida 
+Chattahoochee, Florida	florida 
+Chiefland, Florida	florida 
+Chipley, Florida	florida 
+Clermont, Florida	florida 
+Clewiston, Florida	florida 
+Cocoa, Florida	florida 
+Coconut Creek, Florida	florida 
+Coleman, Florida	florida 
+Cooper City, Florida	florida 
+Coral Gables, Florida	florida 
+Crescent City, Florida	florida 
+Crestview, Florida	florida 
+Crystal River, Florida	florida 
+Cutler Bay, Florida	florida 
+Dade City, Florida	florida 
+Dania Beach, Florida	florida 
+Davenport, Florida	florida 
+Daytona Beach, Florida	florida 
+Daytona Beach Shores, Florida	florida 
+DeBary, Florida	florida 
+DeFuniak Springs, Florida	florida 
+DeLand, Florida	florida 
+Deerfield Beach, Florida	florida 
+Delray Beach, Florida	florida 
+Deltona, Florida	florida 
+Destin, Florida	florida 
+Doral, Florida	florida 
+Dunedin, Florida	florida 
+Dunnellon, Florida	florida 
+Eagle Lake, Florida	florida 
+Edgewater, Volusia County, Florida	florida 
+Edgewood, Florida	florida 
+Englewood, Florida	florida 
+Everglades, Florida	florida 
+Fanning Springs, Florida	florida 
+Fellsmere, Florida	florida 
+Fernandina Beach, Florida	florida 
+Flagler Beach, Florida	florida 
+Florida City, Florida	florida 
+Fort Lauderdale, Florida	florida 
+Fort Meade, Florida	florida 
+Fort Myers, Florida	florida 
+Fort Pierce, Florida	florida 
+Freeport, Florida	florida 
+Frostproof, Florida	florida 
+Fruitland Park, Florida	florida 
+Graceville, Florida	florida 
+Green Cove Springs, Florida	florida 
+Greenacres, Florida	florida 
+Gretna, Florida	florida 
+Groveland, Florida	florida 
+Gulf Breeze, Florida	florida 
+Gulfport, Florida	florida 
+Hampton, Florida	florida 
+Hawthorne, Florida	florida 
+Hialeah, Florida	florida 
+Hialeah Gardens, Florida	florida 
+High Springs, Florida	florida 
+Holly Hill, Florida	florida 
+Holmes Beach, Florida	florida 
+Homestead, Florida	florida 
+Indian Harbour Beach, Florida	florida 
+Indian Rocks Beach, Florida	florida 
+Inverness, Florida	florida 
+Islandia, Florida	florida 
+Jacksonville Beach, Florida	florida 
+Jacob City, Florida	florida 
+Jasper, Florida	florida 
+Key Colony Beach, Florida	florida 
+Keystone Heights, Florida	florida 
+Kissimmee, Florida	florida 
+La Belle, Florida	florida 
+Lake Alfred, Florida	florida 
+Lake Buena Vista, Florida	florida 
+Lake Butler, Union County, Florida	florida 
+Lake City, Florida	florida 
+Lake Helen, Florida	florida 
+Lake Mary, Florida	florida 
+Lake Wales, Florida	florida 
+Lake Worth, Florida	florida 
+Lakeland, Florida	florida 
+Largo, Florida	florida 
+Lauderdale Lakes, Florida	florida 
+Lauderhill, Florida	florida 
+Laurel Hill, Florida	florida 
+Lawtey, Florida	florida 
+Layton, Florida	florida 
+Leesburg, Florida	florida 
+Lighthouse Point, Florida	florida 
+Live Oak, Florida	florida 
+Longwood, Florida	florida 
+Lynn Haven, Florida	florida 
+Macclenny, Florida	florida 
+Madeira Beach, Florida	florida 
+Madison, Florida	florida 
+Maitland, Florida	florida 
+Marathon, Florida	florida 
+Marco Island, Florida	florida 
+Margate, Florida	florida 
+Marianna, Florida	florida 
+Mary Esther, Florida	florida 
+Mascotte, Florida	florida 
+Melbourne, Florida	florida 
+Mexico Beach, Florida	florida 
+Miami Beach, Florida	florida 
+Miami Gardens, Florida	florida 
+Miami Springs, Florida	florida 
+Midway, Gadsden County, Florida	florida 
+Milton, Florida	florida 
+Minneola, Florida	florida 
+Miramar, Florida	florida 
+Monticello, Florida	florida 
+Moore Haven, Florida	florida 
+Mount Dora, Florida	florida 
+Mulberry, Florida	florida 
+Naples, Florida	florida 
+Neptune Beach, Florida	florida 
+New Port Richey, Florida	florida 
+New Smyrna Beach, Florida	florida 
+Newberry, Florida	florida 
+Niceville, Florida	florida 
+North Bay Village, Florida	florida 
+North Lauderdale, Florida	florida 
+North Miami, Florida	florida 
+North Miami Beach, Florida	florida 
+North Port, Florida	florida 
+Oak Hill, Florida	florida 
+Oakland, Florida	florida 
+Oakland Park, Florida	florida 
+Ocala, Florida	florida 
+Ocoee, Florida	florida 
+Okeechobee, Florida	florida 
+Oldsmar, Florida	florida 
+Opa-locka, Florida	florida 
+Orange City, Florida	florida 
+Ormond Beach, Florida	florida 
+Osteen, Florida	florida 
+Oviedo, Florida	florida 
+Pahokee, Florida	florida 
+Palatka, Florida	florida 
+Palm Bay, Florida	florida 
+Palm Beach Gardens, Florida	florida 
+Palm Coast, Florida	florida 
+Palmetto, Florida	florida 
+Panama City, Florida	florida 
+Panama City Beach, Florida	florida 
+Parker, Florida	florida 
+Parkland, Florida	florida 
+Pembroke Pines, Florida	florida 
+Pensacola, Florida	florida 
+Perry, Florida	florida 
+Pinellas Park, Florida	florida 
+Plant City, Florida	florida 
+Plantation, Florida	florida 
+Pompano Beach, Florida	florida 
+Port Orange, Florida	florida 
+Port Richey, Florida	florida 
+Port St. Joe, Florida	florida 
+Port St. Lucie, Florida	florida 
+Punta Gorda, Florida	florida 
+Quincy, Florida	florida 
+Riviera Beach, Florida	florida 
+Rockledge, Florida	florida 
+Safety Harbor, Florida	florida 
+San Antonio, Florida	florida 
+Sanford, Florida	florida 
+Sanibel, Florida	florida 
+Satellite Beach, Florida	florida 
+Sebastian, Florida	florida 
+Sebring, Florida	florida 
+Seminole, Florida	florida 
+Sopchoppy, Florida	florida 
+South Bay, Florida	florida 
+South Daytona, Florida	florida 
+South Miami, Florida	florida 
+South Pasadena, Florida	florida 
+Springfield, Florida	florida 
+St. Augustine Beach, Florida	florida 
+St. Cloud, Florida	florida 
+St. Marks, Florida	florida 
+St. Pete Beach, Florida	florida 
+Starke, Florida	florida 
+Sunny Isles Beach, Florida	florida 
+Sunrise, Florida	florida 
+Sweetwater, Florida	florida 
+Tamarac, Florida	florida 
+Tarpon Springs, Florida	florida 
+Tavares, Florida	florida 
+Temple Terrace, Florida	florida 
+Titusville, Florida	florida 
+Treasure Island, Florida	florida 
+Trenton, Florida	florida 
+Umatilla, Florida	florida 
+Valparaiso, Florida	florida 
+Venice, Florida	florida 
+Vernon, Florida	florida 
+Vero Beach, Florida	florida 
+Waldo, Florida	florida 
+Wauchula, Florida	florida 
+Webster, Florida	florida 
+Weeki Wachee, Florida	florida 
+West Melbourne, Florida	florida 
+West Miami, Florida	florida 
+West Palm Beach, Florida	florida 
+West Park, Florida	florida 
+Weston, Florida	florida 
+Wewahitchka, Florida	florida 
+Wildwood, Florida	florida 
+Williston, Florida	florida 
+Wilton Manors, Florida	florida 
+Winter Garden, Florida	florida 
+Winter Haven, Florida	florida 
+Winter Park, Florida	florida 
+Zephyrhills, Florida	florida 
+Central Florida	florida 
+Kanata, Ontario	ottawa 
+Aberdeen, Idaho	idaho 
+Acequia, Idaho	idaho 
+Albion, Idaho	idaho 
+American Falls, Idaho	idaho 
+Ammon, Idaho	idaho 
+Arco, Idaho	idaho 
+Arimo, Idaho	idaho 
+Ashton, Idaho	idaho 
+Athol, Idaho	idaho 
+Atomic City, Idaho	idaho 
+Bancroft, Idaho	idaho 
+Basalt, Idaho	idaho 
+Bellevue, Idaho	idaho 
+Blackfoot, Idaho	idaho 
+Bliss, Idaho	idaho 
+Bloomington, Idaho	idaho 
+Bonners Ferry, Idaho	idaho 
+Bovill, Idaho	idaho 
+Bruneau, Idaho	idaho 
+Buhl, Idaho	idaho 
+Burley, Idaho	idaho 
+Butte City, Idaho	idaho 
+Caldwell, Idaho	idaho 
+Cambridge, Idaho	idaho 
+Carey, Idaho	idaho 
+Cascade, Idaho	idaho 
+Castleford, Idaho	idaho 
+Challis, Idaho	idaho 
+Chubbuck, Idaho	idaho 
+Clark Fork, Idaho	idaho 
+Clarkia, Idaho	idaho 
+Clayton, Idaho	idaho 
+Clifton, Idaho	idaho 
+Coeur d'Alene, Idaho	idaho 
+Cottonwood, Idaho	idaho 
+Council, Idaho	idaho 
+Craigmont, Idaho	idaho 
+Crouch, Idaho	idaho 
+Culdesac, Idaho	idaho 
+Dalton Gardens, Idaho	idaho 
+Dayton, Idaho	idaho 
+Deary, Idaho	idaho 
+Declo, Idaho	idaho 
+Dietrich, Idaho	idaho 
+Donnelly, Idaho	idaho 
+Dover, Idaho	idaho 
+Downey, Idaho	idaho 
+Driggs, Idaho	idaho 
+Drummond, Idaho	idaho 
+Dubois, Idaho	idaho 
+Eagle, Idaho	idaho 
+East Hope, Idaho	idaho 
+Eden, Idaho	idaho 
+Elk River, Idaho	idaho 
+Emmett, Idaho	idaho 
+Fairfield, Idaho	idaho 
+Ferdinand, Idaho	idaho 
+Fernan Lake Village, Idaho	idaho 
+Fernwood, Idaho	idaho 
+Filer, Idaho	idaho 
+Firth, Idaho	idaho 
+Franklin, Idaho	idaho 
+Fruitland, Idaho	idaho 
+Garden City, Idaho	idaho 
+Genesee, Idaho	idaho 
+Georgetown, Idaho	idaho 
+Glenns Ferry, Idaho	idaho 
+Gooding, Idaho	idaho 
+Grace, Idaho	idaho 
+Grand View, Idaho	idaho 
+Grangeville, Idaho	idaho 
+Greenleaf, Idaho	idaho 
+Hagerman, Idaho	idaho 
+Hailey, Idaho	idaho 
+Hamer, Idaho	idaho 
+Hansen, Idaho	idaho 
+Harrison, Idaho	idaho 
+Hauser, Idaho	idaho 
+Hayden Lake, Idaho	idaho 
+Hayden, Idaho	idaho 
+Hazelton, Idaho	idaho 
+Heyburn, Idaho	idaho 
+Hollister, Idaho	idaho 
+Homedale, Idaho	idaho 
+Hope, Idaho	idaho 
+Horseshoe Bend, Idaho	idaho 
+North Bay, Ontario	nipissing district 
+Leeds railway station	united kingdom 
+Huetter, Idaho	idaho 
+Idaho City, Idaho	idaho 
+Idaho Falls, Idaho	idaho 
+Inkom, Idaho	idaho 
+Iona, Idaho	idaho 
+Irwin, Idaho	idaho 
+Island Park, Idaho	idaho 
+Jerome, Idaho	idaho 
+Juliaetta, Idaho	idaho 
+Kamiah, Idaho	idaho 
+Kellogg, Idaho	idaho 
+Kendrick, Idaho	idaho 
+Ketchum, Idaho	idaho 
+Kimberly, Idaho	idaho 
+Kooskia, Idaho	idaho 
+Kootenai, Idaho	idaho 
+Kuna, Idaho	idaho 
+Lapwai, Idaho	idaho 
+Lava Hot Springs, Idaho	idaho 
+Leadore, Idaho	idaho 
+Lewiston, Idaho	idaho 
+Lewisville, Idaho	idaho 
+Mackay, Idaho	idaho 
+Malad City, Idaho	idaho 
+Malta, Idaho	idaho 
+Marsing, Idaho	idaho 
+McCall, Idaho	idaho 
+McCammon, Idaho	idaho 
+Melba, Idaho	idaho 
+Menan, Idaho	idaho 
+Meridian, Idaho	idaho 
+Middleton, Idaho	idaho 
+Midvale, Idaho	idaho 
+Minidoka, Idaho	idaho 
+Montpelier, Idaho	idaho 
+Moore, Idaho	idaho 
+Moscow, Idaho	idaho 
+Mountain Home, Idaho	idaho 
+Moyie Springs, Idaho	idaho 
+Mud Lake, Idaho	idaho 
+Mullan, Idaho	idaho 
+Murtaugh, Idaho	idaho 
+Nampa, Idaho	idaho 
+New Meadows, Idaho	idaho 
+New Plymouth, Idaho	idaho 
+Newdale, Idaho	idaho 
+Nezperce, Idaho	idaho 
+Notus, Idaho	idaho 
+Oakley, Idaho	idaho 
+Oldtown, Idaho	idaho 
+Onaway, Idaho	idaho 
+Orofino, Idaho	idaho 
+Osburn, Idaho	idaho 
+Oxford, Idaho	idaho 
+Paris, Idaho	idaho 
+Parker, Idaho	idaho 
+Parma, Idaho	idaho 
+Paul, Idaho	idaho 
+Payette, Idaho	idaho 
+Peck, Idaho	idaho 
+Pierce, Idaho	idaho 
+Pinehurst, Idaho	idaho 
+Placerville, Idaho	idaho 
+Plummer, Idaho	idaho 
+Pocatello, Idaho	idaho 
+Ponderay, Idaho	idaho 
+Post Falls, Idaho	idaho 
+Potlatch, Idaho	idaho 
+Preston, Idaho	idaho 
+Priest River, Idaho	idaho 
+Rathdrum, Idaho	idaho 
+Reubens, Idaho	idaho 
+Rexburg, Idaho	idaho 
+Richfield, Idaho	idaho 
+Rigby, Idaho	idaho 
+Riggins, Idaho	idaho 
+Ririe, Idaho	idaho 
+Roberts, Idaho	idaho 
+Rockland, Idaho	idaho 
+Rupert, Idaho	idaho 
+Salmon, Idaho	idaho 
+Sandpoint, Idaho	idaho 
+Shelley, Idaho	idaho 
+Shoshone, Idaho	idaho 
+Smelterville, Idaho	idaho 
+Soda Springs, Idaho	idaho 
+Spencer, Idaho	idaho 
+Spirit Lake, Idaho	idaho 
+St. Anthony, Idaho	idaho 
+St. Charles, Idaho	idaho 
+St. Maries, Idaho	idaho 
+Stanley, Idaho	idaho 
+Star, Idaho	idaho 
+State Line, Idaho	idaho 
+Stites, Idaho	idaho 
+Sugar City, Idaho	idaho 
+Sun Valley, Idaho	idaho 
+Swan Valley, Idaho	idaho 
+Tensed, Idaho	idaho 
+Teton, Idaho	idaho 
+Tetonia, Idaho	idaho 
+Troy, Idaho	idaho 
+Twin Falls, Idaho	idaho 
+Ucon, Idaho	idaho 
+Victor, Idaho	idaho 
+Wallace, Idaho	idaho 
+Wardner, Idaho	idaho 
+Warm River, Idaho	idaho 
+Weippe, Idaho	idaho 
+Weiser, Idaho	idaho 
+Wendell, Idaho	idaho 
+Weston, Idaho	idaho 
+White Bird, Idaho	idaho 
+Wilder, Idaho	idaho 
+Winchester, Idaho	idaho 
+Worley, Idaho	idaho 
+Roundhay	leeds 
+Ada, Oklahoma	oklahoma 
+Aline, Oklahoma	oklahoma 
+Altus, Oklahoma	oklahoma 
+Alva, Oklahoma	oklahoma 
+Antlers, Oklahoma	oklahoma 
+Ardmore, Oklahoma	oklahoma 
+Asher, Oklahoma	oklahoma 
+Atoka, Oklahoma	oklahoma 
+Barnsdall, Oklahoma	oklahoma 
+Bartlesville, Oklahoma	oklahoma 
+Beaver, Oklahoma	oklahoma 
+Beggs, Oklahoma	oklahoma 
+Bethany, Oklahoma	oklahoma 
+Blackwell, Oklahoma	oklahoma 
+Blanchard, Oklahoma	oklahoma 
+Boise City, Oklahoma	oklahoma 
+Bowlegs, Oklahoma	oklahoma 
+Bridgeport, Oklahoma	oklahoma 
+Bristow, Oklahoma	oklahoma 
+Broken Bow, Oklahoma	oklahoma 
+Bunch, Oklahoma	oklahoma 
+Cache, Oklahoma	oklahoma 
+Catoosa, Oklahoma	oklahoma 
+Cedar Valley, Oklahoma	oklahoma 
+Centrahoma, Oklahoma	oklahoma 
+Chandler, Oklahoma	oklahoma 
+Checotah, Oklahoma	oklahoma 
+Chelsea, Oklahoma	oklahoma 
+Cherokee, Oklahoma	oklahoma 
+Chickasha, Oklahoma	oklahoma 
+Claremore, Oklahoma	oklahoma 
+Cleveland, Oklahoma	oklahoma 
+Clinton, Oklahoma	oklahoma 
+Coalgate, Oklahoma	oklahoma 
+Collinsville, Oklahoma	oklahoma 
+Comanche, Oklahoma	oklahoma 
+Commerce, Oklahoma	oklahoma 
+Crescent, Oklahoma	oklahoma 
+Cromwell, Oklahoma	oklahoma 
+Cushing, Oklahoma	oklahoma 
+Davis, Oklahoma	oklahoma 
+Del City, Oklahoma	oklahoma 
+Dewey, Oklahoma	oklahoma 
+Drumright, Oklahoma	oklahoma 
+Duncan, Oklahoma	oklahoma 
+Durant, Oklahoma	oklahoma 
+El Reno, Oklahoma	oklahoma 
+Elgin, Oklahoma	oklahoma 
+Elk City, Oklahoma	oklahoma 
+Erick, Oklahoma	oklahoma 
+Eufaula, Oklahoma	oklahoma 
+Fairview, Oklahoma	oklahoma 
+Frederick, Oklahoma	oklahoma 
+Garber, Oklahoma	oklahoma 
+Geary, Oklahoma	oklahoma 
+Glenpool, Oklahoma	oklahoma 
+Gould, Oklahoma	oklahoma 
+Grandfield, Oklahoma	oklahoma 
+Grove, Oklahoma	oklahoma 
+Guthrie, Oklahoma	oklahoma 
+Guymon, Oklahoma	oklahoma 
+Haileyville, Oklahoma	oklahoma 
+Harrah, Oklahoma	oklahoma 
+Hartshorne, Oklahoma	oklahoma 
+Healdton, Oklahoma	oklahoma 
+Heavener, Oklahoma	oklahoma 
+Henryetta, Oklahoma	oklahoma 
+Hobart, Oklahoma	oklahoma 
+Holdenville, Oklahoma	oklahoma 
+Hollis, Oklahoma	oklahoma 
+Hominy, Oklahoma	oklahoma 
+Hooker, Oklahoma	oklahoma 
+Hugo, Oklahoma	oklahoma 
+Inola, Oklahoma	oklahoma 
+Jay, Oklahoma	oklahoma 
+Kaw City, Oklahoma	oklahoma 
+Kingfisher, Oklahoma	oklahoma 
+Konawa, Oklahoma	oklahoma 
+Krebs, Oklahoma	oklahoma 
+Langston, Oklahoma	oklahoma 
+Lehigh, Oklahoma	oklahoma 
+Lexington, Oklahoma	oklahoma 
+Lindsay, Oklahoma	oklahoma 
+Lone Grove, Oklahoma	oklahoma 
+Madill, Oklahoma	oklahoma 
+Mangum, Oklahoma	oklahoma 
+Marietta, Oklahoma	oklahoma 
+Marlow, Oklahoma	oklahoma 
+Maud, Oklahoma	oklahoma 
+McAlester, Oklahoma	oklahoma 
+Medford, Oklahoma	oklahoma 
+Meeker, Oklahoma	oklahoma 
+Miami, Oklahoma	oklahoma 
+Minco, Oklahoma	oklahoma 
+Morris, Oklahoma	oklahoma 
+Muskogee, Oklahoma	oklahoma 
+Mustang, Oklahoma	oklahoma 
+New Cordell, Oklahoma	oklahoma 
+Newcastle, Oklahoma	oklahoma 
+Newkirk, Oklahoma	oklahoma 
+Nichols Hills, Oklahoma	oklahoma 
+Nicoma Park, Oklahoma	oklahoma 
+Noble, Oklahoma	oklahoma 
+Nowata, Oklahoma	oklahoma 
+Oakhurst, Oklahoma	oklahoma 
+Oilton, Oklahoma	oklahoma 
+Okmulgee, Oklahoma	oklahoma 
+Pauls Valley, Oklahoma	oklahoma 
+Pawhuska, Oklahoma	oklahoma 
+Pawnee, Oklahoma	oklahoma 
+Perkins, Oklahoma	oklahoma 
+Perry, Oklahoma	oklahoma 
+Picher, Oklahoma	oklahoma 
+Piedmont, Oklahoma	oklahoma 
+Ponca City, Oklahoma	oklahoma 
+Pond Creek, Oklahoma	oklahoma 
+Poteau, Oklahoma	oklahoma 
+Prague, Oklahoma	oklahoma 
+Pryor Creek, Oklahoma	oklahoma 
+Purcell, Oklahoma	oklahoma 
+Red Oak, Oklahoma	oklahoma 
+Ringwood, Oklahoma	oklahoma 
+Ripley, Oklahoma	oklahoma 
+Sallisaw, Oklahoma	oklahoma 
+Sand Springs, Oklahoma	oklahoma 
+Sapulpa, Oklahoma	oklahoma 
+Sasakwa, Oklahoma	oklahoma 
+Sayre, Oklahoma	oklahoma 
+Seiling, Oklahoma	oklahoma 
+Seminole, Oklahoma	oklahoma 
+Shawnee, Oklahoma	oklahoma 
+Shidler, Oklahoma	oklahoma 
+Snyder, Oklahoma	oklahoma 
+Spencer, Oklahoma	oklahoma 
+Stigler, Oklahoma	oklahoma 
+Stilwell, Oklahoma	oklahoma 
+Stroud, Oklahoma	oklahoma 
+Sulphur, Oklahoma	oklahoma 
+Tecumseh, Oklahoma	oklahoma 
+The Village, Oklahoma	oklahoma 
+Thomas, Oklahoma	oklahoma 
+Tishomingo, Oklahoma	oklahoma 
+Tonkawa, Oklahoma	oklahoma 
+Tupelo, Oklahoma	oklahoma 
+Tuttle, Oklahoma	oklahoma 
+Vinita, Oklahoma	oklahoma 
+Walters, Oklahoma	oklahoma 
+Wapanucka, Oklahoma	oklahoma 
+Warr Acres, Oklahoma	oklahoma 
+Watonga, Oklahoma	oklahoma 
+Waurika, Oklahoma	oklahoma 
+Waynoka, Oklahoma	oklahoma 
+Weatherford, Oklahoma	oklahoma 
+Wetumka, Oklahoma	oklahoma 
+Wewoka, Oklahoma	oklahoma 
+Wilburton, Oklahoma	oklahoma 
+Wilson, Oklahoma	oklahoma 
+Woodward, Oklahoma	oklahoma 
+Wynnewood, Oklahoma	oklahoma 
+Yale, Oklahoma	oklahoma 
+Yukon, Oklahoma	oklahoma 
+Zeb, Oklahoma	oklahoma 
+Zena, Oklahoma	oklahoma 
+Arcadia, Oklahoma	oklahoma 
+Adairville, Kentucky	kentucky 
+Albany, Kentucky	kentucky 
+Alexandria, Kentucky	kentucky 
+Allen, Kentucky	kentucky 
+Anchorage, Kentucky	kentucky 
+Arlington, Kentucky	kentucky 
+Ashland, Kentucky	kentucky 
+Auburn, Kentucky	kentucky 
+Audubon Park, Kentucky	kentucky 
+Augusta, Kentucky	kentucky 
+Bagdad, Kentucky	kentucky 
+Bancroft, Kentucky	kentucky 
+Barbourmeade, Kentucky	kentucky 
+Barbourville, Kentucky	kentucky 
+Bardstown, Kentucky	kentucky 
+Bardwell, Kentucky	kentucky 
+Barlow, Kentucky	kentucky 
+Beattyville, Kentucky	kentucky 
+Beaver Dam, Kentucky	kentucky 
+Bedford, Kentucky	kentucky 
+Beechwood Village, Kentucky	kentucky 
+Bellefonte, Kentucky	kentucky 
+Bellemeade, Kentucky	kentucky 
+Bellevue, Kentucky	kentucky 
+Bellewood, Kentucky	kentucky 
+Benham, Kentucky	kentucky 
+Benton, Kentucky	kentucky 
+Berea, Kentucky	kentucky 
+Berry, Kentucky	kentucky 
+Blackey, Kentucky	kentucky 
+Blaine, Kentucky	kentucky 
+Bloomfield, Kentucky	kentucky 
+Blue Ridge Manor, Kentucky	kentucky 
+Bonnieville, Kentucky	kentucky 
+Booneville, Kentucky	kentucky 
+Bowling Green, Kentucky	kentucky 
+Bradfordsville, Kentucky	kentucky 
+Brandenburg, Kentucky	kentucky 
+Bremen, Kentucky	kentucky 
+Briarwood, Kentucky	kentucky 
+Brodhead, Kentucky	kentucky 
+Broeck Pointe, Kentucky	kentucky 
+Bromley, Kentucky	kentucky 
+Brooksville, Kentucky	kentucky 
+Brownsboro Farm, Kentucky	kentucky 
+Brownsboro Village, Kentucky	kentucky 
+Brownsville, Kentucky	kentucky 
+Buckhorn, Kentucky	kentucky 
+Burgin, Kentucky	kentucky 
+Burkesville, Kentucky	kentucky 
+Burnside, Kentucky	kentucky 
+Butler, Kentucky	kentucky 
+Cadiz, Kentucky	kentucky 
+Calhoun, Kentucky	kentucky 
+California, Kentucky	kentucky 
+Calvert City, Kentucky	kentucky 
+Camargo, Kentucky	kentucky 
+Cambridge, Kentucky	kentucky 
+Campbellsburg, Kentucky	kentucky 
+Campbellsville, Kentucky	kentucky 
+Campton, Kentucky	kentucky 
+Caneyville, Kentucky	kentucky 
+Carlisle, Kentucky	kentucky 
+Carrollton, Kentucky	kentucky 
+Carrsville, Kentucky	kentucky 
+Catlettsburg, Kentucky	kentucky 
+Cave City, Kentucky	kentucky 
+Cecilia, Kentucky	kentucky 
+Centertown, Kentucky	kentucky 
+Central City, Kentucky	kentucky 
+Clarkson, Kentucky	kentucky 
+Clay, Kentucky	kentucky 
+Clay City, Kentucky	kentucky 
+Clinton, Kentucky	kentucky 
+Cloverport, Kentucky	kentucky 
+Coal Run Village, Kentucky	kentucky 
+Cold Spring, Kentucky	kentucky 
+Coldstream, Kentucky	kentucky 
+Columbia, Kentucky	kentucky 
+Columbus, Kentucky	kentucky 
+Concord, Kentucky	kentucky 
+Corbin, Kentucky	kentucky 
+Corinth, Kentucky	kentucky 
+Corydon, Kentucky	kentucky 
+Covington, Kentucky	kentucky 
+Crab Orchard, Kentucky	kentucky 
+Creekside, Kentucky	kentucky 
+Crescent Springs, Kentucky	kentucky 
+Crestview, Kentucky	kentucky 
+Crestview Hills, Kentucky	kentucky 
+Crestwood, Kentucky	kentucky 
+Crittenden, Kentucky	kentucky 
+Crofton, Kentucky	kentucky 
+Crossgate, Kentucky	kentucky 
+Cumberland, Kentucky	kentucky 
+Cynthiana, Kentucky	kentucky 
+Danville, Kentucky	kentucky 
+Dawson Springs, Kentucky	kentucky 
+Dayton, Kentucky	kentucky 
+Dingus, Kentucky	kentucky 
+Dixon, Kentucky	kentucky 
+Douglass Hills, Kentucky	kentucky 
+Dover, Kentucky	kentucky 
+Drakesboro, Kentucky	kentucky 
+Druid Hills, Kentucky	kentucky 
+Dry Ridge, Kentucky	kentucky 
+Earlington, Kentucky	kentucky 
+Eddyville, Kentucky	kentucky 
+Edgewood, Kentucky	kentucky 
+Edmonton, Kentucky	kentucky 
+Ekron, Kentucky	kentucky 
+Elizabethtown, Kentucky	kentucky 
+Elkhorn City, Kentucky	kentucky 
+Elkton, Kentucky	kentucky 
+Elsmere, Kentucky	kentucky 
+Elwood, Kentucky	kentucky 
+Eminence, Kentucky	kentucky 
+Erlanger, Kentucky	kentucky 
+Eubank, Kentucky	kentucky 
+Evarts, Kentucky	kentucky 
+Ewing, Kentucky	kentucky 
+Fairfield, Kentucky	kentucky 
+Fairview, Kenton County, Kentucky	kentucky 
+Falmouth, Kentucky	kentucky 
+Ferguson, Kentucky	kentucky 
+Fincastle, Kentucky	kentucky 
+Flatwoods, Kentucky	kentucky 
+Fleming-Neon, Kentucky	kentucky 
+Flemingsburg, Kentucky	kentucky 
+Florence, Kentucky	kentucky 
+Fordsville, Kentucky	kentucky 
+Forest Hills, Kentucky	kentucky 
+Fort Mitchell, Kentucky	kentucky 
+Fort Thomas, Kentucky	kentucky 
+Fort Wright, Kentucky	kentucky 
+Fountain Run, Kentucky	kentucky 
+Fox Chase, Kentucky	kentucky 
+Franklin, Kentucky	kentucky 
+Fredonia, Kentucky	kentucky 
+Frenchburg, Kentucky	kentucky 
+Fulton, Kentucky	kentucky 
+Gamaliel, Kentucky	kentucky 
+Germantown, Kentucky	kentucky 
+Ghent, Kentucky	kentucky 
+Glasgow, Kentucky	kentucky 
+Glencoe, Kentucky	kentucky 
+Glenview, Kentucky	kentucky 
+Glenview Hills, Kentucky	kentucky 
+Glenview Manor, Kentucky	kentucky 
+Goose Creek, Kentucky	kentucky 
+Goshen, Kentucky	kentucky 
+Grand Rivers, Kentucky	kentucky 
+Gratz, Kentucky	kentucky 
+Graymoor-Devondale, Kentucky	kentucky 
+Grayson, Kentucky	kentucky 
+Green Spring, Kentucky	kentucky 
+Greensburg, Kentucky	kentucky 
+Greenup, Kentucky	kentucky 
+Greenville, Kentucky	kentucky 
+Guthrie, Kentucky	kentucky 
+Hanson, Kentucky	kentucky 
+Hardin, Kentucky	kentucky 
+Hardinsburg, Kentucky	kentucky 
+Harlan, Kentucky	kentucky 
+Harrodsburg, Kentucky	kentucky 
+Hartford, Kentucky	kentucky 
+Hawesville, Kentucky	kentucky 
+Hazard, Kentucky	kentucky 
+Hazel, Kentucky	kentucky 
+Hell's Neck, Kentucky	kentucky 
+Henderson, Kentucky	kentucky 
+Hickman, Kentucky	kentucky 
+Hickory Hill, Kentucky	kentucky 
+Highland Heights, Kentucky	kentucky 
+Hills and Dales, Kentucky	kentucky 
+Hillview, Kentucky	kentucky 
+Hindman, Kentucky	kentucky 
+Hiseville, Kentucky	kentucky 
+Hollow Creek, Kentucky	kentucky 
+Hollyvilla, Kentucky	kentucky 
+Hopkinsville, Kentucky	kentucky 
+Horse Cave, Kentucky	kentucky 
+Houston Acres, Kentucky	kentucky 
+Hunters Hollow, Kentucky	kentucky 
+Hurstbourne, Kentucky	kentucky 
+Hurstbourne Acres, Kentucky	kentucky 
+Hustonville, Kentucky	kentucky 
+Hyden, Kentucky	kentucky 
+Independence, Kentucky	kentucky 
+Indian Hills, Kentucky	kentucky 
+Inez, Kentucky	kentucky 
+Irvine, Kentucky	kentucky 
+Irvington, Kentucky	kentucky 
+Island, Kentucky	kentucky 
+Jackson, Kentucky	kentucky 
+Jamestown, Kentucky	kentucky 
+Jeffersontown, Kentucky	kentucky 
+Jeffersonville, Kentucky	kentucky 
+Jenkins, Kentucky	kentucky 
+Junction City, Kentucky	kentucky 
+Kenton Vale, Kentucky	kentucky 
+Kevil, Kentucky	kentucky 
+Kingsley, Kentucky	kentucky 
+Kuttawa, Kentucky	kentucky 
+LaFayette, Kentucky	kentucky 
+La Center, Kentucky	kentucky 
+La Grange, Kentucky	kentucky 
+Lakeside Park, Kentucky	kentucky 
+Lakeview Heights, Kentucky	kentucky 
+Lancaster, Kentucky	kentucky 
+Langdon Place, Kentucky	kentucky 
+Latonia Lakes, Kentucky	kentucky 
+Lawrenceburg, Kentucky	kentucky 
+Lebanon, Kentucky	kentucky 
+Lebanon Junction, Kentucky	kentucky 
+Leitchfield, Kentucky	kentucky 
+Lewisburg, Kentucky	kentucky 
+Lewisport, Kentucky	kentucky 
+Lexington Greene, Kentucky	kentucky 
+Liberty, Kentucky	kentucky 
+Lincolnshire, Kentucky	kentucky 
+Livermore, Kentucky	kentucky 
+Livingston, Kentucky	kentucky 
+London, Kentucky	kentucky 
+Lone Oak, Kentucky	kentucky 
+Loretto, Kentucky	kentucky 
+Louisa, Kentucky	kentucky 
+Loyall, Kentucky	kentucky 
+Ludlow, Kentucky	kentucky 
+Lynch, Kentucky	kentucky 
+Lyndon, Kentucky	kentucky 
+Lynnview, Kentucky	kentucky 
+Mackville, Kentucky	kentucky 
+Madisonville, Kentucky	kentucky 
+Manchester, Kentucky	kentucky 
+Manor Creek, Kentucky	kentucky 
+Marion, Kentucky	kentucky 
+Martin, Kentucky	kentucky 
+Maryhill Estates, Kentucky	kentucky 
+Mayfield, Kentucky	kentucky 
+Maysville, Kentucky	kentucky 
+McHenry, Kentucky	kentucky 
+McKee, Kentucky	kentucky 
+Meadow Vale, Kentucky	kentucky 
+Meadowbrook Farm, Kentucky	kentucky 
+Meadowview Estates, Kentucky	kentucky 
+Melbourne, Kentucky	kentucky 
+Mentor, Kentucky	kentucky 
+Middlesborough, Kentucky	kentucky 
+Middletown, Kentucky	kentucky 
+Midway, Kentucky	kentucky 
+Millersburg, Kentucky	kentucky 
+Milton, Kentucky	kentucky 
+Minor Lane Heights, Kentucky	kentucky 
+Mockingbird Valley, Kentucky	kentucky 
+Monkey's Eyebrow, Kentucky	kentucky 
+Monterey, Kentucky	kentucky 
+Monticello, Kentucky	kentucky 
+Moorland, Kentucky	kentucky 
+Morehead, Kentucky	kentucky 
+Morganfield, Kentucky	kentucky 
+Morgantown, Kentucky	kentucky 
+Mortons Gap, Kentucky	kentucky 
+Mount Olivet, Kentucky	kentucky 
+Mount Sterling, Kentucky	kentucky 
+Mount Vernon, Kentucky	kentucky 
+Mount Washington, Kentucky	kentucky 
+Muldraugh, Kentucky	kentucky 
+Munfordville, Kentucky	kentucky 
+Murray, Kentucky	kentucky 
+Murray Hill, Kentucky	kentucky 
+Nebo, Kentucky	kentucky 
+New Castle, Kentucky	kentucky 
+New Haven, Kentucky	kentucky 
+Newport, Kentucky	kentucky 
+Nicholasville, Kentucky	kentucky 
+Norbourne Estates, Kentucky	kentucky 
+North Middletown, Kentucky	kentucky 
+Northfield, Kentucky	kentucky 
+Nortonville, Kentucky	kentucky 
+Norwood, Kentucky	kentucky 
+Oak Grove, Kentucky	kentucky 
+Oakland, Kentucky	kentucky 
+Old Brownsboro Place, Kentucky	kentucky 
+Olive Hill, Kentucky	kentucky 
+Orchard Grass Hills, Kentucky	kentucky 
+Owensboro, Kentucky	kentucky 
+Owenton, Kentucky	kentucky 
+Owingsville, Kentucky	kentucky 
+Paducah, Kentucky	kentucky 
+Paintsville, Kentucky	kentucky 
+Paris, Kentucky	kentucky 
+Park City, Kentucky	kentucky 
+Park Hills, Kentucky	kentucky 
+Park Lake, Kentucky	kentucky 
+Parkway Village, Kentucky	kentucky 
+Pembroke, Kentucky	kentucky 
+Perryville, Kentucky	kentucky 
+Pewee Valley, Kentucky	kentucky 
+Pikeville, Kentucky	kentucky 
+Pineville, Kentucky	kentucky 
+Pioneer Village, Kentucky	kentucky 
+Pippa Passes, Kentucky	kentucky 
+Plantation, Kentucky	kentucky 
+Pleasureville, Kentucky	kentucky 
+Plum Springs, Kentucky	kentucky 
+Poplar Hills, Kentucky	kentucky 
+Powderly, Kentucky	kentucky 
+Prestonsburg, Kentucky	kentucky 
+Prestonville, Kentucky	kentucky 
+Princeton, Kentucky	kentucky 
+Prospect, Kentucky	kentucky 
+Providence, Kentucky	kentucky 
+Raceland, Kentucky	kentucky 
+Radcliff, Kentucky	kentucky 
+Ravenna, Kentucky	kentucky 
+Raywick, Kentucky	kentucky 
+Richlawn, Kentucky	kentucky 
+River Bluff, Kentucky	kentucky 
+Riverwood, Kentucky	kentucky 
+Robards, Kentucky	kentucky 
+Rochester, Kentucky	kentucky 
+Rockport, Kentucky	kentucky 
+Rolling Fields, Kentucky	kentucky 
+Rolling Hills, Kentucky	kentucky 
+Rowletts, Kentucky	kentucky 
+Russell, Kentucky	kentucky 
+Russell Springs, Kentucky	kentucky 
+Russellville, Kentucky	kentucky 
+Ryland Heights, Kentucky	kentucky 
+Sacramento, Kentucky	kentucky 
+Sadieville, Kentucky	kentucky 
+Salem, Kentucky	kentucky 
+Salt Lick, Kentucky	kentucky 
+Salyersville, Kentucky	kentucky 
+Sanders, Kentucky	kentucky 
+Sandy Hook, Kentucky	kentucky 
+Sardis, Kentucky	kentucky 
+Science Hill, Kentucky	kentucky 
+Scottsville, Kentucky	kentucky 
+Sebree, Kentucky	kentucky 
+Seneca Gardens, Kentucky	kentucky 
+Sharpsburg, Kentucky	kentucky 
+Shelbyville, Kentucky	kentucky 
+Shepherdsville, Kentucky	kentucky 
+Shively, Kentucky	kentucky 
+Silver Grove, Kentucky	kentucky 
+Simpsonville, Kentucky	kentucky 
+Slaughters, Kentucky	kentucky 
+Smithfield, Kentucky	kentucky 
+Smithland, Kentucky	kentucky 
+Smiths Grove, Kentucky	kentucky 
+Somerset, Kentucky	kentucky 
+Sonora, Kentucky	kentucky 
+South Carrollton, Kentucky	kentucky 
+South Park View, Kentucky	kentucky 
+South Shore, Kentucky	kentucky 
+Southgate, Kentucky	kentucky 
+Sparta, Kentucky	kentucky 
+Spring Mill, Kentucky	kentucky 
+Spring Valley, Kentucky	kentucky 
+Springfield, Kentucky	kentucky 
+St. Charles, Kentucky	kentucky 
+St. Matthews, Kentucky	kentucky 
+St. Regis Park, Kentucky	kentucky 
+Stamping Ground, Kentucky	kentucky 
+Stanford, Kentucky	kentucky 
+Stanton, Kentucky	kentucky 
+Strathmoor Manor, Kentucky	kentucky 
+Strathmoor Village, Kentucky	kentucky 
+Sturgis, Kentucky	kentucky 
+Sycamore, Kentucky	kentucky 
+Taylor Mill, Kentucky	kentucky 
+Taylorsville, Kentucky	kentucky 
+Ten Broeck, Kentucky	kentucky 
+Thornhill, Kentucky	kentucky 
+Tompkinsville, Kentucky	kentucky 
+Trenton, Kentucky	kentucky 
+Union, Kentucky	kentucky 
+Uniontown, Kentucky	kentucky 
+Upton, Kentucky	kentucky 
+Vanceburg, Kentucky	kentucky 
+Versailles, Kentucky	kentucky 
+Vicco, Kentucky	kentucky 
+Villa Hills, Kentucky	kentucky 
+Vine Grove, Kentucky	kentucky 
+Wallins Creek, Kentucky	kentucky 
+Walton, Kentucky	kentucky 
+Warfield, Kentucky	kentucky 
+Warsaw, Kentucky	kentucky 
+Water Valley, Kentucky	kentucky 
+Watterson Park, Kentucky	kentucky 
+Waverly, Kentucky	kentucky 
+Wayland, Kentucky	kentucky 
+Wellington, Kentucky	kentucky 
+West Buechel, Kentucky	kentucky 
+West Liberty, Kentucky	kentucky 
+West Point, Kentucky	kentucky 
+Westwood, Kentucky	kentucky 
+Wheatcroft, Kentucky	kentucky 
+Wheelwright, Kentucky	kentucky 
+White Plains, Kentucky	kentucky 
+Whitesburg, Kentucky	kentucky 
+Whitesville, Kentucky	kentucky 
+Wickliffe, Kentucky	kentucky 
+Wilder, Kentucky	kentucky 
+Williamsburg, Kentucky	kentucky 
+Williamstown, Kentucky	kentucky 
+Willisburg, Kentucky	kentucky 
+Winchester, Kentucky	kentucky 
+Windy Hills, Kentucky	kentucky 
+Wingo, Kentucky	kentucky 
+Woodburn, Kentucky	kentucky 
+Woodbury, Kentucky	kentucky 
+Woodland Hills, Kentucky	kentucky 
+Woodlawn, Kentucky	kentucky 
+Woodlawn Park, Kentucky	kentucky 
+Worthington, Kentucky	kentucky 
+Worthington Hills, Kentucky	kentucky 
+Worthville, Kentucky	kentucky 
+Wurtland, Kentucky	kentucky 
+Wildwood, Kentucky	kentucky 
+Wilmore, Kentucky	kentucky 
+Alexandria, Virginia	virginia 
+Bedford, Virginia	virginia 
+Bristol, Virginia	virginia 
+Buena Vista, Virginia	virginia 
+Charlottesville, Virginia	virginia 
+Chesapeake, Virginia	virginia 
+Colonial Heights, Virginia	virginia 
+Covington, Virginia	virginia 
+Danville, Virginia	virginia 
+Emporia, Virginia	virginia 
+Fairfax, Virginia	virginia 
+Falls Church, Virginia	virginia 
+Franklin, Virginia	virginia 
+Fredericksburg, Virginia	virginia 
+Galax, Virginia	virginia 
+Hampton, Virginia	virginia 
+Hopewell, Virginia	virginia 
+Lexington, Virginia	virginia 
+Manassas Park, Virginia	virginia 
+Manassas, Virginia	virginia 
+Martinsville, Virginia	virginia 
+Newport News, Virginia	virginia 
+Norton, Virginia	virginia 
+Petersburg, Virginia	virginia 
+Poquoson, Virginia	virginia 
+Radford, Virginia	virginia 
+Roanoke, Virginia	virginia 
+Salem, Virginia	virginia 
+Staunton, Virginia	virginia 
+Suffolk, Virginia	virginia 
+Waynesboro, Virginia	virginia 
+Williamsburg, Virginia	virginia 
+Winchester, Virginia	virginia 
+Accomac, Virginia	virginia 
+Alberta, Virginia	virginia 
+Altavista, Virginia	virginia 
+Amherst, Virginia	virginia 
+Appalachia, Virginia	virginia 
+Appomattox, Virginia	virginia 
+Ashland, Virginia	virginia 
+Belle Haven, Accomack County, Virginia	accomack county 
+Berryville, Virginia	virginia 
+Big Stone Gap, Virginia	virginia 
+Blacksburg, Virginia	virginia 
+Blackstone, Virginia	virginia 
+Bloxom, Virginia	virginia 
+Bluefield, Virginia	virginia 
+Boones Mill, Virginia	virginia 
+Bowling Green, Virginia	virginia 
+Boyce, Virginia	virginia 
+Boydton, Virginia	virginia 
+Boykins, Virginia	virginia 
+Branchville, Virginia	virginia 
+Bridgewater, Virginia	virginia 
+Broadway, Virginia	virginia 
+Brodnax, Virginia	virginia 
+Brookneal, Virginia	virginia 
+Buchanan, Virginia	virginia 
+Burkeville, Virginia	virginia 
+Cape Charles, Virginia	virginia 
+Capron, Virginia	virginia 
+Cedar Bluff, Virginia	virginia 
+Charlotte Court House, Virginia	virginia 
+Chase City, Virginia	virginia 
+Chatham, Virginia	virginia 
+Cheriton, Virginia	virginia 
+Chilhowie, Virginia	virginia 
+Chincoteague, Virginia	virginia 
+Christiansburg, Virginia	virginia 
+Claremont, Virginia	virginia 
+Clarksville, Virginia	virginia 
+Cleveland, Virginia	virginia 
+Clifton Forge, Virginia	virginia 
+Clifton, Virginia	virginia 
+Clinchco, Virginia	virginia 
+Clinchport, Virginia	virginia 
+Clintwood, Virginia	virginia 
+Coeburn, Virginia	virginia 
+Colonial Beach, Virginia	virginia 
+Columbia, Virginia	virginia 
+Courtland, Virginia	virginia 
+Craigsville, Virginia	virginia 
+Crewe, Virginia	virginia 
+Culpeper, Virginia	virginia 
+Damascus, Virginia	virginia 
+Dayton, Virginia	virginia 
+Dendron, Virginia	virginia 
+Dillwyn, Virginia	virginia 
+Drakes Branch, Virginia	virginia 
+Dublin, Virginia	virginia 
+Duffield, Virginia	virginia 
+Dumfries, Virginia	virginia 
+Dungannon, Virginia	virginia 
+Eastville, Virginia	virginia 
+Edinburg, Virginia	virginia 
+Elkton, Virginia	virginia 
+Exmore, Virginia	virginia 
+Farmville, Virginia	virginia 
+Fincastle, Virginia	virginia 
+Floyd, Virginia	virginia 
+Fries, Virginia	virginia 
+Front Royal, Virginia	virginia 
+Gate City, Virginia	virginia 
+Glade Spring, Virginia	virginia 
+Glasgow, Virginia	virginia 
+Glen Lyn, Virginia	virginia 
+Gordonsville, Virginia	virginia 
+Goshen, Virginia	virginia 
+Gretna, Virginia	virginia 
+Grottoes, Virginia	virginia 
+Grundy, Virginia	virginia 
+Halifax, Virginia	virginia 
+Hallwood, Virginia	virginia 
+Hamilton, Virginia	virginia 
+Haymarket, Virginia	virginia 
+Haysi, Virginia	virginia 
+Herndon, Virginia	virginia 
+Hillsboro, Loudoun County, Virginia	loudoun county 
+Hillsville, Virginia	virginia 
+Honaker, Virginia	virginia 
+Hurt, Virginia	virginia 
+Independence, Virginia	virginia 
+Iron Gate, Virginia	virginia 
+Irvington, Virginia	virginia 
+Ivor, Virginia	virginia 
+Jarratt, Virginia	virginia 
+Jonesville, Virginia	virginia 
+Keller, Virginia	virginia 
+Kenbridge, Virginia	virginia 
+Keysville, Virginia	virginia 
+Kilmarnock, Virginia	virginia 
+La Crosse, Virginia	virginia 
+Lawrenceville, Virginia	virginia 
+Lebanon, Virginia	virginia 
+Leesburg, Virginia	virginia 
+Louisa, Virginia	virginia 
+Lovettsville, Virginia	virginia 
+Luray, Virginia	virginia 
+Madison, Virginia	virginia 
+Marion, Virginia	virginia 
+McKenney, Virginia	virginia 
+Melfa, Virginia	virginia 
+Middleburg, Virginia	virginia 
+Middletown, Virginia	virginia 
+Mineral, Virginia	virginia 
+Monterey, Virginia	virginia 
+Montross, Virginia	virginia 
+Mount Crawford, Virginia	virginia 
+Mount Jackson, Virginia	virginia 
+Narrows, Virginia	virginia 
+Nassawadox, Virginia	virginia 
+New Castle, Virginia	virginia 
+New Market, Virginia	virginia 
+Newsoms, Virginia	virginia 
+Nickelsville, Virginia	virginia 
+Occoquan, Virginia	virginia 
+Onancock, Virginia	virginia 
+Onley, Virginia	virginia 
+Orange, Virginia	virginia 
+Painter, Virginia	virginia 
+Pamplin City, Virginia	virginia 
+Parksley, Virginia	virginia 
+Pearisburg, Virginia	virginia 
+Pembroke, Virginia	virginia 
+Pennington Gap, Virginia	virginia 
+Phenix, Virginia	virginia 
+Pocahontas, Virginia	virginia 
+Port Royal, Virginia	virginia 
+Pound, Virginia	virginia 
+Pulaski, Virginia	virginia 
+Purcellville, Virginia	virginia 
+Quantico, Virginia	virginia 
+Remington, Virginia	virginia 
+Rich Creek, Virginia	virginia 
+Richlands, Virginia	virginia 
+Ridgeway, Virginia	virginia 
+Rocky Mount, Virginia	virginia 
+Round Hill, Loudoun County, Virginia	virginia 
+Rural Retreat, Virginia	virginia 
+Saltville, Virginia	virginia 
+Saxis, Virginia	virginia 
+Scottsburg, Virginia	virginia 
+Scottsville, Virginia	virginia 
+Shenandoah, Virginia	virginia 
+Smithfield, Virginia	virginia 
+South Boston, Virginia	virginia 
+South Hill, Virginia	virginia 
+St. Charles, Virginia	virginia 
+St. Paul, Virginia	virginia 
+Stanardsville, Virginia	virginia 
+Stanley, Virginia	virginia 
+Stephens City, Virginia	virginia 
+Stony Creek, Virginia	virginia 
+Strasburg, Virginia	virginia 
+Stuart, Virginia	virginia 
+Surry, Virginia	virginia 
+Tangier, Virginia	virginia 
+Tappahannock, Virginia	virginia 
+Tazewell, Virginia	virginia 
+The Plains, Virginia	virginia 
+Timberville, Virginia	virginia 
+Toms Brook, Virginia	virginia 
+Troutdale, Virginia	virginia 
+Troutville, Virginia	virginia 
+Urbanna, Virginia	virginia 
+Victoria, Virginia	virginia 
+Vienna, Virginia	virginia 
+Vinton, Virginia	virginia 
+Virgilina, Virginia	virginia 
+Wachapreague, Virginia	virginia 
+Wakefield, Virginia	virginia 
+Warrenton, Virginia	virginia 
+Warsaw, Virginia	virginia 
+Washington, Virginia	virginia 
+Waverly, Virginia	virginia 
+Weber City, Virginia	virginia 
+West Point, Virginia	virginia 
+White Stone, Virginia	virginia 
+Windsor, Virginia	virginia 
+Wise, Virginia	virginia 
+Woodstock, Virginia	virginia 
+Wytheville, Virginia	virginia 
+Abingdon, Illinois	illinois 
+Albion, Illinois	illinois 
+Aledo, Illinois	illinois 
+Altamont, Illinois	illinois 
+Amboy, Illinois	illinois 
+Anna, Illinois	illinois 
+Arcola, Illinois	illinois 
+Ashley, Illinois	illinois 
+Assumption, Illinois	illinois 
+Athens, Illinois	illinois 
+Atlanta, Illinois	illinois 
+Auburn, Illinois	illinois 
+Aurora, Illinois	illinois 
+Ava, Illinois	illinois 
+Barry, Illinois	illinois 
+Batavia, Illinois	illinois 
+Beardstown, Illinois	illinois 
+Belleville, Illinois	illinois 
+Belvidere, Illinois	illinois 
+Benld, Illinois	illinois 
+Benton, Illinois	illinois 
+Berwyn, Illinois	illinois 
+Blue Island, Illinois	illinois 
+Braidwood, Illinois	illinois 
+Breese, Illinois	illinois 
+Bridgeport, Illinois	illinois 
+Brookport, Illinois	illinois 
+Bunker Hill, Illinois	illinois 
+Burbank, Illinois	illinois 
+Bushnell, Illinois	illinois 
+Byron, Illinois	illinois 
+Cairo, Illinois	illinois 
+Calumet City, Illinois	illinois 
+Canton, Illinois	illinois 
+Carbondale, Illinois	illinois 
+Carlinville, Illinois	illinois 
+Carlyle, Illinois	illinois 
+Carmi, Illinois	illinois 
+Carrollton, Illinois	illinois 
+Carterville, Illinois	illinois 
+Carthage, Illinois	illinois 
+Casey, Illinois	illinois 
+Centralia, Illinois	illinois 
+Centreville, Illinois	illinois 
+Champaign, Illinois	illinois 
+Charleston, Illinois	illinois 
+Chenoa, Illinois	illinois 
+Chester, Illinois	illinois 
+Chicago Heights, Illinois	illinois 
+Chillicothe, Illinois	illinois 
+Chrisman, Illinois	illinois 
+Christopher, Illinois	illinois 
+Clinton, Illinois	illinois 
+Coffeen, Illinois	illinois 
+Colchester, Illinois	illinois 
+Collinsville, Illinois	illinois 
+Colona, Illinois	illinois 
+Columbia, Illinois	illinois 
+Country Club Hills, Illinois	illinois 
+Countryside, Illinois	illinois 
+Creal Springs, Illinois	illinois 
+Crest Hill, Illinois	illinois 
+Crystal Lake, Illinois	illinois 
+Cuba, Illinois	illinois 
+Dallas City, Illinois	illinois 
+Danville, Illinois	illinois 
+Darien, Illinois	illinois 
+DeKalb, Illinois	illinois 
+Delavan, Illinois	illinois 
+Des Plaines, Illinois	illinois 
+Dixon, Illinois	illinois 
+Du Quoin, Illinois	illinois 
+Earlville, Illinois	illinois 
+East Dubuque, Illinois	illinois 
+East Moline, Illinois	illinois 
+East Peoria, Illinois	illinois 
+East St. Louis, Illinois	illinois 
+Edwardsville, Illinois	illinois 
+Effingham, Illinois	illinois 
+El Paso, Illinois	illinois 
+Eldorado, Illinois	illinois 
+Elgin, Illinois	illinois 
+Elmhurst, Illinois	illinois 
+Elmwood Park, Illinois	illinois 
+Eureka, Illinois	illinois 
+Evanston, Illinois	illinois 
+Fairbury, Illinois	illinois 
+Fairfield, Illinois	illinois 
+Fairview Heights, Illinois	illinois 
+Farmer City, Illinois	illinois 
+Farmington, Illinois	illinois 
+Flora, Illinois	illinois 
+Fox Lake, Illinois	illinois 
+Freeport, Illinois	illinois 
+Fulton, Illinois	illinois 
+Galena, Illinois	illinois 
+Galesburg, Illinois	illinois 
+Galva, Illinois	illinois 
+Geneseo, Illinois	illinois 
+Geneva, Illinois	illinois 
+Genoa, Illinois	illinois 
+Georgetown, Illinois	illinois 
+Gibson City, Illinois	illinois 
+Gillespie, Illinois	illinois 
+Gilman, Illinois	illinois 
+Girard, Illinois	illinois 
+Golconda, Illinois	illinois 
+Goreville, Illinois	illinois 
+Grafton, Illinois	illinois 
+Grand Tower, Illinois	illinois 
+Granite City, Illinois	illinois 
+Grayslake, Illinois	illinois 
+Grayville, Illinois	illinois 
+Greenfield, Illinois	illinois 
+Greenville, Illinois	illinois 
+Griggsville, Illinois	illinois 
+Hamilton, Illinois	illinois 
+Harrisburg, Illinois	illinois 
+Harvard, Illinois	illinois 
+Harvey, Illinois	illinois 
+Havana, Illinois	illinois 
+Henry, Illinois	illinois 
+Herrin, Illinois	illinois 
+Hickory Hills, Illinois	illinois 
+Highland Park, Illinois	illinois 
+Highland, Illinois	illinois 
+Highwood, Illinois	illinois 
+Hillsboro, Illinois	illinois 
+Hometown, Illinois	illinois 
+Hoopeston, Illinois	illinois 
+Hurst, Illinois	illinois 
+Jacksonville, Illinois	illinois 
+Jerseyville, Illinois	illinois 
+Johnston City, Illinois	illinois 
+Joliet, Illinois	illinois 
+Kankakee, Illinois	illinois 
+Keithsburg, Illinois	illinois 
+Kewanee, Illinois	illinois 
+Kinmundy, Illinois	illinois 
+Knoxville, Illinois	illinois 
+La Harpe, Illinois	illinois 
+Lacon, Illinois	illinois 
+Lake Forest, Illinois	illinois 
+Lanark, Illinois	illinois 
+LaSalle, Illinois	illinois 
+Lawrenceville, Illinois	illinois 
+Le Roy, Illinois	illinois 
+Lebanon, Illinois	illinois 
+Leland Grove, Illinois	illinois 
+Lena, Illinois	illinois 
+Lewistown, Illinois	illinois 
+Lexington, Illinois	illinois 
+Lincoln, Illinois	illinois 
+Lisle, Illinois	illinois 
+Litchfield, Illinois	illinois 
+Lockport, Illinois	illinois 
+Lombard, Illinois	illinois 
+Loves Park, Illinois	illinois 
+Macomb, Illinois	illinois 
+Macon, Illinois	illinois 
+Madison, Illinois	illinois 
+Marengo, Illinois	illinois 
+Marion, Illinois	illinois 
+Markham, Illinois	illinois 
+Maroa, Illinois	illinois 
+Marquette Heights, Illinois	illinois 
+Marseilles, Illinois	illinois 
+Marshall, Illinois	illinois 
+Martinsville, Illinois	illinois 
+Mascoutah, Illinois	illinois 
+Mason City, Illinois	illinois 
+Mattoon, Illinois	illinois 
+McHenry, Illinois	illinois 
+McLeansboro, Illinois	illinois 
+Mendota, Illinois	illinois 
+Metropolis, Illinois	illinois 
+Midlothian, Illinois	illinois 
+Minonk, Illinois	illinois 
+Mokena, Illinois	illinois 
+Moline, Illinois	illinois 
+Momence, Illinois	illinois 
+Monmouth, Illinois	illinois 
+Monticello, Illinois	illinois 
+Morris, Illinois	illinois 
+Morrison, Illinois	illinois 
+Mound City, Illinois	illinois 
+Mounds, Illinois	illinois 
+Mount Carmel, Illinois	illinois 
+Mount Carroll, Illinois	illinois 
+Mount Olive, Illinois	illinois 
+Mount Pulaski, Illinois	illinois 
+Mount Sterling, Illinois	illinois 
+Mount Vernon, Illinois	illinois 
+Murphysboro, Illinois	illinois 
+Naperville, Illinois	illinois 
+Nashville, Illinois	illinois 
+Nason, Illinois	illinois 
+Nauvoo, Illinois	illinois 
+Neoga, Illinois	illinois 
+New Boston, Illinois	illinois 
+Newman, Illinois	illinois 
+Newton, Illinois	illinois 
+Nokomis, Illinois	illinois 
+Normal, Illinois	illinois 
+North Chicago, Illinois	illinois 
+Northlake, Illinois	illinois 
+O'Fallon, Illinois	illinois 
+Oak Forest, Illinois	illinois 
+Oakbrook Terrace, Illinois	illinois 
+Oakland, Illinois	illinois 
+Oglesby, Illinois	illinois 
+Olney, Illinois	illinois 
+Oneida, Illinois	illinois 
+Oregon, Illinois	illinois 
+Orient, Illinois	illinois 
+Orland Park, Illinois	illinois 
+Ottawa, Illinois	illinois 
+Palos Heights, Illinois	illinois 
+Palos Hills, Illinois	illinois 
+Pana, Illinois	illinois 
+Paris, Illinois	illinois 
+Park City, Illinois	illinois 
+Park Ridge, Illinois	illinois 
+Paxton, Illinois	illinois 
+Pekin, Illinois	illinois 
+Peru, Illinois	illinois 
+Petersburg, Illinois	illinois 
+Pinckneyville, Illinois	illinois 
+Pittsfield, Illinois	illinois 
+Plano, Illinois	illinois 
+Pleasant Hill, Illinois	illinois 
+Polo, Illinois	illinois 
+Pontiac, Illinois	illinois 
+Princeton, Illinois	illinois 
+Prophetstown, Illinois	illinois 
+Prospect Heights, Illinois	illinois 
+Red Bud, Illinois	illinois 
+Robinson, Illinois	illinois 
+Rochelle, Illinois	illinois 
+Rock Falls, Illinois	illinois 
+Rock Island, Illinois	illinois 
+Rockford, Illinois	illinois 
+Rolling Meadows, Illinois	illinois 
+Roodhouse, Illinois	illinois 
+Rosiclare, Illinois	illinois 
+Roxana, Illinois	illinois 
+Rushville, Illinois	illinois 
+Salem, Illinois	illinois 
+Sandwich, Illinois	illinois 
+Savanna, Illinois	illinois 
+Sesser, Illinois	illinois 
+Shawneetown, Illinois	illinois 
+Shelbyville, Illinois	illinois 
+Silvis, Illinois	illinois 
+South Beloit, Illinois	illinois 
+Sparta, Illinois	illinois 
+Spring Valley, Illinois	illinois 
+St. Charles, Illinois	illinois 
+St. Elmo, Illinois	illinois 
+St. Francisville, Illinois	illinois 
+Staunton, Illinois	illinois 
+Sterling, Illinois	illinois 
+Streamwood, Illinois	illinois 
+Streator, Illinois	illinois 
+Sullivan, Illinois	illinois 
+Sumner, Illinois	illinois 
+Sycamore, Illinois	illinois 
+Vandalia, Illinois	illinois 
+Venice, Illinois	illinois 
+Vienna, Illinois	illinois 
+Villa Grove, Illinois	illinois 
+Villa Park, Illinois	illinois 
+Virden, Illinois	illinois 
+Virginia, Illinois	illinois 
+Wamac, Illinois	illinois 
+Warrenville, Illinois	illinois 
+Warsaw, Illinois	illinois 
+Washington, Illinois	illinois 
+Waterloo, Illinois	illinois 
+Watseka, Illinois	illinois 
+Waukegan, Illinois	illinois 
+Waverly, Illinois	illinois 
+Wenona, Illinois	illinois 
+West Chicago, Illinois	illinois 
+West Frankfort, Illinois	illinois 
+West Peoria, Illinois	illinois 
+Wheaton, Illinois	illinois 
+White Hall, Illinois	illinois 
+Wilmington, Will County, Illinois	illinois 
+Winchester, Illinois	illinois 
+Windsor, Shelby County, Illinois	illinois 
+Witt, Illinois	illinois 
+Wood Dale, Illinois	illinois 
+Wood River, Illinois	illinois 
+Woodstock, Illinois	illinois 
+Wyoming, Illinois	illinois 
+Yorkville, Illinois	illinois 
+Zeigler, Illinois	illinois 
+Zion, Illinois	illinois 
+Alexandria, Indiana	indiana 
+Anderson, Indiana	indiana 
+Angola, Indiana	indiana 
+Attica, Indiana	indiana 
+Auburn, Indiana	indiana 
+Aurora, Indiana	indiana 
+Batesville, Indiana	indiana 
+Bedford, Indiana	indiana 
+Beech Grove, Indiana	indiana 
+Berne, Indiana	indiana 
+Bicknell, Indiana	indiana 
+Bloomington, Indiana	indiana 
+Bluffton, Indiana	indiana 
+Boonville, Indiana	indiana 
+Brazil, Indiana	indiana 
+Butler, Indiana	indiana 
+Cannelton, Indiana	indiana 
+Carmel, Indiana	indiana 
+Charlestown, Indiana	indiana 
+Clinton, Indiana	indiana 
+Columbia City, Indiana	indiana 
+Columbus, Indiana	indiana 
+Connersville, Indiana	indiana 
+Covington, Indiana	indiana 
+Crawfordsville, Indiana	indiana 
+Crown Point, Indiana	indiana 
+Decatur, Indiana	indiana 
+Delphi, Indiana	indiana 
+Dunkirk, Indiana	indiana 
+East Chicago, Indiana	indiana 
+Elkhart, Indiana	indiana 
+Elwood, Indiana	indiana 
+Evansville, Indiana	indiana 
+Fort Wayne, Indiana	indiana 
+Frankfort, Indiana	indiana 
+Franklin, Indiana	indiana 
+Garrett, Indiana	indiana 
+Gary, Indiana	indiana 
+Gas City, Indiana	indiana 
+Goshen, Indiana	indiana 
+Greencastle, Indiana	indiana 
+Greendale, Indiana	indiana 
+Greenfield, Indiana	indiana 
+Greensburg, Indiana	indiana 
+Greenwood, Indiana	indiana 
+Hammond, Indiana	indiana 
+Hartford City, Indiana	indiana 
+Hobart, Indiana	indiana 
+Huntingburg, Indiana	indiana 
+Huntington, Indiana	indiana 
+Jasonville, Indiana	indiana 
+Jasper, Indiana	indiana 
+Jeffersonville, Indiana	indiana 
+Jonesboro, Indiana	indiana 
+Kendallville, Indiana	indiana 
+Knox, Indiana	indiana 
+Kokomo, Indiana	indiana 
+La Porte, Indiana	indiana 
+Lafayette, Indiana	indiana 
+Lake Station, Indiana	indiana 
+Lawrence, Indiana	indiana 
+Lawrenceburg, Indiana	indiana 
+Lebanon, Indiana	indiana 
+Ligonier, Indiana	indiana 
+Linton, Indiana	indiana 
+Logansport, Indiana	indiana 
+Loogootee, Indiana	indiana 
+Madison, Indiana	indiana 
+Marion, Indiana	indiana 
+Martinsville, Indiana	indiana 
+Michigan City, Indiana	indiana 
+Mishawaka, Indiana	indiana 
+Mitchell, Indiana	indiana 
+Monticello, Indiana	indiana 
+Montpelier, Indiana	indiana 
+Mount Vernon, Indiana	indiana 
+Muncie, Indiana	indiana 
+Nappanee, Indiana	indiana 
+New Albany, Indiana	indiana 
+New Haven, Indiana	indiana 
+Noblesville, Indiana	indiana 
+North Vernon, Indiana	indiana 
+Oakland City, Indiana	indiana 
+Peru, Indiana	indiana 
+Petersburg, Indiana	indiana 
+Plymouth, Indiana	indiana 
+Portage, Indiana	indiana 
+Portland, Indiana	indiana 
+Princeton, Indiana	indiana 
+Rensselaer, Indiana	indiana 
+Richmond, Indiana	indiana 
+Rising Sun, Indiana	indiana 
+Rochester, Indiana	indiana 
+Rockport, Indiana	indiana 
+Rushville, Indiana	indiana 
+Salem, Indiana	indiana 
+Scottsburg, Indiana	indiana 
+Seymour, Indiana	indiana 
+Shelbyville, Indiana	indiana 
+South Bend, Indiana	indiana 
+Southport, Indiana	indiana 
+Sullivan, Indiana	indiana 
+Tell City, Indiana	indiana 
+Terre Haute, Indiana	indiana 
+Tipton, Indiana	indiana 
+Union City, Indiana	indiana 
+Valparaiso, Indiana	indiana 
+Vincennes, Indiana	indiana 
+Wabash, Indiana	indiana 
+Warsaw, Indiana	indiana 
+Washington, Indiana	indiana 
+West Lafayette, Indiana	indiana 
+Whiting, Indiana	indiana 
+Winchester, Indiana	indiana 
+Woodburn, Indiana	indiana 
+Ackley, Iowa	iowa 
+Ackworth, Iowa	iowa 
+Adair, Iowa	iowa 
+Adel, Iowa	iowa 
+Afton, Iowa	iowa 
+Agency, Iowa	iowa 
+Ainsworth, Iowa	iowa 
+Akron, Iowa	iowa 
+Albert City, Iowa	iowa 
+Albia, Iowa	iowa 
+Albion, Iowa	iowa 
+Alburnett, Iowa	iowa 
+Alden, Iowa	iowa 
+Alexander, Iowa	iowa 
+Algona, Iowa	iowa 
+Alleman, Iowa	iowa 
+Allerton, Iowa	iowa 
+Allison, Iowa	iowa 
+Alta Vista, Iowa	iowa 
+Alta, Iowa	iowa 
+Alton, Iowa	iowa 
+Altoona, Iowa	iowa 
+Alvord, Iowa	iowa 
+Ames, Iowa	iowa 
+Anamosa, Iowa	iowa 
+Andover, Iowa	iowa 
+Andrew, Iowa	iowa 
+Anita, Iowa	iowa 
+Ankeny, Iowa	iowa 
+Anthon, Iowa	iowa 
+Aplington, Iowa	iowa 
+Arcadia, Iowa	iowa 
+Archer, Iowa	iowa 
+Aredale, Iowa	iowa 
+Argyle, Iowa	iowa 
+Arion, Iowa	iowa 
+Arispe, Iowa	iowa 
+Arlington, Iowa	iowa 
+Armstrong, Iowa	iowa 
+Arnolds Park, Iowa	iowa 
+Arthur, Iowa	iowa 
+Asbury, Iowa	iowa 
+Ashton, Iowa	iowa 
+Aspinwall, Iowa	iowa 
+Atalissa, Iowa	iowa 
+Atkins, Iowa	iowa 
+Atlantic, Iowa	iowa 
+Auburn, Iowa	iowa 
+Audubon, Iowa	iowa 
+Aurelia, Iowa	iowa 
+Aurora, Iowa	iowa 
+Avoca, Iowa	iowa 
+Ayrshire, Iowa	iowa 
+Badger, Iowa	iowa 
+Bagley, Iowa	iowa 
+Baldwin, Iowa	iowa 
+Balltown, Iowa	iowa 
+Bancroft, Iowa	iowa 
+Bankston, Iowa	iowa 
+Barnes City, Iowa	iowa 
+Barnum, Iowa	iowa 
+Bassett, Iowa	iowa 
+Batavia, Iowa	iowa 
+Battle Creek, Iowa	iowa 
+Baxter, Iowa	iowa 
+Bayard, Iowa	iowa 
+Beacon, Iowa	iowa 
+Beaconsfield, Iowa	iowa 
+Beaman, Iowa	iowa 
+Beaver, Iowa	iowa 
+Bedford, Iowa	iowa 
+Belle Plaine, Iowa	iowa 
+Bellevue, Iowa	iowa 
+Belmond, Iowa	iowa 
+Bennett, Iowa	iowa 
+Benton, Iowa	iowa 
+Berkley, Iowa	iowa 
+Bernard, Iowa	iowa 
+Bertram, Iowa	iowa 
+Berwick, Iowa	iowa 
+Bettendorf, Iowa	iowa 
+Bevington, Iowa	iowa 
+Birmingham, Iowa	iowa 
+Blairsburg, Iowa	iowa 
+Blairstown, Iowa	iowa 
+Blakesburg, Iowa	iowa 
+Blanchard, Iowa	iowa 
+Blencoe, Iowa	iowa 
+Blockton, Iowa	iowa 
+Bloomfield, Iowa	iowa 
+Blue Grass, Iowa	iowa 
+Bode, Iowa	iowa 
+Bonaparte, Iowa	iowa 
+Bondurant, Iowa	iowa 
+Boone, Iowa	iowa 
+Booneville, Iowa	iowa 
+Bouton, Iowa	iowa 
+Boxholm, Iowa	iowa 
+Boyden, Iowa	iowa 
+Braddyville, Iowa	iowa 
+Bradford, Iowa	iowa 
+Bradgate, Iowa	iowa 
+Brandon, Iowa	iowa 
+Brayton, Iowa	iowa 
+Breda, Iowa	iowa 
+Bridgewater, Iowa	iowa 
+Brighton, Iowa	iowa 
+Bristow, Iowa	iowa 
+Britt, Iowa	iowa 
+Bronson, Iowa	iowa 
+Brooklyn, Iowa	iowa 
+Brunsville, Iowa	iowa 
+Buck Grove, Iowa	iowa 
+Buckeye, Iowa	iowa 
+Buffalo Center, Iowa	iowa 
+Buffalo, Iowa	iowa 
+Burt, Iowa	iowa 
+Bussey, Iowa	iowa 
+Calamus, Iowa	iowa 
+Callender, Iowa	iowa 
+Calmar, Iowa	iowa 
+Calumet, Iowa	iowa 
+Camanche, Iowa	iowa 
+Cambridge, Iowa	iowa 
+Cancun	iowa 
+Cantril, Iowa	iowa 
+Carbon, Iowa	iowa 
+Carlisle, Iowa	iowa 
+Carpenter, Iowa	iowa 
+Carroll, Iowa	iowa 
+Carson, Iowa	iowa 
+Carter Lake, Iowa	iowa 
+Cascade, Iowa	iowa 
+Casey, Iowa	iowa 
+Castalia, Iowa	iowa 
+Castana, Iowa	iowa 
+Cedar Falls, Iowa	iowa 
+Center Junction, Iowa	iowa 
+Center Point, Iowa	iowa 
+Centerville, Iowa	iowa 
+Central City, Iowa	iowa 
+Centralia, Iowa	iowa 
+Chariton, Iowa	iowa 
+Charles City, Iowa	iowa 
+Charlotte, Iowa	iowa 
+Charter Oak, Iowa	iowa 
+Chatsworth, Iowa	iowa 
+Chelsea, Iowa	iowa 
+Cherokee, Iowa	iowa 
+Chester, Iowa	iowa 
+Chillicothe, Iowa	iowa 
+Churdan, Iowa	iowa 
+Cincinnati, Iowa	iowa 
+Clare, Iowa	iowa 
+Clarence, Iowa	iowa 
+Clarinda, Iowa	iowa 
+Clarion, Iowa	iowa 
+Clarksville, Iowa	iowa 
+Clayton, Iowa	iowa 
+Clear Lake, Iowa	iowa 
+Clearfield, Iowa	iowa 
+Cleghorn, Iowa	iowa 
+Clemons, Iowa	iowa 
+Clermont, Iowa	iowa 
+Clinton, Iowa	iowa 
+Clio, Iowa	iowa 
+Clive, Iowa	iowa 
+Clutier, Iowa	iowa 
+Coburg, Iowa	iowa 
+Coggon, Iowa	iowa 
+Coin, Iowa	iowa 
+Colesburg, Iowa	iowa 
+Colfax, Iowa	iowa 
+College Springs, Iowa	iowa 
+Collins, Iowa	iowa 
+Colo, Iowa	iowa 
+Columbus City, Iowa	iowa 
+Columbus Junction, Iowa	iowa 
+Colwell, Iowa	iowa 
+Conesville, Iowa	iowa 
+Conrad, Iowa	iowa 
+Conway, Iowa	iowa 
+Coon Rapids, Iowa	iowa 
+Coppock, Iowa	iowa 
+Coralville, Iowa	iowa 
+Corning, Iowa	iowa 
+Correctionville, Iowa	iowa 
+Corwith, Iowa	iowa 
+Corydon, Iowa	iowa 
+Cotter, Iowa	iowa 
+Coulter, Iowa	iowa 
+Council Bluffs, Iowa	iowa 
+Craig, Iowa	iowa 
+Crawfordsville, Iowa	iowa 
+Crescent, Iowa	iowa 
+Cresco, Iowa	iowa 
+Cromwell, Iowa	iowa 
+Crystal Lake, Iowa	iowa 
+Cumberland, Iowa	iowa 
+Cumming, Iowa	iowa 
+Curlew, Iowa	iowa 
+Cushing, Iowa	iowa 
+Cylinder, Iowa	iowa 
+Dakota City, Iowa	iowa 
+Dallas Center, Iowa	iowa 
+Dana, Iowa	iowa 
+Danbury, Iowa	iowa 
+Danville, Iowa	iowa 
+Davenport, Iowa	iowa 
+Davis City, Iowa	iowa 
+Dawson, Iowa	iowa 
+Dayton, Iowa	iowa 
+De Soto, Iowa	iowa 
+De Witt, Iowa	iowa 
+Decatur City, Iowa	iowa 
+Decorah, Iowa	iowa 
+Dedham, Iowa	iowa 
+Deep River, Iowa	iowa 
+Defiance, Iowa	iowa 
+Delaware, Iowa	iowa 
+Delhi, Iowa	iowa 
+Delmar, Iowa	iowa 
+Deloit, Iowa	iowa 
+Delphos, Iowa	iowa 
+Delta, Iowa	iowa 
+Denison, Iowa	iowa 
+Denver, Iowa	iowa 
+Derby, Iowa	iowa 
+Dexter, Iowa	iowa 
+Diagonal, Iowa	iowa 
+Dickens, Iowa	iowa 
+Dike, Iowa	iowa 
+Dixon, Iowa	iowa 
+Dolliver, Iowa	iowa 
+Donahue, Iowa	iowa 
+Donnellson, Iowa	iowa 
+Doon, Iowa	iowa 
+Dougherty, Iowa	iowa 
+Dow City, Iowa	iowa 
+Dows, Iowa	iowa 
+Drakesville, Iowa	iowa 
+Dubuque, Iowa	iowa 
+Dumont, Iowa	iowa 
+Duncombe, Iowa	iowa 
+Dundee, Iowa	iowa 
+Dunkerton, Iowa	iowa 
+Dunlap, Iowa	iowa 
+Durango, Iowa	iowa 
+Durant, Iowa	iowa 
+Dyersville, Iowa	iowa 
+Dysart, Iowa	iowa 
+Eagle Grove, Iowa	iowa 
+Earlham, Iowa	iowa 
+Earling, Iowa	iowa 
+Earlville, Iowa	iowa 
+Early, Iowa	iowa 
+East Peru, Iowa	iowa 
+Eddyville, Iowa	iowa 
+Edgewood, Iowa	iowa 
+Elberon, Iowa	iowa 
+Eldon, Iowa	iowa 
+Eldora, Iowa	iowa 
+Eldridge, Iowa	iowa 
+Elgin, Iowa	iowa 
+Elk Horn, Iowa	iowa 
+Elk Run Heights, Iowa	iowa 
+Elkader, Iowa	iowa 
+Elkhart, Iowa	iowa 
+Elkport, Iowa	iowa 
+Elliott, Iowa	iowa 
+Ellston, Iowa	iowa 
+Ellsworth, Iowa	iowa 
+Elma, Iowa	iowa 
+Elvira, Iowa	iowa 
+Ely, Iowa	iowa 
+Emerson, Iowa	iowa 
+Emmetsburg, Iowa	iowa 
+Epworth, Iowa	iowa 
+Essex, Iowa	iowa 
+Estherville, Iowa	iowa 
+Evansdale, Iowa	iowa 
+Everly, Iowa	iowa 
+Exira, Iowa	iowa 
+Exline, Iowa	iowa 
+Fairbank, Iowa	iowa 
+Fairfax, Iowa	iowa 
+Fairfield, Iowa	iowa 
+Farley, Iowa	iowa 
+Farmersburg, Iowa	iowa 
+Farmington, Iowa	iowa 
+Farnhamville, Iowa	iowa 
+Farragut, Iowa	iowa 
+Fayette, Iowa	iowa 
+Fenton, Iowa	iowa 
+Ferguson, Iowa	iowa 
+Fertile, Iowa	iowa 
+Floris, Iowa	iowa 
+Floyd, Iowa	iowa 
+Fonda, Iowa	iowa 
+Fontanelle, Iowa	iowa 
+Forest City, Iowa	iowa 
+Fort Atkinson, Iowa	iowa 
+Fort Dodge, Iowa	iowa 
+Fort Madison, Iowa	iowa 
+Fostoria, Iowa	iowa 
+Franklin, Iowa	iowa 
+Fraser, Iowa	iowa 
+Fredericksburg, Iowa	iowa 
+Frederika, Iowa	iowa 
+Fredonia, Iowa	iowa 
+Fremont, Iowa	iowa 
+Fruitland, Iowa	iowa 
+Galt, Iowa	iowa 
+Galva, Iowa	iowa 
+Garber, Iowa	iowa 
+Garden Grove, Iowa	iowa 
+Garnavillo, Iowa	iowa 
+Garner, Iowa	iowa 
+Garrison, Iowa	iowa 
+Garwin, Iowa	iowa 
+Geneva, Iowa	iowa 
+George, Iowa	iowa 
+Gibson, Iowa	iowa 
+Gilbert, Iowa	iowa 
+Gilbertville, Iowa	iowa 
+Gillett Grove, Iowa	iowa 
+Gilman, Iowa	iowa 
+Gilmore City, Iowa	iowa 
+Gladbrook, Iowa	iowa 
+Glenwood, Iowa	iowa 
+Glidden, Iowa	iowa 
+Goldfield, Iowa	iowa 
+Goodell, Iowa	iowa 
+Goose Lake, Iowa	iowa 
+Gowrie, Iowa	iowa 
+Graettinger, Iowa	iowa 
+Graf, Iowa	iowa 
+Grafton, Iowa	iowa 
+Grand Junction, Iowa	iowa 
+Grand Mound, Iowa	iowa 
+Grand River, Iowa	iowa 
+Grandview, Iowa	iowa 
+Granger, Iowa	iowa 
+Grant, Iowa	iowa 
+Granville, Iowa	iowa 
+Gravity, Iowa	iowa 
+Gray, Iowa	iowa 
+Greeley, Iowa	iowa 
+Greene, Iowa	iowa 
+Greenfield, Iowa	iowa 
+Greenville, Iowa	iowa 
+Grimes, Iowa	iowa 
+Grinnell, Iowa	iowa 
+Griswold, Iowa	iowa 
+Grundy Center, Iowa	iowa 
+Gruver, Iowa	iowa 
+Guernsey, Iowa	iowa 
+Guthrie Center, Iowa	iowa 
+Guttenberg, Iowa	iowa 
+Halbur, Iowa	iowa 
+Hamburg, Iowa	iowa 
+Hamilton, Iowa	iowa 
+Hampton, Iowa	iowa 
+Hancock, Iowa	iowa 
+Hanlontown, Iowa	iowa 
+Hansell, Iowa	iowa 
+Harcourt, Iowa	iowa 
+Hardy, Iowa	iowa 
+Harlan, Iowa	iowa 
+Harper, Iowa	iowa 
+Harpers Ferry, Iowa	iowa 
+Harris, Iowa	iowa 
+Hartford, Iowa	iowa 
+Hartley, Iowa	iowa 
+Hartwick, Iowa	iowa 
+Harvey, Iowa	iowa 
+Hastings, Iowa	iowa 
+Havelock, Iowa	iowa 
+Haverhill, Iowa	iowa 
+Hawarden, Iowa	iowa 
+Hawkeye, Iowa	iowa 
+Hayesville, Iowa	iowa 
+Hazleton, Iowa	iowa 
+Hedrick, Iowa	iowa 
+Henderson, Iowa	iowa 
+Hepburn, Iowa	iowa 
+Hiawatha, Iowa	iowa 
+Hills, Iowa	iowa 
+Hillsboro, Iowa	iowa 
+Hinton, Iowa	iowa 
+Holland, Iowa	iowa 
+Holstein, Iowa	iowa 
+Holy Cross, Iowa	iowa 
+Hopkinton, Iowa	iowa 
+Hornick, Iowa	iowa 
+Hospers, Iowa	iowa 
+Houghton, Iowa	iowa 
+Hubbard, Iowa	iowa 
+Hudson, Iowa	iowa 
+Hull, Iowa	iowa 
+Humboldt, Iowa	iowa 
+Humeston, Iowa	iowa 
+Huxley, Iowa	iowa 
+Ida Grove, Iowa	iowa 
+Imogene, Iowa	iowa 
+Independence, Iowa	iowa 
+Indianola, Iowa	iowa 
+Inwood, Iowa	iowa 
+Ionia, Iowa	iowa 
+Iowa City, Iowa	iowa 
+Iowa Falls, Iowa	iowa 
+Ireton, Iowa	iowa 
+Irwin, Iowa	iowa 
+Jackson Junction, Iowa	iowa 
+Jamaica, Iowa	iowa 
+Janesville, Iowa	iowa 
+Jefferson, Iowa	iowa 
+Jesup, Iowa	iowa 
+Jewell Junction, Iowa	iowa 
+Johnston, Iowa	iowa 
+Joice, Iowa	iowa 
+Jolley, Iowa	iowa 
+Kalona, Iowa	iowa 
+Kamrar, Iowa	iowa 
+Kanawha, Iowa	iowa 
+Kellerton, Iowa	iowa 
+Kelley, Iowa	iowa 
+Kellogg, Iowa	iowa 
+Kensett, Iowa	iowa 
+Kent, Iowa	iowa 
+Keokuk, Iowa	iowa 
+Keomah Village, Iowa	iowa 
+Keosauqua, Iowa	iowa 
+Keota, Iowa	iowa 
+Keswick, Iowa	iowa 
+Keystone, Iowa	iowa 
+Kimballton, Iowa	iowa 
+Kingsley, Iowa	iowa 
+Kinross, Iowa	iowa 
+Kirkman, Iowa	iowa 
+Kirkville, Iowa	iowa 
+Kiron, Iowa	iowa 
+Klemme, Iowa	iowa 
+Knierim, Iowa	iowa 
+Knoxville, Iowa	iowa 
+La Motte, Iowa	iowa 
+La Porte City, Iowa	iowa 
+Lacona, Iowa	iowa 
+Ladora, Iowa	iowa 
+Lake City, Iowa	iowa 
+Lake Mills, Iowa	iowa 
+Lake Park, Iowa	iowa 
+Lake View, Iowa	iowa 
+Lakeside, Iowa	iowa 
+Lakota, Iowa	iowa 
+Lambs Grove, Iowa	iowa 
+Lamoni, Iowa	iowa 
+Lamont, Iowa	iowa 
+Lanesboro, Iowa	iowa 
+Lansing, Iowa	iowa 
+Larchwood, Iowa	iowa 
+Larrabee, Iowa	iowa 
+Latimer, Iowa	iowa 
+Laurel, Iowa	iowa 
+Laurens, Iowa	iowa 
+Lawler, Iowa	iowa 
+Lawton, Iowa	iowa 
+Le Claire, Iowa	iowa 
+Le Grand, Iowa	iowa 
+Le Mars, Iowa	iowa 
+Le Roy, Iowa	iowa 
+Ledyard, Iowa	iowa 
+Lehigh, Iowa	iowa 
+Leighton, Iowa	iowa 
+Leland, Iowa	iowa 
+Lenox, Iowa	iowa 
+Leon, Iowa	iowa 
+Lester, Iowa	iowa 
+Letts, Iowa	iowa 
+Lewis, Iowa	iowa 
+Libertyville, Iowa	iowa 
+Lidderdale, Iowa	iowa 
+Lime Springs, Iowa	iowa 
+Lincoln, Iowa	iowa 
+Linden, Iowa	iowa 
+Lineville, Iowa	iowa 
+Linn Grove, Iowa	iowa 
+Lisbon, Iowa	iowa 
+Liscomb, Iowa	iowa 
+Little Rock, Iowa	iowa 
+Little Sioux, Iowa	iowa 
+Littleport, Iowa	iowa 
+Livermore, Iowa	iowa 
+Lockridge, Iowa	iowa 
+Logan, Iowa	iowa 
+Lohrville, Iowa	iowa 
+Lone Rock, Iowa	iowa 
+Lone Tree, Iowa	iowa 
+Long Grove, Iowa	iowa 
+Lorimor, Iowa	iowa 
+Lost Nation, Iowa	iowa 
+Lovilia, Iowa	iowa 
+Low Moor, Iowa	iowa 
+Lowden, Iowa	iowa 
+Lu Verne, Iowa	iowa 
+Luana, Iowa	iowa 
+Lucas, Iowa	iowa 
+Luther, Iowa	iowa 
+Luxemburg, Iowa	iowa 
+Luzerne, Iowa	iowa 
+Lynnville, Iowa	iowa 
+Lytton, Iowa	iowa 
+Macedonia, Iowa	iowa 
+Macksburg, Iowa	iowa 
+Madrid, Iowa	iowa 
+Magnolia, Iowa	iowa 
+Malcom, Iowa	iowa 
+Mallard, Iowa	iowa 
+Maloy, Iowa	iowa 
+Malvern, Iowa	iowa 
+Manchester, Iowa	iowa 
+Manilla, Iowa	iowa 
+Manly, Iowa	iowa 
+Manning, Iowa	iowa 
+Manson, Iowa	iowa 
+Mapleton, Iowa	iowa 
+Maquoketa, Iowa	iowa 
+Marathon, Iowa	iowa 
+Marble Rock, Iowa	iowa 
+Marcus, Iowa	iowa 
+Marengo, Iowa	iowa 
+Marion, Iowa	iowa 
+Marne, Iowa	iowa 
+Marquette, Iowa	iowa 
+Marshalltown, Iowa	iowa 
+Martelle, Iowa	iowa 
+Martensdale, Iowa	iowa 
+Martinsburg, Iowa	iowa 
+Marysville, Iowa	iowa 
+Mason City, Iowa	iowa 
+Masonville, Iowa	iowa 
+Massena, Iowa	iowa 
+Matlock, Iowa	iowa 
+Maurice, Iowa	iowa 
+Maxwell, Iowa	iowa 
+Maynard, Iowa	iowa 
+Maysville, Iowa	iowa 
+McCallsburg, Iowa	iowa 
+McCausland, Iowa	iowa 
+McClelland, Iowa	iowa 
+Dildo, Newfoundland and Labrador	dildo 
+Socorro, New Mexico	socorro county 
+Socorro, Texas	el paso county 
+Abbotsford, Wisconsin	clark 
+Needville, Texas	fort bend county 
+Abbott, Texas	hill county 
+Blum, Texas	hill county 
+Bynum, Texas	hill county 
+Malone, Texas	hill county 
+Bee Cave, Texas	travis county 
+Clear Creek, Wisconsin	eau claire county 
+McGregor, Iowa	iowa 
+McIntire, Iowa	iowa 
+Mechanicsville, Iowa	iowa 
+Mediapolis, Iowa	iowa 
+Melbourne, Iowa	iowa 
+Melcher-Dallas, Iowa	iowa 
+Melrose, Iowa	iowa 
+Melvin, Iowa	iowa 
+Menlo, Iowa	iowa 
+Meriden, Iowa	iowa 
+Merrill, Iowa	iowa 
+Meservey, Iowa	iowa 
+Middletown, Iowa	iowa 
+Miles, Iowa	iowa 
+Milford, Iowa	iowa 
+Millersburg, Iowa	iowa 
+Millerton, Iowa	iowa 
+Millville, Iowa	iowa 
+Milo, Iowa	iowa 
+Milton, Iowa	iowa 
+Minburn, Iowa	iowa 
+Minden, Iowa	iowa 
+Mingo, Iowa	iowa 
+Missouri Valley, Iowa	iowa 
+Mitchell, Iowa	iowa 
+Mitchellville, Iowa	iowa 
+Modale, Iowa	iowa 
+Mondamin, Iowa	iowa 
+Monmouth, Iowa	iowa 
+Monona, Iowa	iowa 
+Monroe, Iowa	iowa 
+Montezuma, Iowa	iowa 
+Monticello, Iowa	iowa 
+Montour, Iowa	iowa 
+Montrose, Iowa	iowa 
+Moorhead, Iowa	iowa 
+Moorland, Iowa	iowa 
+Moravia, Iowa	iowa 
+Morley, Iowa	iowa 
+Morning Sun, Iowa	iowa 
+Morrison, Iowa	iowa 
+Moulton, Iowa	iowa 
+Mount Auburn, Iowa	iowa 
+Mount Ayr, Iowa	iowa 
+Mount Pleasant, Iowa	iowa 
+Mount Sterling, Iowa	iowa 
+Mount Union, Iowa	iowa 
+Mount Vernon, Iowa	iowa 
+Moville, Iowa	iowa 
+Murray, Iowa	iowa 
+Mystic, Iowa	iowa 
+Nashua, Iowa	iowa 
+Nemaha, Iowa	iowa 
+Neola, Iowa	iowa 
+Nevada, Iowa	iowa 
+New Albin, Iowa	iowa 
+New Hampton, Iowa	iowa 
+New Hartford, Iowa	iowa 
+New Liberty, Iowa	iowa 
+New London, Iowa	iowa 
+New Market, Iowa	iowa 
+New Providence, Iowa	iowa 
+New Sharon, Iowa	iowa 
+New Vienna, Iowa	iowa 
+New Virginia, Iowa	iowa 
+Newell, Iowa	iowa 
+Newhall, Iowa	iowa 
+Newton, Iowa	iowa 
+Nichols, Iowa	iowa 
+Nodaway, Iowa	iowa 
+Nora Springs, Iowa	iowa 
+North Buena Vista, Iowa	iowa 
+North English, Iowa	iowa 
+North Liberty, Iowa	iowa 
+North Washington, Iowa	iowa 
+Northboro, Iowa	iowa 
+Northwood, Iowa	iowa 
+Norwalk, Iowa	iowa 
+Norway, Iowa	iowa 
+Numa, Iowa	iowa 
+Oakland, Iowa	iowa 
+Oakland Acres, Iowa	iowa 
+Oakville, Iowa	iowa 
+Ocheyedan, Iowa	iowa 
+Odebolt, Iowa	iowa 
+Oelwein, Iowa	iowa 
+Ogden, Iowa	iowa 
+Okoboji, Iowa	iowa 
+Olds, Iowa	iowa 
+Olin, Iowa	iowa 
+Ollie, Iowa	iowa 
+Onawa, Iowa	iowa 
+Onslow, Iowa	iowa 
+Orange City, Iowa	iowa 
+Orchard, Iowa	iowa 
+Orient, Iowa	iowa 
+Orleans, Iowa	iowa 
+Osage, Iowa	iowa 
+Osceola, Iowa	iowa 
+Oskaloosa, Iowa	iowa 
+Ossian, Iowa	iowa 
+Osterdock, Iowa	iowa 
+Otho, Iowa	iowa 
+Oto, Iowa	iowa 
+Ottosen, Iowa	iowa 
+Ottumwa, Iowa	iowa 
+Owasa, Iowa	iowa 
+Oxford, Iowa	iowa 
+Oxford Junction, Iowa	iowa 
+Oyens, Iowa	iowa 
+Pacific Junction, Iowa	iowa 
+Packwood, Iowa	iowa 
+Palmer, Iowa	iowa 
+Palo, Iowa	iowa 
+Panama, Iowa	iowa 
+Panora, Iowa	iowa 
+Panorama Park, Iowa	iowa 
+Parkersburg, Iowa	iowa 
+Parnell, Iowa	iowa 
+Paton, Iowa	iowa 
+Patterson, Iowa	iowa 
+Paullina, Iowa	iowa 
+Pella, Iowa	iowa 
+Peosta, Iowa	iowa 
+Perry, Iowa	iowa 
+Persia, Iowa	iowa 
+Peterson, Iowa	iowa 
+Pierson, Iowa	iowa 
+Pilot Mound, Iowa	iowa 
+Pioneer, Iowa	iowa 
+Pisgah, Iowa	iowa 
+Plainfield, Iowa	iowa 
+Plano, Iowa	iowa 
+Pleasant Hill, Iowa	iowa 
+Pleasant Plain, Iowa	iowa 
+Pleasanton, Iowa	iowa 
+Pleasantville, Iowa	iowa 
+Plover, Iowa	iowa 
+Plymouth, Iowa	iowa 
+Pocahontas, Iowa	iowa 
+Polk City, Iowa	iowa 
+Pomeroy, Iowa	iowa 
+Popejoy, Iowa	iowa 
+Portsmouth, Iowa	iowa 
+Postville, Iowa	iowa 
+Prairie City, Iowa	iowa 
+Prairieburg, Iowa	iowa 
+Prescott, Iowa	iowa 
+Preston, Iowa	iowa 
+Primghar, Iowa	iowa 
+Princeton, Iowa	iowa 
+Promise City, Iowa	iowa 
+Protivin, Iowa	iowa 
+Pulaski, Iowa	iowa 
+Quasqueton, Iowa	iowa 
+Quimby, Iowa	iowa 
+Radcliffe, Iowa	iowa 
+Rake, Iowa	iowa 
+Ralston, Iowa	iowa 
+Randalia, Iowa	iowa 
+Randall, Iowa	iowa 
+Randolph, Iowa	iowa 
+Rathbun, Iowa	iowa 
+Raymond, Iowa	iowa 
+Readlyn, Iowa	iowa 
+Reasnor, Iowa	iowa 
+Red Oak, Iowa	iowa 
+Redding, Iowa	iowa 
+Redfield, Iowa	iowa 
+Reinbeck, Iowa	iowa 
+Rembrandt, Iowa	iowa 
+Remsen, Iowa	iowa 
+Renwick, Iowa	iowa 
+Rhodes, Iowa	iowa 
+Riceville, Iowa	iowa 
+Richland, Iowa	iowa 
+Rickardsville, Iowa	iowa 
+Ricketts, Iowa	iowa 
+Ridgeway, Iowa	iowa 
+Rinard, Iowa	iowa 
+Ringsted, Iowa	iowa 
+Rippey, Iowa	iowa 
+Riverdale, Iowa	iowa 
+Riverside, Iowa	iowa 
+Riverton, Iowa	iowa 
+Robins, Iowa	iowa 
+Rock Falls, Iowa	iowa 
+Rock Rapids, Iowa	iowa 
+Rock Valley, Iowa	iowa 
+Rockford, Iowa	iowa 
+Rockwell, Iowa	iowa 
+Rockwell City, Iowa	iowa 
+Rodman, Iowa	iowa 
+Rodney, Iowa	iowa 
+Roland, Iowa	iowa 
+Rolfe, Iowa	iowa 
+Rome, Iowa	iowa 
+Rose Hill, Iowa	iowa 
+Rossie, Iowa	iowa 
+Rowan, Iowa	iowa 
+Rowley, Iowa	iowa 
+Royal, Iowa	iowa 
+Rudd, Iowa	iowa 
+Runnells, Iowa	iowa 
+Rushville, Iowa	iowa 
+Russell, Iowa	iowa 
+Ruthven, Iowa	iowa 
+Rutland, Iowa	iowa 
+Ryan, Iowa	iowa 
+Sabula, Iowa	iowa 
+Sac City, Iowa	iowa 
+Sageville, Iowa	iowa 
+Salem, Iowa	iowa 
+Salix, Iowa	iowa 
+Sanborn, Iowa	iowa 
+Sandyville, Iowa	iowa 
+Scarville, Iowa	iowa 
+Schaller, Iowa	iowa 
+Schleswig, Iowa	iowa 
+Scranton, Iowa	iowa 
+Searsboro, Iowa	iowa 
+Sergeant Bluff, Iowa	iowa 
+Seymour, Iowa	iowa 
+Shambaugh, Iowa	iowa 
+Shannon City, Iowa	iowa 
+Sharpsburg, Iowa	iowa 
+Sheffield, Iowa	iowa 
+Shelby, Iowa	iowa 
+Sheldahl, Iowa	iowa 
+Sheldon, Iowa	iowa 
+Shell Rock, Iowa	iowa 
+Shellsburg, Iowa	iowa 
+Shenandoah, Iowa	iowa 
+Sherrill, Iowa	iowa 
+Shueyville, Iowa	iowa 
+Sibley, Iowa	iowa 
+Sidney, Iowa	iowa 
+Sigourney, Iowa	iowa 
+Silver City, Iowa	iowa 
+Sioux Center, Iowa	iowa 
+Sioux City, Iowa	iowa 
+Sioux Rapids, Iowa	iowa 
+Slater, Iowa	iowa 
+Sloan, Iowa	iowa 
+Smithland, Iowa	iowa 
+Soldier, Iowa	iowa 
+Solon, Iowa	iowa 
+Somers, Iowa	iowa 
+South English, Iowa	iowa 
+Spencer, Iowa	iowa 
+Spillville, Iowa	iowa 
+Spirit Lake, Iowa	iowa 
+Spragueville, Iowa	iowa 
+Spring Hill, Iowa	iowa 
+Springbrook, Iowa	iowa 
+Springville, Iowa	iowa 
+St. Ansgar, Iowa	iowa 
+St. Anthony, Iowa	iowa 
+St. Charles, Iowa	iowa 
+St. Donatus, Iowa	iowa 
+St. Lucas, Iowa	iowa 
+St. Marys, Iowa	iowa 
+St. Olaf, Iowa	iowa 
+St. Paul, Iowa	iowa 
+Stacyville, Iowa	iowa 
+Stanhope, Iowa	iowa 
+Stanton, Iowa	iowa 
+Stanwood, Iowa	iowa 
+State Center, Iowa	iowa 
+Steamboat Rock, Iowa	iowa 
+Addison, Texas	dallas county 
+Sudbury, Massachusetts	middlesex county 
+Belleville, Ontario	ontario 
+Bra?ov	bra?ov county 
+British Rail Class 482	london underground 
+First Bulgarian Empire	ad 
+Kingdom of Hungary	central europe 
+Ia?i	romania 
+Kingdom of Romania	march 
+Bessarabia	eastern europe 
+Dobruja	bulgaria 
+LNER electric units	newcastle 
+Duchy of Courland and Semigallia	courland 
+Second Polish Republic	wwi 
+Kirkby Lonsdale	cumbria 
+Hippolytushoef	north holland 
+President of Romania	romania 
+Gala?i	romania 
+Bran Castle	bra?ov 
+Timi?oara	banat 
+Br?ila	muntenia 
+Chesterfield tramway	chesterfield 
+Derby Tramways	derby 
+Ballan, Victoria	victoria 
+Ephesus	ephesus 
+Bredevoort	aalten 
+Plze?	republic 
+CrossCountry	november 
+Pardubice	republic 
+London Paddington station	london 
+Virgin Group	sir richard branson 
+A Weekend in the City	bloc party 
+Flagstaff, Arizona	arizona 
+Eugene, Oregon	oregon 
+Bivona	province 
+Katonah, New York	bedford 
+Kingdom of Poland (1916-1918)	empire 
+Coimbra	portugal 
+Corrientes	argentina 
+Gosford, New South Wales	central coast 
+Airlie Beach, Queensland	whitsunday region 
+Mossman, Queensland	queensland 
+Greater Curitiba	curitiba 
+Galician Soviet Socialist Republic	south-western 
+Polish Underground State	poland 

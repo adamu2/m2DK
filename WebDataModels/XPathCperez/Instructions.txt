@@ -1,0 +1,20 @@
+CONTENTS
+
+-Source code included as reference. 
+-Executable jar of the project.
+
+HOW TO EXECUTE
+
+Execute the jar included in the command line console as shown below.
+
+sudo java -jar xpath_cperez.jar <full path input file> <full path queries file>
+
+Example:
+
+sudo java -jar xpath_cperez.jar ~/Desktop/input.txt ~/Desktop/queries.txt
+
+Result
+
+Creation of files starting with hour minute second and then query number
+beign the number of the line the query was in for example
+105942query_1.out.
